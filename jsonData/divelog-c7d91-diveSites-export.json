@@ -1,0 +1,2167 @@
+{
+  "FMW2b1HaFwPL7kJGWWPmZG7e9nW2" : {
+    "-KaUNPoPOxfTYOyQqPra" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUQaJYa6zRvxAAdX" : true
+      },
+      "diveSiteName" : "18 Palms",
+      "diveSiteUid" : "-KaUNPoPOxfTYOyQqPra",
+      "state" : "[Any State]"
+    },
+    "-KaUNPolcvafXwDKFILe" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUZmoW0ccFsVlJAR" : true,
+        "-KcEZ6A4eHF0vAjWyKsH" : true
+      },
+      "diveSiteName" : "3 Anchors",
+      "diveSiteUid" : "-KaUNPolcvafXwDKFILe",
+      "state" : "Hawaii"
+    },
+    "-KaUNPon12KnDnV78Kmn" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUQxG2V_fL1kOjY1" : true,
+        "-KaUXURyoMWWFl3Sx01t" : true
+      },
+      "diveSiteName" : "5 Caves",
+      "diveSiteUid" : "-KaUNPon12KnDnV78Kmn",
+      "state" : "Hawaii"
+    },
+    "-KaUNPop0Qh4kRKYR0lr" : {
+      "area" : "Aitutake",
+      "country" : "Cook Islands",
+      "diveLogs" : {
+        "-KaUXUN0r9oP3kuJTj6_" : true
+      },
+      "diveSiteName" : "Aitutake",
+      "diveSiteUid" : "-KaUNPop0Qh4kRKYR0lr",
+      "state" : "[Any State]"
+    },
+    "-KaUNPori4DXRI8xe-Lh" : {
+      "area" : "Puget Sound",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUL9Dn2Gkb4qUm5n" : true
+      },
+      "diveSiteName" : "Alki (snorkel)",
+      "diveSiteUid" : "-KaUNPori4DXRI8xe-Lh",
+      "state" : "Washington"
+    },
+    "-KaUNPosnXdVBRsHP26Y" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUOYeEHK8TW67DQL" : true
+      },
+      "diveSiteName" : "Andy's Wall",
+      "diveSiteUid" : "-KaUNPosnXdVBRsHP26Y",
+      "state" : "[Any State]"
+    },
+    "-KaUNPoug5Y9wz9SCBT7" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUPgOTLPEJxfilHK" : true
+      },
+      "diveSiteName" : "Angel City",
+      "diveSiteUid" : "-KaUNPoug5Y9wz9SCBT7",
+      "state" : "[Any State]"
+    },
+    "-KaUNPowJFBVv3Vy4QC4" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KaUXUYqd4o_DQPGdaak" : true
+      },
+      "diveSiteName" : "Annie's Place",
+      "diveSiteUid" : "-KaUNPowJFBVv3Vy4QC4",
+      "state" : "[Any State]"
+    },
+    "-KaUNPoz3rParakRp2ul" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUNdDwpWMkDEisFg" : true
+      },
+      "diveSiteName" : "Aquarium",
+      "diveSiteUid" : "-KaUNPoz3rParakRp2ul",
+      "state" : "[Any State]"
+    },
+    "-KaUNPp0ZSfT2C7F3lEL" : {
+      "area" : "Rarotonga",
+      "country" : "Cook Islands",
+      "diveLogs" : {
+        "-KaUXUMg2BSir1bKd-Ax" : true,
+        "-KaUXUMrhBEcOL5d3_xz" : true
+      },
+      "diveSiteName" : "White River",
+      "diveSiteUid" : "-KaUNPp0ZSfT2C7F3lEL",
+      "state" : "[Any State]"
+    },
+    "-KaUNPp1I8jsAmmTqk3y" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUPYroWCaYU8qAmi" : true
+      },
+      "diveSiteName" : "Barcadera",
+      "diveSiteUid" : "-KaUNPp1I8jsAmmTqk3y",
+      "state" : "[Any State]"
+    },
+    "-KaUNPp4A5naloCqWJ4B" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUP9nJ-PwKd075Pi" : true,
+        "-KaUXUPoXH2HhdHgVorh" : true,
+        "-KaUXUPwSQlNRDdbaBGr" : true,
+        "-KaUXUQJoGIfhXiIVMDi" : true
+      },
+      "diveSiteName" : "Bari Reef",
+      "diveSiteUid" : "-KaUNPp4A5naloCqWJ4B",
+      "state" : "[Any State]"
+    },
+    "-KaUNPp5GsiEExKpQozK" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUWViiQp7_GnqYjB" : true
+      },
+      "diveSiteName" : "Barnum Wall",
+      "diveSiteUid" : "-KaUNPp5GsiEExKpQozK",
+      "state" : "[Any State]"
+    },
+    "-KaUNPp7YEcxl1Vx8yT3" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUVc73FAzk2c8wb7" : true,
+        "-KaUXUWxZu2f_q-RrRIO" : true
+      },
+      "diveSiteName" : "Big Drop-off",
+      "diveSiteUid" : "-KaUNPp7YEcxl1Vx8yT3",
+      "state" : "[Any State]"
+    },
+    "-KaUNPp8Kyz_z6uZ6LQh" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUOBBLQCtJpJROBj" : true
+      },
+      "diveSiteName" : "Black Forest",
+      "diveSiteUid" : "-KaUNPp8Kyz_z6uZ6LQh",
+      "state" : "[Any State]"
+    },
+    "-KaUNPp9CDxblYOyHasM" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUUzI7PUKQUi8n1h" : true,
+        "-KaUXUV6xDj3oDj_YIYs" : true,
+        "-KaUXUWB0TdhdQc0aabK" : true,
+        "-KaUXUXZB4IyGQvfDcbg" : true,
+        "-KaVDL5YBmdKkySaowLh" : true
+      },
+      "diveSiteName" : "Blue Corner",
+      "diveSiteUid" : "-KaUNPp9CDxblYOyHasM",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpANu2PDQDuI9lD" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUXQeSZWkfl3MucE" : true,
+        "-KaUXUXv_V2-0Yc-8tmT" : true
+      },
+      "diveSiteName" : "Blue Holes",
+      "diveSiteUid" : "-KaUNPpANu2PDQDuI9lD",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpBULPFC44xw_R0" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUVCj5eCiWEwJa48" : true,
+        "-KaUXUWIks-HFcppz_KX" : true
+      },
+      "diveSiteName" : "Blue Holes - Blue Corner",
+      "diveSiteUid" : "-KaUNPpBULPFC44xw_R0",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpDM9fOpIAukxT2" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUNxqk9z8t9SIi1Z" : true
+      },
+      "diveSiteName" : "Carib. Sand Chute",
+      "diveSiteUid" : "-KaUNPpDM9fOpIAukxT2",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpEiVDeEOekCQfi" : {
+      "area" : "Lanai",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXURCxDNXmA-3khtB" : true
+      },
+      "diveSiteName" : "Cathedrals",
+      "diveSiteUid" : "-KaUNPpEiVDeEOekCQfi",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpEiVDeEOekCQfj" : {
+      "area" : "Hoodsport",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXULax1vxoxj3zYVK" : true
+      },
+      "diveSiteName" : "Certification Dive 1",
+      "diveSiteUid" : "-KaUNPpEiVDeEOekCQfj",
+      "state" : "Washington"
+    },
+    "-KaUNPpF1hyPnLh1wV6y" : {
+      "area" : "Hoodsport",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXULjYvGTOQ0HJISN" : true
+      },
+      "diveSiteName" : "Certification Dive 2",
+      "diveSiteUid" : "-KaUNPpF1hyPnLh1wV6y",
+      "state" : "Washington"
+    },
+    "-KaUNPpGoYlDNMbFFshb" : {
+      "area" : "Hoodsport",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXULssVkgw_nuoMjh" : true
+      },
+      "diveSiteName" : "Certification Dive 3",
+      "diveSiteUid" : "-KaUNPpGoYlDNMbFFshb",
+      "state" : "Washington"
+    },
+    "-KaUNPpI53rQTl10JKPN" : {
+      "area" : "Hoodsport",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUM-Ip9wEGCv3NLk" : true
+      },
+      "diveSiteName" : "Certification Dive 4",
+      "diveSiteUid" : "-KaUNPpI53rQTl10JKPN",
+      "state" : "Washington"
+    },
+    "-KaUNPpJlQEg4TiYTrzR" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUVkKQ9lHkdYznQq" : true
+      },
+      "diveSiteName" : "Chandelier Cave",
+      "diveSiteUid" : "-KaUNPpJlQEg4TiYTrzR",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpJlQEg4TiYTrzS" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUOK5hg17dblgMBn" : true
+      },
+      "diveSiteName" : "Cheeseburger Alley",
+      "diveSiteUid" : "-KaUNPpJlQEg4TiYTrzS",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpK6oFZkL_gxGWP" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KaUXUYcrqUZgf-4tYeB" : true
+      },
+      "diveSiteName" : "Chimney",
+      "diveSiteUid" : "-KaUNPpK6oFZkL_gxGWP",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpL2LdbgdyrPn_0" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUTr-l2CeCCGlRTq" : true
+      },
+      "diveSiteName" : "Christmas Tree Corals",
+      "diveSiteUid" : "-KaUNPpL2LdbgdyrPn_0",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpNnJxvsMGUiXjG" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUQi71GwtSHKW0cz" : true
+      },
+      "diveSiteName" : "Cliff",
+      "diveSiteUid" : "-KaUNPpNnJxvsMGUiXjG",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpOixyJdwXXmO6v" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUSCI6ObjsJoZ2gz" : true
+      },
+      "diveSiteName" : "Deer Valley",
+      "diveSiteUid" : "-KaUNPpOixyJdwXXmO6v",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpSP4dztkaqFBUQ" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KaUXUYO5HvtJwdDO8uE" : true
+      },
+      "diveSiteName" : "Dos Cocos",
+      "diveSiteUid" : "-KaUNPpSP4dztkaqFBUQ",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpUgVC4HfvAR2Q7" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUMNgJ6bVmy6CWZ8" : true
+      },
+      "diveSiteName" : "Driftwood",
+      "diveSiteUid" : "-KaUNPpUgVC4HfvAR2Q7",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpVi9kxHaOKMko3" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUORtKHg4dt8-m6j" : true
+      },
+      "diveSiteName" : "Eagle Ray Pass",
+      "diveSiteUid" : "-KaUNPpVi9kxHaOKMko3",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpW3wx56dAmSBcr" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUMX4J1ICm-aBhwJ" : true
+      },
+      "diveSiteName" : "Fantasy Reef",
+      "diveSiteUid" : "-KaUNPpW3wx56dAmSBcr",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpXw73xXniN6DBt" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KaUXUYxGEJt6jNnpHIl" : true
+      },
+      "diveSiteName" : "First Choice",
+      "diveSiteUid" : "-KaUNPpXw73xXniN6DBt",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpYtbALU4fLcweu" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUUeJs1XdT5v0Lnx" : true,
+        "-KaUXUVXcn9APiz9yDRh" : true,
+        "-KaUXUXIgX1KTmy0x_yL" : true
+      },
+      "diveSiteName" : "German Channel",
+      "diveSiteUid" : "-KaUNPpYtbALU4fLcweu",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpZzrXbC1HyjlV0" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUSxsXRxH2ncs2-p" : true,
+        "-KaUXUUJop2G3quwOyIE" : true
+      },
+      "diveSiteName" : "Golden Arches",
+      "diveSiteUid" : "-KaUNPpZzrXbC1HyjlV0",
+      "state" : "Hawaii"
+    },
+    "-KaUNPp_X8v49SuDjPoD" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KaUXUYjg5adwNpR-fry" : true
+      },
+      "diveSiteName" : "Halfmoon Caye",
+      "diveSiteUid" : "-KaUNPp_X8v49SuDjPoD",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpaXa_cgaI5DxX3" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUaKTFXYx2K_coNn" : true
+      },
+      "diveSiteName" : "Honoa",
+      "diveSiteUid" : "-KaUNPpaXa_cgaI5DxX3",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpbQTmKtuaHz7ZU" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUX33M8y2V6MsB8C" : true
+      },
+      "diveSiteName" : "Iro Maru Wreck",
+      "diveSiteUid" : "-KaUNPpbQTmKtuaHz7ZU",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpclu2UnO9CdkM3" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUW5KrXskJI4ji5z" : true
+      },
+      "diveSiteName" : "Jellyfish Lake",
+      "diveSiteUid" : "-KaUNPpclu2UnO9CdkM3",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpd1c2H_ltnOgo9" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KaUXUZ4VvWnN7b5rtz6" : true
+      },
+      "diveSiteName" : "Johnson's Wall",
+      "diveSiteUid" : "-KaUNPpd1c2H_ltnOgo9",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpew6pxRHsfPmht" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUQpni7aqyb7DIok" : true,
+        "-KaUXURprIn5gJIY6Ph5" : true,
+        "-KaUXU_O0mVsf_9vQJJf" : true,
+        "-KaUXUa7LkcyiQ-Z07bf" : true
+      },
+      "diveSiteName" : "Molokini's Mid Reef",
+      "diveSiteUid" : "-KaUNPpew6pxRHsfPmht",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpgYgbJd_AmOLNv" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUShBXF8fBlzJFgF" : true
+      },
+      "diveSiteName" : "K. Critters",
+      "diveSiteUid" : "-KaUNPpgYgbJd_AmOLNv",
+      "state" : "Hawaii"
+    },
+    "-KaUNPphUUPysezs-UsC" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUU59F2qpbohXIYS" : true
+      },
+      "diveSiteName" : "Large Arch (North of pier)",
+      "diveSiteUid" : "-KaUNPphUUPysezs-UsC",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpi52imfn51MLLS" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXURL_yy9p-9jZ6gS" : true,
+        "-KaUXUSKykGAjlbDrGoC" : true,
+        "-KaUXUZDjd8cbfttYeYb" : true,
+        "-KaUXUZt3FjDkIErKHne" : true,
+        "-Kd-I-HaJ_o0-_9ejtti" : true,
+        "-KdENce2L7iDG6diWkub" : true
+      },
+      "diveSiteName" : "Molokini's Back Wall",
+      "diveSiteUid" : "-KaUNPpi52imfn51MLLS",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpkRw_hkHr4bgaS" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUTdRqzEWu4Fapd2" : true
+      },
+      "diveSiteName" : "Lava Dome (Red Hill area)",
+      "diveSiteUid" : "-KaUNPpkRw_hkHr4bgaS",
+      "state" : "Hawaii"
+    },
+    "-KaUNPplSNU6HNg061Is" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KaUXUYGD8Ezt8Nt8t9U" : true
+      },
+      "diveSiteName" : "Lighthouse Reef",
+      "diveSiteUid" : "-KaUNPplSNU6HNg061Is",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpmHVkIs6U-iOXo" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUTXxiL_7E2jElh2" : true
+      },
+      "diveSiteName" : "Long Lava Tube (Red Hill area)",
+      "diveSiteUid" : "-KaUNPpmHVkIs6U-iOXo",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpnne6I8cS-zczR" : {
+      "area" : "Oahu",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUNLoLA4PnvBg0vA" : true
+      },
+      "diveSiteName" : "Makaha Caverns",
+      "diveSiteUid" : "-KaUNPpnne6I8cS-zczR",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpoI5iI4WQKYA4P" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXURifiekxdhYwRbA" : true,
+        "-KaUXU_0Rw2s5tu2glcI" : true
+      },
+      "diveSiteName" : "Marty's Reef",
+      "diveSiteUid" : "-KaUNPpoI5iI4WQKYA4P",
+      "state" : "Hawaii"
+    },
+    "-KaUNPppfzpGjG40bXHt" : {
+      "area" : "Klein Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUQUBy6HelZRVcVE" : true
+      },
+      "diveSiteName" : "MI Dushi",
+      "diveSiteUid" : "-KaUNPppfzpGjG40bXHt",
+      "state" : "[Any State]"
+    },
+    "-KaUNPpqySzia1JH6y7C" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUM6QVlgeqlz9vKk" : true
+      },
+      "diveSiteName" : "Mile 4 Alii Rd",
+      "diveSiteUid" : "-KaUNPpqySzia1JH6y7C",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpsIU8LdtkPUbsQ" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUZSIQiB2WAf2IaA" : true,
+        "-KaUXU_rCwE8bb-an8k9" : true
+      },
+      "diveSiteName" : "Molokini's East End",
+      "diveSiteUid" : "-KaUNPpsIU8LdtkPUbsQ",
+      "state" : "Hawaii"
+    },
+    "-KaUNPptpcGTQ_AnRVmz" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUS5WLK2TNTLx8SF" : true
+      },
+      "diveSiteName" : "Molokini's Left Wall",
+      "diveSiteUid" : "-KaUNPptpcGTQ_AnRVmz",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpvqDQbNJtMObQy" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXU_cbxrtQTBuXQC2" : true,
+        "-Kb0H6qEPw2R84Rua5k6" : true
+      },
+      "diveSiteName" : "Molokini's Outer Reef",
+      "diveSiteUid" : "-KaUNPpvqDQbNJtMObQy",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpwcBSjKJ81AbFO" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXURaWRVKHL2Byj24" : true,
+        "-KaUXUURH1Gcdpit7pwf" : true
+      },
+      "diveSiteName" : "Molokini's Reef End",
+      "diveSiteUid" : "-KaUNPpwcBSjKJ81AbFO",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpxitWhnb7NyDBT" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUTJNP-NuEohyDWz" : true,
+        "-KaUXUTze04EjIRbWnE_" : true
+      },
+      "diveSiteName" : "Toilet Bowl (by airport)",
+      "diveSiteUid" : "-KaUNPpxitWhnb7NyDBT",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpy03TntouPdIWU" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUZfNqP57zJvUi34" : true,
+        "-KaUXU_73qVbZAvTyCjr" : true,
+        "-KcEXz7cynA40LcC0Cya" : true,
+        "-Kd-MgdwkERp19SttjiX" : true
+      },
+      "diveSiteName" : "Molokini's West End",
+      "diveSiteUid" : "-KaUNPpy03TntouPdIWU",
+      "state" : "Hawaii"
+    },
+    "-KaUNPpzlBDn_1R3HRYo" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUT38XV6am5aPsuT" : true,
+        "-KaUXUUCW4zC16x5X6py" : true
+      },
+      "diveSiteName" : "Turtle Heaven (in front of S. Harbor)",
+      "diveSiteUid" : "-KaUNPpzlBDn_1R3HRYo",
+      "state" : "Hawaii"
+    },
+    "-KaUNPq1p3AYHUE07QSc" : {
+      "area" : "Lanai",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUR3TfBmLFuNVDeg" : true
+      },
+      "diveSiteName" : "Monolith",
+      "diveSiteUid" : "-KaUNPq1p3AYHUE07QSc",
+      "state" : "Hawaii"
+    },
+    "-KaUNPq2SnbarytecCjY" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUUsl6tyN-0J_O98" : true,
+        "-KaUXUWbh7d04JgJd7Ax" : true,
+        "-KaUXUX9kS1psVebIG_R" : true
+      },
+      "diveSiteName" : "New Drop Off",
+      "diveSiteUid" : "-KaUNPq2SnbarytecCjY",
+      "state" : "[Any State]"
+    },
+    "-KaUNPq3x0bmbU7gCuGz" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUUlHY6j1rsXz2UG" : true,
+        "-KaUXUXoA1kd-tDoOd1e" : true
+      },
+      "diveSiteName" : "Ngemelis Wall",
+      "diveSiteUid" : "-KaUNPq3x0bmbU7gCuGz",
+      "state" : "[Any State]"
+    },
+    "-KaUNPq4E9bhu6_VEgRp" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXU_GD4b0rcJn1AW3" : true,
+        "-KaUXU_k7S2YkwQf68ky" : true,
+        "-KaUXUa0pZkFCcUAfWW_" : true
+      },
+      "diveSiteName" : "North Nahuna",
+      "diveSiteUid" : "-KaUNPq4E9bhu6_VEgRp",
+      "state" : "Hawaii"
+    },
+    "-KaUNPq5_YbudlBeFq1j" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUSR-i6ZzVQ5e-fU" : true
+      },
+      "diveSiteName" : "North of 5 Graves",
+      "diveSiteUid" : "-KaUNPq5_YbudlBeFq1j",
+      "state" : "Hawaii"
+    },
+    "-KaUNPq8ccM-4DO-Rj7V" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUO4BXAESGMoLoAs" : true
+      },
+      "diveSiteName" : "OroVerde Reef",
+      "diveSiteUid" : "-KaUNPq8ccM-4DO-Rj7V",
+      "state" : "[Any State]"
+    },
+    "-KaUNPq9Uel3_LN5gpnT" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUWiw1HqLKmG9pg4" : true
+      },
+      "diveSiteName" : "Outer Ulong Channel",
+      "diveSiteUid" : "-KaUNPq9Uel3_LN5gpnT",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqAuasK-xIwI553" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUWPrQxdFlB41D92" : true
+      },
+      "diveSiteName" : "PPR Reef",
+      "diveSiteUid" : "-KaUNPqAuasK-xIwI553",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqChMbCwEMhEUKL" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUMFf3bGymwUcJmJ" : true
+      },
+      "diveSiteName" : "Puako Beach",
+      "diveSiteUid" : "-KaUNPqChMbCwEMhEUKL",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqD02X9457V2C8I" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXURUpjVyOZRTZ9NF" : true,
+        "-KdEOBph4qPBJ0BzvcmT" : true
+      },
+      "diveSiteName" : "Pu'u Alai",
+      "diveSiteUid" : "-KaUNPqD02X9457V2C8I",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqEKdHx-GmEbAdW" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUVQ-EWzRGSPIawH" : true,
+        "-KaUXUVsW8MTIP6folr4" : true,
+        "-KaUXUY9hASEEaNEA2r0" : true
+      },
+      "diveSiteName" : "Siaes Tunnel",
+      "diveSiteUid" : "-KaUNPqEKdHx-GmEbAdW",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqFP6cxyBbhIrMp" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUOzZqU0LiN1UabU" : true
+      },
+      "diveSiteName" : "Rappel",
+      "diveSiteUid" : "-KaUNPqFP6cxyBbhIrMp",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqGXOXnVQ2O9yzb" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUNnRpCOt_b2OhYc" : true
+      },
+      "diveSiteName" : "Royal Palms Ledges",
+      "diveSiteUid" : "-KaUNPqGXOXnVQ2O9yzb",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqJrT7ASQ_GGwI2" : {
+      "area" : "Klein Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUPIK6YJM8rIaTxz" : true
+      },
+      "diveSiteName" : "Sampler",
+      "diveSiteUid" : "-KaUNPqJrT7ASQ_GGwI2",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqK-Y7YUwYSExP5" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUOpYoYpiglETdVi" : true
+      },
+      "diveSiteName" : "Sandollar Pier",
+      "diveSiteUid" : "-KaUNPqK-Y7YUwYSExP5",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqMbp9Dz8gbBrkP" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUTA4-5Ft3XMO-td" : true
+      },
+      "diveSiteName" : "Shark Rock",
+      "diveSiteUid" : "-KaUNPqMbp9Dz8gbBrkP",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqNqm4eRY___uT_" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUWq-J2EnA66DsC7" : true
+      },
+      "diveSiteName" : "Siaes Corner",
+      "diveSiteUid" : "-KaUNPqNqm4eRY___uT_",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqTj4q-lyh_JFNo" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KaUXUYWzV9t7L7JbcGw" : true
+      },
+      "diveSiteName" : "Silver Caves",
+      "diveSiteUid" : "-KaUNPqTj4q-lyh_JFNo",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqUL7KdrSHpOV1D" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUQ3cfXXE6ahiPVN" : true
+      },
+      "diveSiteName" : "Small Wall",
+      "diveSiteUid" : "-KaUNPqUL7KdrSHpOV1D",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqYwwZOJg1aM2gB" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUVJlnhSBhy0z_Ei" : true,
+        "-KaUXUY1GTBd33f8Rh5y" : true
+      },
+      "diveSiteName" : "Ulong Channel",
+      "diveSiteUid" : "-KaUNPqYwwZOJg1aM2gB",
+      "state" : "[Any State]"
+    },
+    "-KaUNPq_C6mM1JiR4dVN" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUSpPuv2j8WKCIAO" : true
+      },
+      "diveSiteName" : "South of Kona by airport",
+      "diveSiteUid" : "-KaUNPq_C6mM1JiR4dVN",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqabvWG7J_bX-Oi" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUTk9llECD629kYy" : true
+      },
+      "diveSiteName" : "Spiral Lava Tubes (south of Kona)",
+      "diveSiteUid" : "-KaUNPqabvWG7J_bX-Oi",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqabvWG7J_bX-Oj" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUUYSayv5AEEI081" : true,
+        "-KaUXUZLDgZ6Qek_iuej" : true,
+        "-KaUXUZZr3aQYTczwXy3" : true,
+        "-KaUXU_WX3KxlNiCJUzE" : true,
+        "-Kb0IKl8m1wm-oXU-p5z" : true,
+        "-Kd-MOz5Rdn0OBgwi_Gk" : true
+      },
+      "diveSiteName" : "St. Anthony",
+      "diveSiteUid" : "-KaUNPqabvWG7J_bX-Oj",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqcuknJI0tZaDj6" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUOenBF-n0Nf5VEa" : true
+      },
+      "diveSiteName" : "Stingray City II",
+      "diveSiteUid" : "-KaUNPqcuknJI0tZaDj6",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqdLcUTHco-Mhdd" : {
+      "area" : "Oahu",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUNCY6Gthwca86Up" : true
+      },
+      "diveSiteName" : "The Mahi Boat",
+      "diveSiteUid" : "-KaUNPqdLcUTHco-Mhdd",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqf8A00PgNXWlBg" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KaUXUNTiVSta1srmPn0" : true
+      },
+      "diveSiteName" : "Trinity Caves & Round Rock Cavern",
+      "diveSiteUid" : "-KaUNPqf8A00PgNXWlBg",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqgxzS5h_qavBO1" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUXfnsnMqjMpE99B" : true
+      },
+      "diveSiteName" : "Turtle Cove",
+      "diveSiteUid" : "-KaUNPqgxzS5h_qavBO1",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqkbBq4vJlyG-gr" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUSYjLYIPRaOtuZU" : true
+      },
+      "diveSiteName" : "Turtle Pinnacles",
+      "diveSiteUid" : "-KaUNPqkbBq4vJlyG-gr",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqmNhQT0Pw0lDkQ" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KaUXUTQGvGmhuSFog1U" : true
+      },
+      "diveSiteName" : "Turtle Towers",
+      "diveSiteUid" : "-KaUNPqmNhQT0Pw0lDkQ",
+      "state" : "Hawaii"
+    },
+    "-KaUNPqrBkNLxv2mVVgB" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KaUXUVzIaSg5ipa5w7T" : true
+      },
+      "diveSiteName" : "Ulong Wall",
+      "diveSiteUid" : "-KaUNPqrBkNLxv2mVVgB",
+      "state" : "[Any State]"
+    },
+    "-KaUNPqzXdJ_9EOiWxQs" : {
+      "area" : "Carl's Hill Annex",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KaUXUPQtCaX93vZO_eg" : true
+      },
+      "diveSiteName" : "Yellow Man",
+      "diveSiteUid" : "-KaUNPqzXdJ_9EOiWxQs",
+      "state" : "[Any State]"
+    },
+    "-KcFIYJU2rIVy7ZDVnOs" : {
+      "area" : "Maui",
+      "country" : "[Any Country]",
+      "diveSiteName" : "Maui - 2nd Dive",
+      "diveSiteUid" : "-KcFIYJU2rIVy7ZDVnOs",
+      "state" : "[Any State]"
+    },
+    "-Kd-LPfo50T_fzo28fpp" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-Kd-KnK2wmntTShBCksz" : true
+      },
+      "diveSiteName" : "Tank to Troop Carrier",
+      "diveSiteUid" : "-Kd-LPfo50T_fzo28fpp",
+      "state" : "Hawaii"
+    }
+  },
+  "SGUtgr6kE4WHpkKTuHzpVVcYXuF2" : {
+    "-KSEkCpKzl8FIhhqW63Q" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveSiteName" : "No Dive Site",
+      "diveSiteUid" : "-KSEkCpKzl8FIhhqW63Q",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpKzl8FIhhqW63R" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7q5IerK6PciyXZV" : true
+      },
+      "diveSiteName" : "Annie's Place",
+      "diveSiteUid" : "-KSEkCpKzl8FIhhqW63R",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpLTuSPk5vnSZM4" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7q-OW2FwkGP-Jgq" : true
+      },
+      "diveSiteName" : "Chimney",
+      "diveSiteUid" : "-KSEkCpLTuSPk5vnSZM4",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpLTuSPk5vnSZM5" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7putb6nljLjBWEC" : true
+      },
+      "diveSiteName" : "Dos Cocos",
+      "diveSiteUid" : "-KSEkCpLTuSPk5vnSZM5",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpLTuSPk5vnSZM6" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7plq9TcfTEWf43w" : true
+      },
+      "diveSiteName" : "E. Long Caye",
+      "diveSiteUid" : "-KSEkCpLTuSPk5vnSZM6",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpMIbD2idzYMNML" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7q8qqvHEFSqe6fG" : true
+      },
+      "diveSiteName" : "First Choice",
+      "diveSiteUid" : "-KSEkCpMIbD2idzYMNML",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpMIbD2idzYMNMM" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7q2wvl-q34k0J5j" : true
+      },
+      "diveSiteName" : "Halfmoon Caye",
+      "diveSiteUid" : "-KSEkCpMIbD2idzYMNMM",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpNn6lPqzc5LMWl" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7qCAO_jCaDjQ049" : true
+      },
+      "diveSiteName" : "Johnson's Wall",
+      "diveSiteUid" : "-KSEkCpNn6lPqzc5LMWl",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpNn6lPqzc5LMWm" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7phfQvnzRsVg1If" : true
+      },
+      "diveSiteName" : "Lighthouse Reef",
+      "diveSiteUid" : "-KSEkCpNn6lPqzc5LMWm",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpOXAABY8Z-POSN" : {
+      "area" : "Lighthouse Reef",
+      "country" : "Belize",
+      "diveLogs" : {
+        "-KR-v7pxSdxuBaPPU6hL" : true
+      },
+      "diveSiteName" : "Silver Caves",
+      "diveSiteUid" : "-KSEkCpOXAABY8Z-POSN",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpOXAABY8Z-POSO" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7lbc7NL5kf7qyIp" : true
+      },
+      "diveSiteName" : "18 Palms",
+      "diveSiteUid" : "-KSEkCpOXAABY8Z-POSO",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpOXAABY8Z-POSP" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7lDVX1dXK5GpZCA" : true
+      },
+      "diveSiteName" : "Angel City",
+      "diveSiteUid" : "-KSEkCpOXAABY8Z-POSP",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpPr_0j_glllAA0" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7lAC7ed0QmZ_yZt" : true
+      },
+      "diveSiteName" : "Barcadera",
+      "diveSiteUid" : "-KSEkCpPr_0j_glllAA0",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpPr_0j_glllAA1" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7l1dZC37lIoYldw" : true,
+        "-KR-v7lGWteHg0zp1FPt" : true,
+        "-KR-v7lK4TbgnYx8Qu9B" : true,
+        "-KR-v7lW0fqVGawbt93M" : true
+      },
+      "diveSiteName" : "Bari Reef",
+      "diveSiteUid" : "-KSEkCpPr_0j_glllAA1",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpQR1JLMS5M9E00" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7lesWQ4e70NbzGc" : true
+      },
+      "diveSiteName" : "Cliff",
+      "diveSiteUid" : "-KSEkCpQR1JLMS5M9E00",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpQR1JLMS5M9E01" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7kztiR37G4uNAmq" : true
+      },
+      "diveSiteName" : "Rappel",
+      "diveSiteUid" : "-KSEkCpQR1JLMS5M9E01",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpRjPLayny2PwXc" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7kwzUT_5ef3R63-" : true
+      },
+      "diveSiteName" : "Sandollar Pier",
+      "diveSiteUid" : "-KSEkCpRjPLayny2PwXc",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpRjPLayny2PwXd" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7lNbXaRqwOY0KFO" : true
+      },
+      "diveSiteName" : "Small Wall",
+      "diveSiteUid" : "-KSEkCpRjPLayny2PwXd",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpSLiZtgNs_1mKS" : {
+      "area" : "Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7lTKM0YvdTKTKwM" : true
+      },
+      "diveSiteName" : "Town Pier",
+      "diveSiteUid" : "-KSEkCpSLiZtgNs_1mKS",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpSLiZtgNs_1mKT" : {
+      "area" : "Carl's Hill Annex",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7l7kpotWwIRZVmC" : true
+      },
+      "diveSiteName" : "Yellow Man",
+      "diveSiteUid" : "-KSEkCpSLiZtgNs_1mKT",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpTYQCdMAkmw8vt" : {
+      "area" : "Klein Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7lQFeJOZoSnK2HP" : true
+      },
+      "diveSiteName" : "Captain Don's Reef",
+      "diveSiteUid" : "-KSEkCpTYQCdMAkmw8vt",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpWfIdjgB4YD9vX" : {
+      "area" : "Klein Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7lZYLNBFOh_pJqe" : true
+      },
+      "diveSiteName" : "MI Dushi",
+      "diveSiteUid" : "-KSEkCpWfIdjgB4YD9vX",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpXvtsZwed-37I1" : {
+      "area" : "Klein Bonaire",
+      "country" : "Bonaire",
+      "diveLogs" : {
+        "-KR-v7l4Wjd4TMqA4V3p" : true
+      },
+      "diveSiteName" : "Sampler",
+      "diveSiteUid" : "-KSEkCpXvtsZwed-37I1",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpXvtsZwed-37I2" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kqDTbywZgTrQYc" : true
+      },
+      "diveSiteName" : "Andy's Wall",
+      "diveSiteUid" : "-KSEkCpXvtsZwed-37I2",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpXvtsZwed-37I3" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kQOx-O4FKLxtVM" : true
+      },
+      "diveSiteName" : "Aquarium",
+      "diveSiteUid" : "-KSEkCpXvtsZwed-37I3",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpY5f5Q7-3IuIH4" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7khWwRonaTWS5xT" : true
+      },
+      "diveSiteName" : "Black Forest",
+      "diveSiteUid" : "-KSEkCpY5f5Q7-3IuIH4",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpY5f5Q7-3IuIH5" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kaBHXMt6pzeaov" : true
+      },
+      "diveSiteName" : "Carib. Sand Chute",
+      "diveSiteUid" : "-KSEkCpY5f5Q7-3IuIH5",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpZidjeM8JOUDYs" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kkifkABRpFEitU" : true
+      },
+      "diveSiteName" : "Cheeseburger Alley",
+      "diveSiteUid" : "-KSEkCpZidjeM8JOUDYs",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpZidjeM8JOUDYt" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kn1cujilwb7LoS" : true
+      },
+      "diveSiteName" : "Eagle Ray Pass",
+      "diveSiteUid" : "-KSEkCpZidjeM8JOUDYt",
+      "state" : "[Any State]"
+    },
+    "-KSEkCp_W-uZPeU3P7d9" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kd7vrgO2kLkigC" : true
+      },
+      "diveSiteName" : "OroVerde Reef",
+      "diveSiteUid" : "-KSEkCp_W-uZPeU3P7d9",
+      "state" : "[Any State]"
+    },
+    "-KSEkCp_W-uZPeU3P7dA" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kYIwqdWQ1tvzQF" : true
+      },
+      "diveSiteName" : "Royal Palms Ledges",
+      "diveSiteUid" : "-KSEkCp_W-uZPeU3P7dA",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpa3SfUl0JCcA38" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kt-Xyob1BjXepG" : true
+      },
+      "diveSiteName" : "Stingray City II",
+      "diveSiteUid" : "-KSEkCpa3SfUl0JCcA38",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpa3SfUl0JCcA39" : {
+      "area" : "Grand Cayman",
+      "country" : "Cayman Islands",
+      "diveLogs" : {
+        "-KR-v7kMQgen8t6GMD6Q" : true
+      },
+      "diveSiteName" : "Trinity Caves & Round Rock Cavern",
+      "diveSiteUid" : "-KSEkCpa3SfUl0JCcA39",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpboA26x6TJfewP" : {
+      "area" : "Aitutake",
+      "country" : "Cook Islands",
+      "diveLogs" : {
+        "-KR-v7jvGKKIISd_59_g" : true
+      },
+      "diveSiteName" : "Aitutake",
+      "diveSiteUid" : "-KSEkCpboA26x6TJfewP",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpboA26x6TJfewQ" : {
+      "area" : "Rarotonga",
+      "country" : "Cook Islands",
+      "diveLogs" : {
+        "-KR-v7jn_LgRPIuUBVPz" : true,
+        "-KR-v7jrozG9Wl0t5mzB" : true
+      },
+      "diveSiteName" : "White River",
+      "diveSiteUid" : "-KSEkCpboA26x6TJfewQ",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpc2pOINwsDbJof" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7oxnqvWLUomyZyw" : true
+      },
+      "diveSiteName" : "Barnum Wall",
+      "diveSiteUid" : "-KSEkCpc2pOINwsDbJof",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpc2pOINwsDbJog" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7oVLWQc1imo3bST" : true,
+        "-KR-v7p9BZ1vqm_9SG_h" : true
+      },
+      "diveSiteName" : "Big Drop-off",
+      "diveSiteUid" : "-KSEkCpc2pOINwsDbJog",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpdwN3MbArd7KoD" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7nzSR3b-NiXDY2y" : true,
+        "-KR-v7o5fasu3fwZqgmh" : true,
+        "-KR-v7onzhpD64F04Uxn" : true,
+        "-KR-v7pPN05WPJrd1e8l" : true,
+        "-KaU3SRzJ9xNMvbZ5CbP" : true
+      },
+      "diveSiteName" : "Blue Corner",
+      "diveSiteUid" : "-KSEkCpdwN3MbArd7KoD",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpdwN3MbArd7KoE" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7pMWN2Nc33G94Vl" : true,
+        "-KR-v7pZTt1sz2MIr38P" : true
+      },
+      "diveSiteName" : "Blue Holes",
+      "diveSiteUid" : "-KSEkCpdwN3MbArd7KoE",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpdwN3MbArd7KoF" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7o8BCLINSwj9u0_" : true,
+        "-KR-v7or1JJUT2_ry6MM" : true
+      },
+      "diveSiteName" : "Blue Holes - Blue Corner",
+      "diveSiteUid" : "-KSEkCpdwN3MbArd7KoF",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpeGBwWMe-vw2uo" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7oaEXLEBCc4fDyX" : true
+      },
+      "diveSiteName" : "Chandelier Cave",
+      "diveSiteUid" : "-KSEkCpeGBwWMe-vw2uo",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpeGBwWMe-vw2up" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7nnHIju5-KMDoiM" : true,
+        "-KR-v7oQppgh3oQM-7of" : true,
+        "-KR-v7pJhTB_5mWIZ5FX" : true
+      },
+      "diveSiteName" : "German Channel",
+      "diveSiteUid" : "-KSEkCpeGBwWMe-vw2up",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpfPTCmz8xAB4Ib" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7pCjifXNxd9hJld" : true
+      },
+      "diveSiteName" : "Iro Maru Wreck",
+      "diveSiteUid" : "-KSEkCpfPTCmz8xAB4Ib",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpfPTCmz8xAB4Ic" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7okO-Y84LKrHyJX" : true
+      },
+      "diveSiteName" : "Jellyfish Lake",
+      "diveSiteUid" : "-KSEkCpfPTCmz8xAB4Ic",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpg1w6NV_Pbbs4W" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7nv_wlFcTcAWPHA" : true,
+        "-KR-v7p-Zik6hllnWVRo" : true,
+        "-KR-v7pFdEZDjLQkY0N9" : true
+      },
+      "diveSiteName" : "New Drop Off",
+      "diveSiteUid" : "-KSEkCpg1w6NV_Pbbs4W",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpg1w6NV_Pbbs4X" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7nsVBaWPX6Dndjd" : true,
+        "-KR-v7pVo4Y01_d66s1B" : true
+      },
+      "diveSiteName" : "Ngemelis Wall",
+      "diveSiteUid" : "-KSEkCpg1w6NV_Pbbs4X",
+      "state" : "[Any State]"
+    },
+    "-KSEkCph9Qh3H7VZRBVZ" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7p2QnPG8ChrVoj9" : true
+      },
+      "diveSiteName" : "Outer Ulong Channel",
+      "diveSiteUid" : "-KSEkCph9Qh3H7VZRBVZ",
+      "state" : "[Any State]"
+    },
+    "-KSEkCph9Qh3H7VZRBV_" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7ou9OId8i1vrTyR" : true
+      },
+      "diveSiteName" : "PPR Reef",
+      "diveSiteUid" : "-KSEkCph9Qh3H7VZRBV_",
+      "state" : "[Any State]"
+    },
+    "-KSEkCph9Qh3H7VZRBVa" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7p67_13VHVQsB3q" : true
+      },
+      "diveSiteName" : "Siae's Corner",
+      "diveSiteUid" : "-KSEkCph9Qh3H7VZRBVa",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpiUMyHscPo6PkL" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7oNRmCkyiEKQ5ro" : true,
+        "-KR-v7odQ86ktk52Ujdg" : true,
+        "-KR-v7pezbuwHMPoVG-e" : true
+      },
+      "diveSiteName" : "Siae's Tunnel",
+      "diveSiteUid" : "-KSEkCpiUMyHscPo6PkL",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpiUMyHscPo6PkM" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7pSsQR32cF-Ae-G" : true
+      },
+      "diveSiteName" : "Turtle Cove",
+      "diveSiteUid" : "-KSEkCpiUMyHscPo6PkM",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpk6MK32Bamo6dS" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7oCREkTAEa52QYF" : true,
+        "-KR-v7pbGOvE2BVhEgHg" : true
+      },
+      "diveSiteName" : "Ulong Channel",
+      "diveSiteUid" : "-KSEkCpk6MK32Bamo6dS",
+      "state" : "[Any State]"
+    },
+    "-KSEkCpk6MK32Bamo6dT" : {
+      "area" : "[Any Area]",
+      "country" : "Palau",
+      "diveLogs" : {
+        "-KR-v7ogAoHnfY0f4nWC" : true
+      },
+      "diveSiteName" : "Ulong Wall",
+      "diveSiteUid" : "-KSEkCpk6MK32Bamo6dT",
+      "state" : "[Any State]"
+    },
+    "-KSEkCplCMVBYVumDAyO" : {
+      "area" : "Boynton Beach",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7kBUyyWmAo1xUvW" : true,
+        "-KR-v7kFFxEfniQh1Zc_" : true
+      },
+      "diveSiteName" : "Boynton Beach",
+      "diveSiteUid" : "-KSEkCplCMVBYVumDAyO",
+      "state" : "Florida"
+    },
+    "-KSEkCplCMVBYVumDAyP" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7nEJ2lzTjlRKnJk" : true
+      },
+      "diveSiteName" : "Christmas Tree Corals",
+      "diveSiteUid" : "-KSEkCplCMVBYVumDAyP",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpmyapPeTgHALg5" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mT3-IJB8MEzNfI" : true,
+        "-KR-v7nZkYe08EHi9rJP" : true
+      },
+      "diveSiteName" : "Golden Arches",
+      "diveSiteUid" : "-KSEkCpmyapPeTgHALg5",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpmyapPeTgHALg6" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mNIHdZVyhhEMBt" : true
+      },
+      "diveSiteName" : "K. Critters",
+      "diveSiteUid" : "-KSEkCpmyapPeTgHALg6",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpnUd8ovWfenhyg" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mnC7f6IdqCcFhw" : true
+      },
+      "diveSiteName" : "Kona Surf (Manta Ray Dive)",
+      "diveSiteUid" : "-KSEkCpnUd8ovWfenhyg",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpnUd8ovWfenhyh" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7nSZntzKDa0UpkZ" : true
+      },
+      "diveSiteName" : "Large Arch (North of pier)",
+      "diveSiteUid" : "-KSEkCpnUd8ovWfenhyh",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpoSs0kBD5ZBl7f" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7n6_F4d0IQaeoAT" : true
+      },
+      "diveSiteName" : "Lava Dome (Red Hill area)",
+      "diveSiteUid" : "-KSEkCpoSs0kBD5ZBl7f",
+      "state" : "Hawaii"
+    },
+    "-KSEkCppSLSp2Uvy7-QS" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7n3ixZiGAxSaxrH" : true
+      },
+      "diveSiteName" : "Long Lava Tube (Red Hill area)",
+      "diveSiteUid" : "-KSEkCppSLSp2Uvy7-QS",
+      "state" : "Hawaii"
+    },
+    "-KSEkCppSLSp2Uvy7-QT" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mcHTdKiHSAnqhu" : true
+      },
+      "diveSiteName" : "Shark Rock",
+      "diveSiteUid" : "-KSEkCppSLSp2Uvy7-QT",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpqb3xwt5O_VZ8k" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mQmoLcJNsFkuqH" : true
+      },
+      "diveSiteName" : "South of Kona by airport",
+      "diveSiteUid" : "-KSEkCpqb3xwt5O_VZ8k",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpr_495ZaIoiiJI" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7nA9dAWiPyJ87F-" : true
+      },
+      "diveSiteName" : "Spiral Lava Tubes (south of Kona)",
+      "diveSiteUid" : "-KSEkCpr_495ZaIoiiJI",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpr_495ZaIoiiJJ" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mfiSdUOcNn40oJ" : true,
+        "-KR-v7nHKjUxQjZQSje3" : true
+      },
+      "diveSiteName" : "Toilet Bowl (by airport)",
+      "diveSiteUid" : "-KSEkCpr_495ZaIoiiJJ",
+      "state" : "Hawaii"
+    },
+    "-KSEkCps66n7SKgQ4NaB" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mW4mazu-agjxsJ" : true,
+        "-KR-v7nVnyF3RpJcadyS" : true
+      },
+      "diveSiteName" : "Turtle Heaven (in front of S. Harbor)",
+      "diveSiteUid" : "-KSEkCps66n7SKgQ4NaB",
+      "state" : "Hawaii"
+    },
+    "-KSEkCps66n7SKgQ4NaC" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mKW1qkolIr3NEH" : true
+      },
+      "diveSiteName" : "Turtle Pinnacles",
+      "diveSiteUid" : "-KSEkCps66n7SKgQ4NaC",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpvNv6-TaIeEO5q" : {
+      "area" : "Big Island",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mk_M8PDOJCCFGG" : true
+      },
+      "diveSiteName" : "Turtle Towers",
+      "diveSiteUid" : "-KSEkCpvNv6-TaIeEO5q",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpvNv6-TaIeEO5r" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Christmas Tree Corals",
+      "diveSiteUid" : "-KSEkCpvNv6-TaIeEO5r",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpw6ZiLC0uZjRKY" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7jcjJRd6B8gn9Dm" : true
+      },
+      "diveSiteName" : "Driftwood",
+      "diveSiteUid" : "-KSEkCpw6ZiLC0uZjRKY",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpw6ZiLC0uZjRKZ" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7jg2HkExU600zP8" : true
+      },
+      "diveSiteName" : "Fantasy Reef",
+      "diveSiteUid" : "-KSEkCpw6ZiLC0uZjRKZ",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpxdk7l_u5_8jZ9" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Golden Arches",
+      "diveSiteUid" : "-KSEkCpxdk7l_u5_8jZ9",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpxdk7l_u5_8jZA" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "K. Critters",
+      "diveSiteUid" : "-KSEkCpxdk7l_u5_8jZA",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpyqU3mNxWK0iJP" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Large Arch (North of pier)",
+      "diveSiteUid" : "-KSEkCpyqU3mNxWK0iJP",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpyqU3mNxWK0iJQ" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Lava Dome (Red Hill area)",
+      "diveSiteUid" : "-KSEkCpyqU3mNxWK0iJQ",
+      "state" : "Hawaii"
+    },
+    "-KSEkCpzMCMpw1rgOYfZ" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Long Lava Tube (Red Hill area)",
+      "diveSiteUid" : "-KSEkCpzMCMpw1rgOYfZ",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq-vDL7_q8ky87R" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7jR4j5zX_VPBoSj" : true
+      },
+      "diveSiteName" : "Mile 4 Alii Rd",
+      "diveSiteUid" : "-KSEkCq-vDL7_q8ky87R",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq0XMkbtCSQ-qzN" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7jWItac3oSx9_D3" : true
+      },
+      "diveSiteName" : "Puako Beach",
+      "diveSiteUid" : "-KSEkCq0XMkbtCSQ-qzN",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq0XMkbtCSQ-qzO" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Shark Rock",
+      "diveSiteUid" : "-KSEkCq0XMkbtCSQ-qzO",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq1Al8QOvcPWGU0" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "South of Kona by airport",
+      "diveSiteUid" : "-KSEkCq1Al8QOvcPWGU0",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq2jN0qfQtmkaG5" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Spiral Lava Tubes (south of Kona)",
+      "diveSiteUid" : "-KSEkCq2jN0qfQtmkaG5",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq2jN0qfQtmkaG6" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Toilet Bowl (by airport)",
+      "diveSiteUid" : "-KSEkCq2jN0qfQtmkaG6",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq3R2weKmH3oiXI" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Turtle Heaven (in front of S. Harbor)",
+      "diveSiteUid" : "-KSEkCq3R2weKmH3oiXI",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq448hCzJD-yFRa" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Turtle Pinnacles",
+      "diveSiteUid" : "-KSEkCq448hCzJD-yFRa",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq448hCzJD-yFRb" : {
+      "area" : "Kona",
+      "country" : "USA",
+      "diveSiteName" : "Turtle Towers",
+      "diveSiteUid" : "-KSEkCq448hCzJD-yFRb",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq5dy_OuJSyLlm3" : {
+      "area" : "Lanai",
+      "country" : "USA",
+      "diveSiteName" : "Cathedrals",
+      "diveSiteUid" : "-KSEkCq5dy_OuJSyLlm3",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq5dy_OuJSyLlm4" : {
+      "area" : "Lanai",
+      "country" : "USA",
+      "diveSiteName" : "Monolith",
+      "diveSiteUid" : "-KSEkCq5dy_OuJSyLlm4",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq6Dxm1lWD2yOxn" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7qfWAqoLFjwfsbD" : true,
+        "-KR-v7s11t8kfParpS09" : true,
+        "-KcAoC_U0PVrDWS-9QnG" : true
+      },
+      "diveSiteName" : "3 Anchors",
+      "diveSiteUid" : "-KSEkCq6Dxm1lWD2yOxn",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq6Dxm1lWD2yOxo" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7lkVzUtLmfBvqrS" : true,
+        "-KR-v7m3ILVylpZyh1Oa" : true
+      },
+      "diveSiteName" : "5 Caves",
+      "diveSiteUid" : "-KSEkCq6Dxm1lWD2yOxo",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq7FtANNR4XTjR0" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mA2dvIopJahXRc" : true
+      },
+      "diveSiteName" : "Deer Valley",
+      "diveSiteUid" : "-KSEkCq7FtANNR4XTjR0",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq7FtANNR4XTjR1" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7rJCWmHCJSszNTo" : true
+      },
+      "diveSiteName" : "First Cathedral - Lanai",
+      "diveSiteUid" : "-KSEkCq7FtANNR4XTjR1",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq8NuiYYJ91uoyz" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7rV310RQUNGByk1" : true
+      },
+      "diveSiteName" : "Honoa",
+      "diveSiteUid" : "-KSEkCq8NuiYYJ91uoyz",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq9pdYKRt-tENV8" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7lrMkxplO7UdjCM" : true,
+        "-KR-v7qmRftauM1AqX7N" : true
+      },
+      "diveSiteName" : "Marty's Reef",
+      "diveSiteUid" : "-KSEkCq9pdYKRt-tENV8",
+      "state" : "Hawaii"
+    },
+    "-KSEkCq9pdYKRt-tENV9" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mDdmVVH99wVhdl" : true,
+        "-KR-v7qFKzVLZnpBYg3_" : true,
+        "-KR-v7qMsGoI1hVxQrkO" : true,
+        "-KR-v7qiAhp0M6jPqYN4" : true,
+        "-KR-v7rfPqjdh1bo7MEq" : true,
+        "-KR-v7rspwcMmCYJu4qE" : true,
+        "-KR-v7rytHc6R0gC1EWH" : true,
+        "-Kcg0yczYxeOQO0Vz5NO" : true,
+        "-KdHzTVJYntHk3KDVIOg" : true,
+        "-L3uZrwLgeWPsASG0y-E" : true
+      },
+      "diveSiteName" : "Molokini's Back Wall",
+      "diveSiteUid" : "-KSEkCq9pdYKRt-tENV9",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqAZAuZKgZApJAO" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7r8KYjBIGStsVb4" : true
+      },
+      "diveSiteName" : "Molokini's crater (snorkelers area)",
+      "diveSiteUid" : "-KSEkCqAZAuZKgZApJAO",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqBcwxY3z8n0BMe" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7qWoGqmLf3XBMYv" : true,
+        "-KR-v7rMRT1hPoMzKLVA" : true,
+        "-L4E87VoOQR6OcgCBkNw" : true
+      },
+      "diveSiteName" : "Molokini's East End",
+      "diveSiteUid" : "-KSEkCqBcwxY3z8n0BMe",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqBcwxY3z8n0BMf" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7m7zA9oTjmcNKqk" : true
+      },
+      "diveSiteName" : "Molokini's Left Wall",
+      "diveSiteUid" : "-KSEkCqBcwxY3z8n0BMf",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqC0pGjzechLeza" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7lhPBNwFXUkubhD" : true,
+        "-KR-v7m0JEO0KysEj7rU" : true,
+        "-KR-v7qv0I7Qa0Sl-bQC" : true,
+        "-KR-v7rS-653LJQ2gtUo" : true,
+        "-KR-v7rZHE0eYO6Fmq4N" : true,
+        "-L4E8xbRoG7jooa3sSo4" : true
+      },
+      "diveSiteName" : "Molokini's Mid Reef",
+      "diveSiteUid" : "-KSEkCqC0pGjzechLeza",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqC0pGjzechLezb" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7r1EEudxL6E3jIh" : true
+      },
+      "diveSiteName" : "Molokini's Outer Reef",
+      "diveSiteUid" : "-KSEkCqC0pGjzechLezb",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqDGGhuIfMIeDg6" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7lni9Hpk4fvs4M_" : true,
+        "-KR-v7luY5FumSf5XlaP" : true,
+        "-KR-v7nggjzp5E0GKeYQ" : true
+      },
+      "diveSiteName" : "Molokini's Reef End",
+      "diveSiteUid" : "-KSEkCqDGGhuIfMIeDg6",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqDGGhuIfMIeDg7" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7qbcAfRdA-yhGGj" : true,
+        "-KR-v7qpAHaFgsEKh--O" : true,
+        "-KR-v7rlDb5wrG0XniEB" : true,
+        "-KcAnId9WQgesi608HOF" : true,
+        "-KczK7068CWVhYwuy2W9" : true
+      },
+      "diveSiteName" : "Molokini's West End",
+      "diveSiteUid" : "-KSEkCqDGGhuIfMIeDg7",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqE3TPdlaVe-VV6" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveSiteName" : "No Dive Site",
+      "diveSiteUid" : "-KSEkCqE3TPdlaVe-VV6",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqE3TPdlaVe-VV7" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7rEvTw1iJMNR2Ce" : true
+      },
+      "diveSiteName" : "No Name - Lanai",
+      "diveSiteUid" : "-KSEkCqE3TPdlaVe-VV7",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqFVJIicSp1IziF" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7qsfzklhpv7CptB" : true,
+        "-KR-v7r4ecJ1lKw2r2dI" : true,
+        "-KR-v7rPZpQE8tei4mhn" : true
+      },
+      "diveSiteName" : "North Nahuna",
+      "diveSiteUid" : "-KSEkCqFVJIicSp1IziF",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqGT_jpD6v8r1SO" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7mHsCBraSgKjvIF" : true
+      },
+      "diveSiteName" : "North of 5 Graves",
+      "diveSiteUid" : "-KSEkCqGT_jpD6v8r1SO",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqHCpCTqJBAtwca" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7lygt3Fx_tj3i8m" : true,
+        "-KR-v7rb_Pb-AcxGw9Yx" : true,
+        "-KR-v7rigbOngD4E6Cun" : true,
+        "-KdI-9y-rdgdw1DYyeG0" : true
+      },
+      "diveSiteName" : "Pu'u Alai",
+      "diveSiteUid" : "-KSEkCqHCpCTqJBAtwca",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqHCpCTqJBAtwcb" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7qQVxV2vvYzEQAt" : true
+      },
+      "diveSiteName" : "Spinning Plate",
+      "diveSiteUid" : "-KSEkCqHCpCTqJBAtwcb",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqILSi_yo-46OD4" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7njjutTDUNd0qqS" : true,
+        "-KR-v7qJm8w3nW3vxIBa" : true,
+        "-KR-v7qzauPxj7jhA4uv" : true,
+        "-KR-v7roBxxEfJFr2pxq" : true,
+        "-KczMIzVyJ-HzE3PaIr2" : true
+      },
+      "diveSiteName" : "St. Anthony",
+      "diveSiteUid" : "-KSEkCqILSi_yo-46OD4",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqJn7-6sJag0WrW" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7rB3w5Kj01af6ZD" : true,
+        "-Kcg1_L5zaBXo6asVy-d" : true,
+        "-L3u_7FaCHx3wKOyjHxx" : true
+      },
+      "diveSiteName" : "Tank to Troop Carrier",
+      "diveSiteUid" : "-KSEkCqJn7-6sJag0WrW",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqKbuNZH5b0agf9" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveSiteName" : "Unknown",
+      "diveSiteUid" : "-KSEkCqKbuNZH5b0agf9",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqKbuNZH5b0agfA" : {
+      "area" : "Maui",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7qTBJFrCgoTvoKr" : true,
+        "-KR-v7rv3bUtsqS20VUs" : true
+      },
+      "diveSiteName" : "Wailea Point",
+      "diveSiteUid" : "-KSEkCqKbuNZH5b0agfA",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqLliXVvyLnJZR9" : {
+      "area" : "Oahu",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7k4RGbTN4UKjPNZ" : true
+      },
+      "diveSiteName" : "Makaha Caverns",
+      "diveSiteUid" : "-KSEkCqLliXVvyLnJZR9",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqLliXVvyLnJZRA" : {
+      "area" : "Oahu",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7k0IgPGrizWr9hE" : true
+      },
+      "diveSiteName" : "The Mahi Boat",
+      "diveSiteUid" : "-KSEkCqLliXVvyLnJZRA",
+      "state" : "Hawaii"
+    },
+    "-KSEkCqNcsa7_XQHHCKH" : {
+      "area" : "Hoodsport",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7iwqTtYz-2gqIsR" : true
+      },
+      "diveSiteName" : "Certification Dive 1",
+      "diveSiteUid" : "-KSEkCqNcsa7_XQHHCKH",
+      "state" : "Washington"
+    },
+    "-KSEkCqNcsa7_XQHHCKI" : {
+      "area" : "Hoodsport",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7j4WWIbJc_ELdrq" : true
+      },
+      "diveSiteName" : "Certification Dive 2",
+      "diveSiteUid" : "-KSEkCqNcsa7_XQHHCKI",
+      "state" : "Washington"
+    },
+    "-KSEkCqO0AT8cQ780s1g" : {
+      "area" : "Hoodsport",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7j9SwXHgY2P9Ae0" : true
+      },
+      "diveSiteName" : "Certification Dive 3",
+      "diveSiteUid" : "-KSEkCqO0AT8cQ780s1g",
+      "state" : "Washington"
+    },
+    "-KSEkCqO0AT8cQ780s1h" : {
+      "area" : "Hoodsport",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7jIB0V88rV3CGev" : true
+      },
+      "diveSiteName" : "Certification Dive 4",
+      "diveSiteUid" : "-KSEkCqO0AT8cQ780s1h",
+      "state" : "Washington"
+    },
+    "-KSEkCqPLYYe9tVWF9fC" : {
+      "area" : "Puget Sound",
+      "country" : "USA",
+      "diveLogs" : {
+        "-KR-v7i61ovLJVebmEPa" : true
+      },
+      "diveSiteName" : "Alki (snorkel)",
+      "diveSiteUid" : "-KSEkCqPLYYe9tVWF9fC",
+      "state" : "Washington"
+    }
+  }
+}

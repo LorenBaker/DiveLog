@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@dimen/fragment_vertical_margin"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnSurfaceInterval"
+            style="@style/btnDiveLog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:hint="@string/btnSurfaceInterval_hint" />
+
+        <Button
+            android:id="@+id/btnStartTime"
+            style="@style/btnDiveLog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_weight="1"
+            android:hint="@string/btnStartTime_hint" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@dimen/fragment_vertical_margin"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btnBottomTime"
+            style="@style/btnDiveLog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:hint="@string/btnBottomTime_hint" />
+
+        <Button
+            android:id="@+id/btnEndTime"
+            style="@style/btnDiveLog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_weight="1"
+            android:hint="@string/btnEndTime_hint" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="@dimen/fragment_vertical_margin"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnWeightUsed"
+            style="@style/btnDiveLog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:hint="@string/btnWeightUsed_hint" />
+
+        <Button
+            android:id="@+id/btnMaximumDepth"
+            style="@style/btnDiveLog"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_weight="1"
+            android:hint="@string/btnMaximumDepth_hint" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnTimeZone"
+        style="@style/btnDiveLog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/view_vertical_margin"
+        android:hint="@string/btnTimeZone_hint" />
+
+</LinearLayout>

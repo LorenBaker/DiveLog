@@ -1,0 +1,106 @@
+{
+  "areaInitialValues" : {
+    "Aitutake" : true,
+    "Big Island" : true,
+    "Bonaire" : true,
+    "Boynton Beach" : true,
+    "Carl's Hill Annex" : true,
+    "Grand Cayman" : true,
+    "Hoodsport" : true,
+    "Klein Bonaire" : true,
+    "Kona" : true,
+    "Lanai" : true,
+    "Lighthouse Reef" : true,
+    "Maui" : true,
+    "Oahu" : true,
+    "Puget Sound" : true,
+    "Rarotonga" : true
+  },
+  "countryInitialValues" : {
+    "Belize" : true,
+    "Bonaire" : true,
+    "Cayman Islands" : true,
+    "Cook Islands" : true,
+    "Palau" : true,
+    "USA" : true
+  },
+  "currentConditionInitialValues" : {
+    "Current Nill" : true,
+    "Mild Curretn" : true,
+    "Slight Current" : true,
+    "Strong Current" : true
+  },
+  "diveEntryInitialValues" : {
+    "Back-Roll Entry" : true,
+    "Giant Stride Entry" : true,
+    "Shore Entry" : true,
+    "Stairs Entry" : true
+  },
+  "diveEquipmentInitialValues" : {
+    "BCD" : true,
+    "Camera" : false,
+    "Dive computer" : true,
+    "Dive flag and float" : false,
+    "Dive knife" : false,
+    "Dive light" : true,
+    "Dive watch" : false,
+    "Dry suit" : false,
+    "Fins" : true,
+    "Mask" : true,
+    "Pressure gauge" : true,
+    "Rebreather" : false,
+    "Regulator" : true,
+    "Scuba tank" : true,
+    "Sidemount" : false,
+    "Signaling devices" : false,
+    "Snorkel" : false,
+    "Weights-integrated" : false,
+    "Weights-on belt" : true,
+    "Wetsuit-full" : false,
+    "Wetsuit-hood" : false,
+    "Wetsuit-shorty" : false
+  },
+  "diveStyleInitialValues" : {
+    "Boat Dive" : true,
+    "Pool Dive" : true,
+    "Shore Dive" : true
+  },
+  "diveTankInitialValues" : {
+    "AL072" : true,
+    "AL080" : true,
+    "AL100" : true,
+    "HP080" : true,
+    "HP100" : true,
+    "HP120" : true
+  },
+  "diveTypeInitialValues" : {
+    "Cave Dive" : true,
+    "Drift Dive" : true,
+    "Lake Dive" : true,
+    "Night Dive" : true,
+    "Open-Water" : true,
+    "Wreck Dive" : true
+  },
+  "seaConditionInitialValues" : {
+    "Choppy Sea" : true,
+    "Flat Sea" : true,
+    "Large Swells" : true,
+    "Small Swells" : true
+  },
+  "stateInitialValues" : {
+    "California" : true,
+    "Florida" : true,
+    "Hawaii" : true,
+    "Washington" : true
+  },
+  "weatherConditionInitialValues" : {
+    "Fog" : true,
+    "Heavy Rain" : true,
+    "Light Rain" : true,
+    "Overcast" : true,
+    "Partly Cloudy" : true,
+    "Showers" : true,
+    "Snow" : true,
+    "Sunny" : true
+  }
+}

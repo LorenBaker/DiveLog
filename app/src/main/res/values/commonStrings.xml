@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Strings of button titles-->
+    <string name="btnApply_title">Apply</string>
+    <string name="btnCancel_title">Cancel</string>
+    <string name="btnDelete_title">Delete</string>
+    <string name="btnEdit_title">Edit</string>
+    <string name="btnEnter_title">Enter</string>
+    <string name="btnFavorite_title">Favorite</string>
+    <string name="btnNew_title">New</string>
+    <string name="btnNo_title">No</string>
+    <string name="btnOk_title">OK</string>
+    <string name="btnSave_title">Save</string>
+    <string name="btnSelect_title">Select</string>
+    <string name="btnYes_title">Yes</string>
+
+
+</resources>

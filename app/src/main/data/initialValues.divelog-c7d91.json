@@ -1,0 +1,91 @@
+{
+    "areaInitialValues" : {
+		"areaInitialValue00" : "[Any Area]",
+		"areaInitialValue01" : "Aitutake",
+		"areaInitialValue02" : "Big Island",
+		"areaInitialValue03" : "Bonaire",
+		"areaInitialValue04" : "Boynton Beach",
+		"areaInitialValue05" : "Carl's Hill Annex",
+		"areaInitialValue06" : "Grand Cayman",
+		"areaInitialValue07" : "Hoodsport",
+		"areaInitialValue08" : "Klein Bonaire",
+		"areaInitialValue09" : "Kona",
+		"areaInitialValue10" : "Lighthouse Reef",
+		"areaInitialValue11" : "Maui",
+		"areaInitialValue12" : "Oahu",
+		"areaInitialValue13" : "Puget Sound",
+		"areaInitialValue14" : "Rarotonga"
+    },
+	"stateInitialValues" : {
+		"stateInitialValue00" : "[Any State]",
+		"stateInitialValue01" : "Florida",
+		"stateInitialValue02" : "Hawaii",
+		"stateInitialValue03" : "Washington"
+    },
+	"countryInitialValues" : {	
+		"countryInitialValue00" : "[Any Country]",
+		"countryInitialValue01" : "Belize",
+		"countryInitialValue02" : "Bonaire",
+		"countryInitialValue03" : "Cayman Islands",
+		"countryInitialValue04" : "Cook Islands",
+		"countryInitialValue05" : "Palau",
+		"countryInitialValue06" : "USA"
+    },
+	"diveTypeInitialValues" : {
+		"diveTypeInitialValue00" : "[None]",
+		"diveTypeInitialValue01" : "Open Water",
+		"diveTypeInitialValue02" : "Drift",
+		"diveTypeInitialValue03" : "Night",
+		"diveTypeInitialValue04" : "Wreck",
+		"diveTypeInitialValue05" : "Cave",
+		"diveTypeInitialValue06" : "Lake"
+    },
+	"diveStyleInitialValues" : {
+		"diveStyleInitialValue00" : "[None]",
+		"diveStyleInitialValue01" : "Boat Dive",
+		"diveStyleInitialValue02" : "Shore Dive",
+		"diveStyleInitialValue03" : "Pool Dive"
+    },
+	"diveEntryInitialValues" : {
+		"diveEntryInitialValue00" : "[None]",
+		"diveEntryInitialValue01" : "Giant Stride",
+		"diveEntryInitialValue02" : "Back-Roll",
+		"diveEntryInitialValue03" : "Shore",
+		"diveEntryInitialValue04" : "Stairs"
+    },
+	"weatherConditionInitialValues" : {
+		"weatherConditionInitialValue00" : "[None]",
+		"weatherConditionInitialValue01" : "Sunny",
+		"weatherConditionInitialValue02" : "Partly Cloudy",
+		"weatherConditionInitialValue03" : "Overcast",
+		"weatherConditionInitialValue04" : "Showers",
+		"weatherConditionInitialValue05" : "Light Rain",
+		"weatherConditionInitialValue06" : "Heavy Rain",
+		"weatherConditionInitialValue07" : "Snow",
+		"weatherConditionInitialValue08" : "Fog",
+		"weatherConditionInitialValue09" : "Night"
+    },
+	"seaConditionInitialValues" : {
+		"seaConditionInitialValue00" : "[None]",
+		"seaConditionInitialValue01" : "No waves",
+		"seaConditionInitialValue02" : "Small waves",
+		"seaConditionInitialValue03" : "Large waves"
+    },
+	"currentConditionInitialValues" : {
+		"currentConditionInitialValue00" : "[None]",
+		"currentConditionInitialValue01" : "Nil",
+		"currentConditionInitialValue02" : "Mild",
+		"currentConditionInitialValue03" : "Medium",
+		"currentConditionInitialValue04" : "Strong"
+    },
+	"diveTankInitialValues" : {
+		"diveTankInitialValue00" : "[None]",
+		"diveTankInitialValue01" : "AL72",
+		"diveTankInitialValue02" : "AL80",
+		"diveTankInitialValue03" : "AL100",
+		"diveTankInitialValue04" : "HP80",
+		"diveTankInitialValue05" : "HP100",
+		"diveTankInitialValue06" : "HP120"
+    }
+  }
+

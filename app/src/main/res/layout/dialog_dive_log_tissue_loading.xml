@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_vertical_margin">
+
+    <RadioGroup
+        android:id="@+id/rgTissueLoading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rbGreen"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/rb_tissue_loading_green"
+            android:button="@android:color/transparent"
+            android:checked="false"
+            android:gravity="center"
+            android:paddingBottom="12dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="12dp"
+            android:text="Green" />
+
+        <RadioButton
+            android:id="@+id/rbYellow"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/rb_tissue_loading_yellow"
+            android:button="@android:color/transparent"
+            android:checked="false"
+            android:gravity="center"
+            android:paddingBottom="12dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="12dp"
+            android:text="Yellow" />
+
+        <RadioButton
+            android:id="@+id/rbRed"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/rb_tissue_loading_red"
+            android:button="@android:color/transparent"
+            android:checked="false"
+            android:gravity="center"
+            android:paddingBottom="12dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="12dp"
+            android:text="Red" />
+    </RadioGroup>
+
+    <com.lbconsulting.divelogfirebase.customViews.MyNumberPicker
+        android:id="@+id/npTissueLoading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:width="100dp"/>
+</LinearLayout>

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Strings related to activity menu-->
+    <string name="action_settings">Settings</string>
+
+    <!--Strings related to Navigation Drawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--reef guide titles-->
+    <array name="reef_guide_titles">
+        <item>Caribbean</item>
+        <item>Hawaii</item>
+        <item>South Florida</item>
+        <item>Tropical Pacific</item>
+    </array>
+
+    <!--hawaii nav drawer titles-->
+    <string name="dive_log_selections_title">Dive Log Selections</string>
+    <string name="hawaii_disk_and_oval_fishes_1_title">Disk and Oval Fishes 1</string>
+    <string name="hawaii_disk_and_oval_fishes_2_title">Disk and Oval Fishes 2</string>
+    <string name="hawaii_silvery_fishes_title">Silvery Fishes</string>
+    <string name="hawaii_groupers_and_snappers_title">Groupers and Snappers</string>
+    <string name="hawaii_parrotfishes_and_wrasses_title">Parrotfishes and Wrasses</string>
+    <string name="hawaii_red_fishes_title">Red Fishes</string>
+    <string name="hawaii_bottom_dwellers_title">Bottom-Dwellers</string>
+    <string name="hawaii_odd_shaped_swimmers_1_title">Odd-Shaped Swimmers 1</string>
+    <string name="hawaii_odd_shaped_swimmers_2_title">Odd-Shaped Swimmers 2</string>
+    <string name="hawaii_eels_title">Eels</string>
+    <string name="hawaii_rays_and_sharks_title">Rays and Sharks</string>
+    <string name="hawaii_crustaceans_title">Crustaceans</string>
+    <string name="hawaii_worms_and_mollusks_title">Worms and Mollusks</string>
+    <string name="hawaii_cnidarians_and_tunicates_title">Cnidarians and Tunicates</string>
+    <string name="hawaii_echinoderms_title">Echinoderms</string>
+    <string name="hawaii_coral_title">Corals</string>
+    <string name="hawaii_marine_reptiles_and_mammals_title">Marine Reptiles and Mammals</string>
+    <string name="hawaii_algae_title">Algae</string>
+    <string name="hawaii_sponges_title">Sponges</string>
+
+    <!--hawaii summaryPageUids-->
+    <string name="hawaii_fish_disk_and_oval_fishes_1_uid">Hawaii-Fish-Disk and Oval Fishes 1</string>
+    <string name="hawaii_fish_disk_and_oval_fishes_2_uid">Hawaii-Fish-Disk and Oval Fishes 2</string>
+    <string name="hawaii_fish_silvery_fishes_uid">Hawaii-Fish-Silvery Fishes</string>
+    <string name="hawaii_fish_groupers_and_snappers_uid">Hawaii-Fish-Groupers and Snappers</string>
+    <string name="hawaii_fish_parrotfishes_and_wrasses_uid">Hawaii-Fish-Parrotfishes and Wrasses</string>
+    <string name="hawaii_fish_red_fishes_uid">Hawaii-Fish-Red Fishes</string>
+    <string name="hawaii_fish_bottom_dwellers_uid">Hawaii-Fish-Bottom-Dwellers</string>
+    <string name="hawaii_fish_odd_shaped_swimmers_1_uid">Hawaii-Fish-Odd-Shaped Swimmers 1</string>
+    <string name="hawaii_fish_odd_shaped_swimmers_2_uid">Hawaii-Fish-Odd-Shaped Swimmers 2</string>
+    <string name="hawaii_fish_eels_uid">Hawaii-Fish-Eels</string>
+    <string name="hawaii_fish_rays_and_sharks_uid">Hawaii-Fish-Rays and Sharks</string>
+    <string name="hawaii_invertebrates_crustaceans_uid">Hawaii-Invertebrates-Crustaceans</string>
+    <string name="hawaii_invertebrates_worms_and_mollusks_uid">Hawaii-Invertebrates-Worms and Mollusks</string>
+    <string name="hawaii_invertebrates_cnidarians_and_tunicates_uid">Hawaii-Invertebrates-Cnidarians and Tunicates</string>
+    <string name="hawaii_invertebrates_echinoderms_uid">Hawaii-Invertebrates-Echinoderms</string>
+    <string name="hawaii_corals_uid">Hawaii-Corals</string>
+    <string name="hawaii_marine_reptiles_and_mammals_uid">Hawaii-Marine Reptiles and Mammals</string>
+    <string name="hawaii_algae_uid">Hawaii-Algae</string>
+    <string name="hawaii_sponges_uid">Hawaii-Sponges</string>
+
+    <!--tropical_pacific nav drawer titles-->
+    <string name="tropical_pacific_fish_disk_and_large_oval_1_title">Disk and Large Oval 1</string>
+    <string name="tropical_pacific_fish_disk_and_large_oval_2_title">Disk and Large Oval 2</string>
+    <string name="tropical_pacific_fish_small_oval_fishes_title">Small Oval Fishes</string>
+    <string name="tropical_pacific_fish_silvery_fishes_title">Silvery Fishes</string>
+    <string name="tropical_pacific_fish_groupers_and_snappers_title">Groupers and Snappers</string>
+    <string name="tropical_pacific_fish_parrotfishes_and_wrasses_title">Parrotfishes and Wrasses</string>
+    <string name="tropical_pacific_fish_red_fishes_title">Red Fishes</string>
+    <string name="tropical_pacific_fish_gobies_and_blennies_title">Gobies and Blennies</string>
+    <string name="tropical_pacific_fish_bottom_dwellers_1_title">Bottom-Dwellers 1</string>
+    <string name="tropical_pacific_fish_bottom_dwellers_2_title">Bottom-Dwellers 2</string>
+    <string name="tropical_pacific_fish_odd_shaped_swimmers_1_title">Odd-Shaped Swimmers 1</string>
+    <string name="tropical_pacific_fish_odd_shaped_swimmers_2_title">Odd-Shaped Swimmers 2</string>
+    <string name="tropical_pacific_fish_seahorses_and_pipefishes_title">Seahorses and Pipefishes</string>
+    <string name="tropical_pacific_fish_eels_title">Eels</string>
+    <string name="tropical_pacific_fish_rays_and_sharks_title">Rays and Sharks</string>
+    <string name="tropical_pacific_invertebrates_crustaceans_1_title">Crustaceans 1</string>
+    <string name="tropical_pacific_invertebrates_crustaceans_2_title">Crustaceans 2</string>
+    <string name="tropical_pacific_invertebrates_sea_slugs_title">Sea Slugs</string>
+    <string name="tropical_pacific_invertebrates_gastropods_title">Gastropods</string>
+    <string name="tropical_pacific_invertebrates_cephalopods_title">Cephalopods</string>
+    <string name="tropical_pacific_invertebrates_bivalves_and_chitons_title">Bivalves and Chitons</string>
+    <string name="tropical_pacific_invertebrates_worms_title">Worms</string>
+    <string name="tropical_pacific_invertebrates_cnidarians_and_tunicates_title">Cnidarians and Tunicates</string>
+    <string name="tropical_pacific_invertebrates_echinoderms_title">Echinoderms</string>
+    <string name="tropical_pacific_corals_corals_title">Corals</string>
+    <string name="tropical_pacific_sponges_sponges_title">Sponges</string>
+    <string name="tropical_pacific_reptiles_mammals_marine_reptiles_and_mammals_title">Marine Reptiles and Mammals</string>
+    <string name="tropical_pacific_algae_algae_title">Algae</string>
+
+
+    <!--tropical_pacific summaryPageUids-->
+    <string name="tropical_pacific_fish_disk_and_large_oval_1_uid">tropical_pacific_fish_disk_and_large_oval_1</string>
+    <string name="tropical_pacific_fish_disk_and_large_oval_2_uid">tropical_pacific_fish_disk_and_large_oval_2</string>
+    <string name="tropical_pacific_fish_small_oval_fishes_uid">tropical_pacific_fish_small_oval_fishes</string>
+    <string name="tropical_pacific_fish_silvery_fishes_uid">tropical_pacific_fish_silvery_fishes</string>
+    <string name="tropical_pacific_fish_groupers_and_snappers_uid">tropical_pacific_fish_groupers_and_snappers</string>
+    <string name="tropical_pacific_fish_parrotfishes_and_wrasses_uid">tropical_pacific_fish_parrotfishes_and_wrasses</string>
+    <string name="tropical_pacific_fish_red_fishes_uid">tropical_pacific_fish_red_fishes</string>
+    <string name="tropical_pacific_fish_gobies_and_blennies_uid">tropical_pacific_fish_gobies_and_blennies</string>
+    <string name="tropical_pacific_fish_bottom_dwellers_1_uid">tropical_pacific_fish_bottom_dwellers_1</string>
+    <string name="tropical_pacific_fish_bottom_dwellers_2_uid">tropical_pacific_fish_bottom_dwellers_2</string>
+    <string name="tropical_pacific_fish_odd_shaped_swimmers_1_uid">tropical_pacific_fish_odd_shaped_swimmers_1</string>
+    <string name="tropical_pacific_fish_odd_shaped_swimmers_2_uid">tropical_pacific_fish_odd_shaped_swimmers_2</string>
+    <string name="tropical_pacific_fish_seahorses_and_pipefishes_uid">tropical_pacific_fish_seahorses_and_pipefishes</string>
+    <string name="tropical_pacific_fish_eels_uid">tropical_pacific_fish_eels</string>
+    <string name="tropical_pacific_fish_rays_and_sharks_uid">tropical_pacific_fish_rays_and_sharks</string>
+    <string name="tropical_pacific_invertebrates_crustaceans_1_uid">tropical_pacific_invertebrates_crustaceans_1</string>
+    <string name="tropical_pacific_invertebrates_crustaceans_2_uid">tropical_pacific_invertebrates_crustaceans_2</string>
+    <string name="tropical_pacific_invertebrates_sea_slugs_uid">tropical_pacific_invertebrates_sea_slugs</string>
+    <string name="tropical_pacific_invertebrates_gastropods_uid">tropical_pacific_invertebrates_gastropods</string>
+    <string name="tropical_pacific_invertebrates_cephalopods_uid">tropical_pacific_invertebrates_cephalopods</string>
+    <string name="tropical_pacific_invertebrates_bivalves_and_chitons_uid">tropical_pacific_invertebrates_bivalves_and_chitons</string>
+    <string name="tropical_pacific_invertebrates_worms_uid">tropical_pacific_invertebrates_worms</string>
+    <string name="tropical_pacific_invertebrates_cnidarians_and_tunicates_uid">tropical_pacific_invertebrates_cnidarians_and_tunicates</string>
+    <string name="tropical_pacific_invertebrates_echinoderms_uid">tropical_pacific_invertebrates_echinoderms</string>
+    <string name="tropical_pacific_corals_corals_uid">tropical_pacific_corals_corals</string>
+    <string name="tropical_pacific_sponges_sponges_uid">tropical_pacific_sponges_sponges</string>
+    <string name="tropical_pacific_reptiles_mammals_marine_reptiles_and_mammals_uid">tropical_pacific_reptiles_mammals_marine_reptiles_and_mammals</string>
+    <string name="tropical_pacific_algae_algae_uid">tropical_pacific_algae_algae</string>
+
+
+    <!--caribbean arrays-->
+    <array name="caribbean_summaryPageTitles">
+        <item>Disk and Large Oval</item>
+        <item>Small Oval Fishes</item>
+        <item>Small Oval Hamlets</item>
+        <item>Silvery Fishes</item>
+        <item>Groupers and Seabasses</item>
+        <item>Grunts and Snappers</item>
+        <item>Parrotfishes and Wrasses</item>
+        <item>Red Fishes</item>
+        <item>Gobies</item>
+        <item>Blennies</item>
+        <item>Bottom-Dwellers</item>
+        <item>Odd-Shaped Swimmers 1</item>
+        <item>Odd-Shaped Swimmers 2</item>
+        <item>Eels</item>
+        <item>Rays and Sharks</item>
+        <item>Crustaceans 1</item>
+        <item>Crustaceans 2</item>
+        <item>Worms</item>
+        <item>Gastropods</item>
+        <item>Cephalopods</item>
+        <item>Bivalves and Chitions</item>
+        <item>Cnidarians</item>
+        <item>Echinoderms 1</item>
+        <item>Echinoderms 2</item>
+        <item>Tunicates and Bryozoans</item>
+        <item>Sponges</item>
+        <item>Corals 1</item>
+        <item>Corals 2</item>
+        <item>Algae</item>
+        <item>Marine Reptiles and Mammals</item>
+    </array>
+
+    <array name="caribbean_summaryPageUrls">
+        <item>http://reefguide.org/carib/index1.html</item>
+        <item>http://reefguide.org/carib/index3.html</item>
+        <item>http://reefguide.org/carib/index51.html</item>
+        <item>http://reefguide.org/carib/index2.html</item>
+        <item>http://reefguide.org/carib/index4.html</item>
+        <item>http://reefguide.org/carib/index5.html</item>
+        <item>http://reefguide.org/carib/index6.html</item>
+        <item>http://reefguide.org/carib/index8.html</item>
+        <item>http://reefguide.org/carib/index9.html</item>
+        <item>http://reefguide.org/carib/index10.html</item>
+        <item>http://reefguide.org/carib/index11.html</item>
+        <item>http://reefguide.org/carib/index12.html</item>
+        <item>http://reefguide.org/carib/index13.html</item>
+        <item>http://reefguide.org/carib/index14.html</item>
+        <item>http://reefguide.org/carib/index15.html</item>
+        <item>http://reefguide.org/carib/index16.html</item>
+        <item>http://reefguide.org/carib/index17.html</item>
+        <item>http://reefguide.org/carib/index18.html</item>
+        <item>http://reefguide.org/carib/index19.html</item>
+        <item>http://reefguide.org/carib/index53.html</item>
+        <item>http://reefguide.org/carib/index54.html</item>
+        <item>http://reefguide.org/carib/index20.html</item>
+        <item>http://reefguide.org/carib/index21.html</item>
+        <item>http://reefguide.org/carib/index22.html</item>
+        <item>http://reefguide.org/carib/index23.html</item>
+        <item>http://reefguide.org/carib/index24.html</item>
+        <item>http://reefguide.org/carib/index25.html</item>
+        <item>http://reefguide.org/carib/index26.html</item>
+        <item>http://reefguide.org/carib/index27.html</item>
+        <item>http://reefguide.org/carib/index28.html</item>
+    </array>
+
+    <array name="caribbean_summaryPageUids">
+        <item>caribbean_fish_disk_and_large_oval</item>
+        <item>caribbean_fish_small_oval_fishes</item>
+        <item>caribbean_fish_small_oval_hamlets</item>
+        <item>caribbean_fish_silvery_fishes</item>
+        <item>caribbean_fish_groupers_and_seabasses</item>
+        <item>caribbean_fish_grunts_and_snappers</item>
+        <item>caribbean_fish_parrotfishes_and_wrasses</item>
+        <item>caribbean_fish_red_fishes</item>
+        <item>caribbean_fish_gobies</item>
+        <item>caribbean_fish_blennies</item>
+        <item>caribbean_fish_bottom_dwellers</item>
+        <item>caribbean_fish_odd_shaped_swimmers_1</item>
+        <item>caribbean_fish_odd_shaped_swimmers_2</item>
+        <item>caribbean_fish_eels</item>
+        <item>caribbean_fish_rays_and_sharks</item>
+        <item>caribbean_invertebrates_crustaceans_1</item>
+        <item>caribbean_invertebrates_crustaceans_2</item>
+        <item>caribbean_invertebrates_worms</item>
+        <item>caribbean_invertebrates_gastropods</item>
+        <item>caribbean_invertebrates_cephalopods</item>
+        <item>caribbean_invertebrates_bivalves_and_chitions</item>
+        <item>caribbean_invertebrates_cnidarians</item>
+        <item>caribbean_invertebrates_echinoderms_1</item>
+        <item>caribbean_invertebrates_echinoderms_2</item>
+        <item>caribbean_invertebrates_tunicates_and_bryozoans</item>
+        <item>caribbean_sponges_sponges</item>
+        <item>caribbean_corals_corals_1</item>
+        <item>caribbean_corals_corals_2</item>
+        <item>caribbean_algae_algae</item>
+        <item>caribbean_reptiles_mammals_marine_reptiles_and_mammals</item>
+    </array>
+
+    <!--hawaii arrays-->
+    <array name="hawaii_summaryPageTitles">
+        <item>Disk and Oval Fishes 1</item>
+        <item>Disk and Oval Fishes 2</item>
+        <item>Silvery Fishes</item>
+        <item>Groupers and Snappers</item>
+        <item>Parrotfishes and Wrasses</item>
+        <item>Red Fishes</item>
+        <item>Bottom-Dwellers</item>
+        <item>Odd-Shaped Swimmers 1</item>
+        <item>Odd-Shaped Swimmers 2</item>
+        <item>Eels</item>
+        <item>Rays and Sharks</item>
+        <item>Crustaceans</item>
+        <item>Worms and Mollusks</item>
+        <item>Cnidarians and Tunicates</item>
+        <item>Echinoderms</item>
+        <item>Corals</item>
+        <item>Marine Reptiles and Mammals</item>
+        <item>Algae</item>
+        <item>Sponges</item>
+    </array>
+
+    <array name="hawaii_summaryPageUrls">
+        <item>http://reefguide.org/hawaii/index1.html</item>
+        <item>http://reefguide.org/hawaii/index2.html</item>
+        <item>http://reefguide.org/hawaii/index3.html</item>
+        <item>http://reefguide.org/hawaii/index4.html</item>
+        <item>http://reefguide.org/hawaii/index5.html</item>
+        <item>http://reefguide.org/hawaii/index6.html</item>
+        <item>http://reefguide.org/hawaii/index7.html</item>
+        <item>http://reefguide.org/hawaii/index8.html</item>
+        <item>http://reefguide.org/hawaii/index9.html</item>
+        <item>http://reefguide.org/hawaii/index10.html</item>
+        <item>http://reefguide.org/hawaii/index11.html</item>
+        <item>http://reefguide.org/hawaii/index12.html</item>
+        <item>http://reefguide.org/hawaii/index13.html</item>
+        <item>http://reefguide.org/hawaii/index14.html</item>
+        <item>http://reefguide.org/hawaii/index15.html</item>
+        <item>http://reefguide.org/hawaii/index16.html</item>
+        <item>http://reefguide.org/hawaii/index17.html</item>
+        <item>http://reefguide.org/hawaii/index18.html</item>
+        <item>http://reefguide.org/hawaii/index19.html</item>
+    </array>
+
+    <array name="hawaii_summaryPageUids">
+        <item>hawaii_fish_disk_and_oval_fishes_1</item>
+        <item>hawaii_fish_disk_and_oval_fishes_2</item>
+        <item>hawaii_fish_silvery_fishes</item>
+        <item>hawaii_fish_groupers_and_snappers</item>
+        <item>hawaii_fish_parrotfishes_and_wrasses</item>
+        <item>hawaii_fish_red_fishes</item>
+        <item>hawaii_fish_bottom_dwellers</item>
+        <item>hawaii_fish_odd_shaped_swimmers_1</item>
+        <item>hawaii_fish_odd_shaped_swimmers_2</item>
+        <item>hawaii_fish_eels</item>
+        <item>hawaii_fish_rays_and_sharks</item>
+        <item>hawaii_invertebrates_crustaceans</item>
+        <item>hawaii_invertebrates_worms_and_mollusks</item>
+        <item>hawaii_invertebrates_cnidarians_and_tunicates</item>
+        <item>hawaii_invertebrates_echinoderms</item>
+        <item>hawaii_corals_corals</item>
+        <item>hawaii_reptiles_mammals_marine_reptiles_and_mammals</item>
+        <item>hawaii_algae_algae</item>
+        <item>hawaii_sponges_sponges</item>
+    </array>
+
+    <!--south_florida arrays-->
+    <array name="south_florida_summaryPageTitles">
+        <item>Disk and Large Oval</item>
+        <item>Small Oval Fishes</item>
+        <item>Silvery Fishes</item>
+        <item>Groupers and Seabasses</item>
+        <item>Grunts and Snappers</item>
+        <item>Parrotfishes</item>
+        <item>Wrasses and Razorfishes</item>
+        <item>Red Fishes</item>
+        <item>Gobies and Blennies</item>
+        <item>Bottom-Dwellers</item>
+        <item>Odd-Shaped Swimmers 1</item>
+        <item>Odd-Shaped Swimmers 2</item>
+        <item>Eels</item>
+        <item>Rays and Sharks</item>
+        <item>Crustaceans 1</item>
+        <item>Crustaceans 2</item>
+        <item>Worms</item>
+        <item>Mollusks</item>
+        <item>Cnidarians</item>
+        <item>Echinoderms 1</item>
+        <item>Echinoderms 2</item>
+        <item>Tunicates</item>
+        <item>Sponges</item>
+        <item>Corals 1</item>
+        <item>Corals 2</item>
+        <item>Algae</item>
+        <item>Marine Reptiles and Mammals</item>
+    </array>
+
+    <array name="south_florida_summaryPageUrls">
+        <item>http://reefguide.org/keys/index1.html</item>
+        <item>http://reefguide.org/keys/index3.html</item>
+        <item>http://reefguide.org/keys/index2.html</item>
+        <item>http://reefguide.org/keys/index4.html</item>
+        <item>http://reefguide.org/keys/index5.html</item>
+        <item>http://reefguide.org/keys/index6.html</item>
+        <item>http://reefguide.org/keys/index7.html</item>
+        <item>http://reefguide.org/keys/index8.html</item>
+        <item>http://reefguide.org/keys/index9.html</item>
+        <item>http://reefguide.org/keys/index10.html</item>
+        <item>http://reefguide.org/keys/index11.html</item>
+        <item>http://reefguide.org/keys/index12.html</item>
+        <item>http://reefguide.org/keys/index13.html</item>
+        <item>http://reefguide.org/keys/index14.html</item>
+        <item>http://reefguide.org/keys/index15.html</item>
+        <item>http://reefguide.org/keys/index16.html</item>
+        <item>http://reefguide.org/keys/index17.html</item>
+        <item>http://reefguide.org/keys/index18.html</item>
+        <item>http://reefguide.org/keys/index19.html</item>
+        <item>http://reefguide.org/keys/index20.html</item>
+        <item>http://reefguide.org/keys/index21.html</item>
+        <item>http://reefguide.org/keys/index22.html</item>
+        <item>http://reefguide.org/keys/index23.html</item>
+        <item>http://reefguide.org/keys/index24.html</item>
+        <item>http://reefguide.org/keys/index25.html</item>
+        <item>http://reefguide.org/keys/index26.html</item>
+        <item>http://reefguide.org/keys/index27.html</item>
+    </array>
+
+    <array name="south_florida_summaryPageUids">
+        <item>south_florida_fish_disk_and_large_oval</item>
+        <item>south_florida_fish_small_oval_fishes</item>
+        <item>south_florida_fish_silvery_fishes</item>
+        <item>south_florida_fish_groupers_and_seabasses</item>
+        <item>south_florida_fish_grunts_and_snappers</item>
+        <item>south_florida_fish_parrotfishes</item>
+        <item>south_florida_fish_wrasses_and_razorfishes</item>
+        <item>south_florida_fish_red_fishes</item>
+        <item>south_florida_fish_gobies_and_blennies</item>
+        <item>south_florida_fish_bottom_dwellers</item>
+        <item>south_florida_fish_odd_shaped_swimmers_1</item>
+        <item>south_florida_fish_odd_shaped_swimmers_2</item>
+        <item>south_florida_fish_eels</item>
+        <item>south_florida_fish_rays_and_sharks</item>
+        <item>south_florida_invertebrates_crustaceans_1</item>
+        <item>south_florida_invertebrates_crustaceans_2</item>
+        <item>south_florida_invertebrates_worms</item>
+        <item>south_florida_invertebrates_mollusks</item>
+        <item>south_florida_invertebrates_cnidarians</item>
+        <item>south_florida_invertebrates_echinoderms_1</item>
+        <item>south_florida_invertebrates_echinoderms_2</item>
+        <item>south_florida_invertebrates_tunicates</item>
+        <item>south_florida_sponges_sponges</item>
+        <item>south_florida_corals_corals_1</item>
+        <item>south_florida_corals_corals_2</item>
+        <item>south_florida_algae_algae</item>
+        <item>south_florida_reptiles_mammals_marine_reptiles_and_mammals</item>
+    </array>
+
+    <!--tropical_pacific arrays-->
+    <array name="tropical_pacific_summaryPageTitles">
+        <item>Disk and Large Oval 1</item>
+        <item>Disk and Large Oval 2</item>
+        <item>Small Oval Fishes</item>
+        <item>Silvery Fishes</item>
+        <item>Groupers and Snappers</item>
+        <item>Parrotfishes and Wrasses</item>
+        <item>Red Fishes</item>
+        <item>Gobies and Blennies</item>
+        <item>Bottom-Dwellers 1</item>
+        <item>Bottom-Dwellers 2</item>
+        <item>Odd-Shaped Swimmers 1</item>
+        <item>Odd-Shaped Swimmers 2</item>
+        <item>Seahorses and Pipefishes</item>
+        <item>Eels</item>
+        <item>Rays and Sharks</item>
+        <item>Crustaceans 1</item>
+        <item>Crustaceans 2</item>
+        <item>Sea Slugs</item>
+        <item>Gastropods</item>
+        <item>Cephalopods</item>
+        <item>Bivalves and Chitons</item>
+        <item>Worms</item>
+        <item>Cnidarians and Tunicates</item>
+        <item>Echinoderms</item>
+        <item>Corals</item>
+        <item>Sponges</item>
+        <item>Marine Reptiles and Mammals</item>
+        <item>Algae</item>
+    </array>
+
+    <array name="tropical_pacific_summaryPageUrls">
+        <item>http://reefguide.org/indopac/index1.html</item>
+        <item>http://reefguide.org/indopac/index2.html</item>
+        <item>http://reefguide.org/indopac/index40.html</item>
+        <item>http://reefguide.org/indopac/index3.html</item>
+        <item>http://reefguide.org/indopac/index4.html</item>
+        <item>http://reefguide.org/indopac/index5.html</item>
+        <item>http://reefguide.org/indopac/index6.html</item>
+        <item>http://reefguide.org/indopac/index7.html</item>
+        <item>http://reefguide.org/indopac/index48.html</item>
+        <item>http://reefguide.org/indopac/index8.html</item>
+        <item>http://reefguide.org/indopac/index9.html</item>
+        <item>http://reefguide.org/indopac/index10.html</item>
+        <item>http://reefguide.org/indopac/index49.html</item>
+        <item>http://reefguide.org/indopac/index11.html</item>
+        <item>http://reefguide.org/indopac/index12.html</item>
+        <item>http://reefguide.org/indopac/index45.html</item>
+        <item>http://reefguide.org/indopac/index13.html</item>
+        <item>http://reefguide.org/indopac/index14.html</item>
+        <item>http://reefguide.org/indopac/index41.html</item>
+        <item>http://reefguide.org/indopac/index15.html</item>
+        <item>http://reefguide.org/indopac/index42.html</item>
+        <item>http://reefguide.org/indopac/index16.html</item>
+        <item>http://reefguide.org/indopac/index17.html</item>
+        <item>http://reefguide.org/indopac/index18.html</item>
+        <item>http://reefguide.org/indopac/index19.html</item>
+        <item>http://reefguide.org/indopac/index20.html</item>
+        <item>http://reefguide.org/indopac/index21.html</item>
+        <item>http://reefguide.org/indopac/index22.html</item>
+    </array>
+
+    <array name="tropical_pacific_summaryPageUids">
+        <item>tropical_pacific_fish_disk_and_large_oval_1</item>
+        <item>tropical_pacific_fish_disk_and_large_oval_2</item>
+        <item>tropical_pacific_fish_small_oval_fishes</item>
+        <item>tropical_pacific_fish_silvery_fishes</item>
+        <item>tropical_pacific_fish_groupers_and_snappers</item>
+        <item>tropical_pacific_fish_parrotfishes_and_wrasses</item>
+        <item>tropical_pacific_fish_red_fishes</item>
+        <item>tropical_pacific_fish_gobies_and_blennies</item>
+        <item>tropical_pacific_fish_bottom_dwellers_1</item>
+        <item>tropical_pacific_fish_bottom_dwellers_2</item>
+        <item>tropical_pacific_fish_odd_shaped_swimmers_1</item>
+        <item>tropical_pacific_fish_odd_shaped_swimmers_2</item>
+        <item>tropical_pacific_fish_seahorses_and_pipefishes</item>
+        <item>tropical_pacific_fish_eels</item>
+        <item>tropical_pacific_fish_rays_and_sharks</item>
+        <item>tropical_pacific_invertebrates_crustaceans_1</item>
+        <item>tropical_pacific_invertebrates_crustaceans_2</item>
+        <item>tropical_pacific_invertebrates_sea_slugs</item>
+        <item>tropical_pacific_invertebrates_gastropods</item>
+        <item>tropical_pacific_invertebrates_cephalopods</item>
+        <item>tropical_pacific_invertebrates_bivalves_and_chitons</item>
+        <item>tropical_pacific_invertebrates_worms</item>
+        <item>tropical_pacific_invertebrates_cnidarians_and_tunicates</item>
+        <item>tropical_pacific_invertebrates_echinoderms</item>
+        <item>tropical_pacific_corals_corals</item>
+        <item>tropical_pacific_sponges_sponges</item>
+        <item>tropical_pacific_reptiles_mammals_marine_reptiles_and_mammals</item>
+        <item>tropical_pacific_algae_algae</item>
+    </array>
+
+</resources>

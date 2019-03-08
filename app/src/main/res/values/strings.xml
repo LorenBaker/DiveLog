@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Dive Log</string>
+    <string name="title_activity_dive_log_list">DiveLogListActivity</string>
+    <string name="title_activity_dive_log_pager">DiveLogPagerActivity</string>
+
+    <!--Strings related to AuthUiActivity-->
+    <string name="unknown_response">AuthUiActivity: Unexpected onActivityResult response code</string>
+    <string name="unknown_sign_in_response">Unknown response from AuthUI sign-in</string>
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="sign_out_failed">Sign out failed</string>
+
+    <!--Strings related to SignInActivity-->
+    <string name="btnCreateAccount_text">Create Coach\'s Log Account</string>
+    <string name="btnEmailSignIn_text">Sign In To Coach\'s Log</string>
+    <string name="btnShowCreateAccount_text">Show Create Coach\'s Log Account</string>
+    <string name="btnShowSignIn_text">Show Sign In To Coach\'s Log</string>
+    <string name="signInActivity_title">Sign In To Coach\'s Log</string>
+    <string name="txtDisplayName_hint">Your Name</string>
+    <string name="txtDisplayName_isEmpty_error">Your name is required</string>
+    <string name="txtEmail_isEmpty_error">Email is required</string>
+    <string name="txtEmail_valid_error">Email not valid</string>
+    <string name="txtEmailField_hint">Email</string>
+    <string name="txtPassword_isEmpty_error">Password is required</string>
+    <string name="txtPassword_notEqual_error">Passwords don\'t match</string>
+    <string name="txtPassword_validPassword_error">Password not valid</string>
+    <string name="txtPassword1_hint">Password</string>
+    <string name="txtPassword2_hint">Reenter Password</string>
+    <string name="validPasswordDescription">Password must be at least 6 and not more than 20 characters long, contain a minimum of one lower case letter, one upper case letter, and one digit.</string>
+    <!--Strings related to SignInActivity-->
+
+    <!--Strings related to creating, editing, or deleting a Person-->
+    <string name="personName_isEmpty_error">Name cannot be empty.\nPlease enter a unique name.</string>
+    <string name="personName_isDefault_error">Name cannot start with \"[\".\nPlease enter a unique name that does not start with\"[\".</string>
+    <string name="personName_nameExists_error">Name \"%1s\" already exists.\nPlease enter a unique name.</string>
+    <string name="newPersonName_noPersonType_error">Please check at least one of the following: \"Buddy\", \"Dive Master\", or \"Company\"."</string>
+    <string name="okToDeletePerson_dialogTitle">Permanently delete \"%s\"?</string>
+    <string name="defaultValueChange_okMessage">The default value \"%s\" can not be deleted or edited. Please select a non-default value.</string>
+    <string name="safeToDeletePerson">Safe to delete. No dive logs affected.</string>
+
+    <!--Strings related to creating, editing, or deleting a DiveSite-->
+    <string name="okToDeleteDiveSite_dialogTitle">Permanently delete \"%s\"?</string>
+    <string name="diveSiteName_nameExists_error">\"%1s\" already exists.\nPlease enter a unique combination of name, area, state, and country.</string>
+    <string name="safeToDeleteDiveSite">Safe to delete. No dive logs affected.</string>
+    <string name="diveSiteToolbarTitlePrefix">"Dive %d: "</string>
+
+    <!--Strings related to creating, editing, or deleting a SelectionValue-->
+    <string name="selectionValue_isEmpty_error">Name cannot be empty.\nPlease enter a unique name.</string>
+    <string name="okToDeleteSelectionValue_dialogTitle">Permanently delete \"%s\"?</string>
+    <string name="selectionValueName_nameExists_error">\"%1$s\" already exists.\nPlease enter a unique name.</string>
+    <string name="safeToDeleteSelectionValue_diveLogs">Safe to delete. No dive logs affected.</string>
+    <string name="safeToDeleteSelectionValue_diveSites">Safe to delete. No dive sites affected.</string>
+    <string name="cannotEditDefault_message">Cannot edit default value!</string>
+    <string name="selectionValue_containsInvalidCharacters_error">Name cannot include any of the following invalid characters: . (period), $ (dollar sign), [ (left square bracket), ] (right square bracket), # (hash or pound sign), or / (forward slash)</string>
+
+    <!--Strings related to DiveLogDetailFragment-->
+    <string name="bottomTimeSummary">BT to date: %1$s\nTotal BT: %2$s\nTotal Dives: %3$s</string>
+    <string name="degrees_C"> °C</string>
+    <string name="degrees_F"> °F</string>
+    <string name="prefix_airTemp">Air: %1$s %2$s</string>
+    <string name="prefix_airUsed">Used: %1$s %2$s</string>
+    <string name="prefix_bottomTime">BT: %s</string>
+    <string name="prefix_buddy">Buddy: %s</string>
+    <string name="prefix_company">Company: %s</string>
+    <string name="prefix_currents">"Currents: %1$s"</string>
+    <string name="prefix_diveEntry">Dive Entry: %s</string>
+    <string name="prefix_master">Master: %s</string>
+    <string name="prefix_diveStyle">Dive Style: %s</string>
+    <string name="prefix_diveType">Dive Type: %s</string>
+    <string name="prefix_endingTankPressure">End: %1$s %2$s</string>
+    <string name="prefix_endTime">Out: %s</string>
+    <string name="prefix_equipment">Equipment: %s</string>
+    <string name="prefix_marineLife">Marine Life: %s</string>
+    <string name="no_marineLife_entries">No entries</string>
+    <string name="no_marineLifeNotes_entries">No marine life notes</string>
+    <string name="no_dive_notes">No dive notes</string>
+    <string name="prefix_maxDepth">Max Depth: %1$s %2$s</string>
+    <string name="prefix_notes">Notes: %s</string>
+    <string name="prefix_seas">Seas: %s</string>
+    <string name="prefix_startingTankPressure">Start: %1$s %2$s</string>
+    <string name="prefix_startTime">In: %s</string>
+    <string name="prefix_surfaceInterval">SI: %s</string>
+    <string name="prefix_tank">Tank: %s</string>
+    <string name="prefix_visibility">Vis: %1$s %2$s</string>
+    <string name="prefix_waterTemp">Water: %1$s %2$s</string>
+    <string name="prefix_weather">Weather: %s</string>
+    <string name="prefix_weight">Weight: %1$s %2$s</string>
+    <string name="suffix_bars">bars</string>
+    <string name="suffix_ft">"ft"</string>
+    <string name="suffix_kg">kg</string>
+    <string name="suffix_lbs">lbs</string>
+    <string name="suffix_m">"m"</string>
+    <string name="suffix_psi">psi</string>
+    <string name="tissueLoading">%1$s %2$s</string>
+    <string name="tissueLoading_none">Tissue</string>
+    <string name="tissueLoading_green">Green</string>
+    <string name="tissueLoading_Red">Red</string>
+    <string name="tissueLoading_Yellow">Yellow</string>
+
+    <!--Strings related to DiveLogListActivity and DiveLogPagerActivity menus-->
+    <string name="action_deleteDiveLog_title">Delete dive log</string>
+    <string name="action_diveLogFilter_title">Filter dive logs</string>
+    <string name="action_sequenceDiveLogs_title">Sequence dive logs</string>
+    <string name="action_sortMostRecentDiveFirst_title">Sort: Most recent first</string>
+    <string name="action_sortMostRecentDiveLast_title">Sort: Most recent last</string>
+    <string name="action_switchToImperial_title">Switch to imperial units</string>
+    <string name="action_switchToMetric_title">Switch to metric units</string>
+    <string name="action_use_today_for_new_dive_date_title">Use today for new dive start</string>
+    <string name="action_use_last_dive_for_new_dive_date_title">Use last dive for new dive start</string>
+    <string name="action_signOut_title">Sign out</string>
+    <string name="action_selectReefGuide_title">Select Reef Guide</string>
+    <string name="action_refreshReefGuide_title">Refresh Reef Guide</string>
+
+    <!--Strings related to fragment_dive_log_detail.xml-->
+    <string name="btnAirTemperature_hint">AIR TEMP</string>
+    <string name="btnAirUsed_hint">AIR USED</string>
+    <string name="btnBottomTime_hint">BOTTOM TIME</string>
+    <string name="btnBuddyMasterCompany_title">People and Dive Company</string>
+    <string name="btnCompany_hint">DIVE COMPANY</string>
+    <string name="btnCurrentCondition_hint">CURRENTS</string>
+    <string name="btnDiveBuddy_hint">DIVE BUDDY</string>
+    <string name="btnDiveConditions_title">Other Dive Information</string>
+    <string name="btnDiveDate_hint">DIVE DATE</string>
+    <string name="btnDiveEntry_hint">DIVE ENTRY</string>
+    <string name="btnDiveEquipment_hint">EQUIPMENT</string>
+    <string name="btnDiveEquipment_title">Equipment</string>
+    <string name="btnDiveInfo_title">More Dive Details</string>
+    <string name="btnDiveMaster_hint">DIVE MASTER</string>
+    <string name="btnDiveNotes_hint">NOTES</string>
+    <string name="btnDiveNotes_title">Notes</string>
+    <string name="btnDiveSite_hint">DIVE SITE</string>
+    <string name="btnDiveStats_title">Dive Details</string>
+    <string name="btnDiveStyle_hint">DIVE STYLE</string>
+    <string name="btnDiveTankType_hint">TANK TYPE</string>
+    <string name="btnDiveType">DIVE TYPE</string>
+    <string name="btnEndingTankPressure_hint">END PRESSURE</string>
+    <string name="btnEndTime_hint">DIVE END TIME</string>
+    <string name="btnMarineLife_hint">MARINE LIFE</string>
+    <string name="btnMarineLife_title">Marine Life Photos</string>
+    <string name="btnMarineLifeNotes_title">Marine Life Notes</string>
+    <string name="btnMaximumDepth_hint">MAX DEPTH</string>
+    <string name="btnSeaCondition_hint">SEA CONDITIONS</string>
+    <string name="btnStartingTankPressure_hint">START PRESSURE</string>
+    <string name="btnStartTime_hint">DIVE START TIME</string>
+    <string name="btnSurfaceInterval_hint">SURFACE INTERVAL</string>
+    <string name="btnTimeZone_hint">TIME ZONE</string>
+    <string name="btnTissueLoading_hint">TISSUE LOADING</string>
+    <string name="btnVisibility_hint">VISIBILITY</string>
+    <string name="btnWaterTemperature_hint">WATER TEMP</string>
+    <string name="btnWeatherCondition_hint">WEATHER CONDITIONS</string>
+    <string name="btnWeightUsed_hint">WEIGHT</string>
+    <string name="createArea_title">Create Area</string>
+    <string name="createCountry_title">Create Country</string>
+    <string name="createCurrentCondition_title">Create Current Condition</string>
+    <string name="createDiveEntry_title">Create Dive Entry</string>
+    <string name="createDiveStyle_title">Create Dive Style</string>
+    <string name="createDiveTank_title">Create Dive Tank</string>
+    <string name="createDiveType_title">Create Dive Type</string>
+    <string name="createSeaCondition_title">Create Sea Condition</string>
+    <string name="createState_title">Create State</string>
+    <string name="createWeatherCondition_title">Create Weather Condition</string>
+    <string name="dialogSelectTimeZone_title">Select Dive Site Location</string>
+    <string name="editArea_title">Edit Area</string>
+    <string name="editCountry_title">Edit Country</string>
+    <string name="editCurrentCondition_title">Edit Current Condition</string>
+    <string name="editDiveEntry_title">Edit Dive Entry</string>
+    <string name="editDiveStyle_title">Edit Dive Style</string>
+    <string name="editDiveTank_title">Edit Dive Tank</string>
+    <string name="editDiveType_title">Edit Dive Type</string>
+    <string name="editSeaCondition_title">Edit Sea Condition</string>
+    <string name="editState_title">Edit State</string>
+    <string name="editWeatherCondition_title">Edit Weather Condition</string>
+
+
+    <!--Strings related to dialogDiveSiteEditNew-->
+    <string name="createNewDiveSite_title">Create New Dive Site</string>
+    <string name="diveArea_btnText">Dive Area: %s</string>
+    <string name="diveState_btnText">Dive State: %s</string>
+    <string name="diveCountry_btnText">Dive Country: %s</string>
+    <string name="title_activity_reef_guide">ReefGuideActivity</string>
+    <string name="florent_s_tropical_reef_life_guides">Florent\'s Tropical Reef Life Guides</string>
+    <string name="title_activity_marine_notes">MarineNotesActivity</string>
+
+    <!--Strings related to AppSettings filter titles-->
+    <string name="filter_triple_values">Filter: %1$s %2$s %3$s</string>
+    <string name="filter_double_values">Filter: %1$s %2$s</string>
+    <string name="filter_single_value">Filter: %s</string>
+    <string name="filter_no_value">No Filter</string>
+
+    <!--Strings related to DiveLogEquipment dialogs-->
+    <string name="dialogDiveLogEquipmentPicker_title">Select Equipment</string>
+    <string name="dialogDiveLogEquipmentEditNewItem_newTitle">New Equipment Item</string>
+    <string name="dialogDiveLogEquipmentEditNewItem_editTitle">Edit Equipment Item</string>
+    <string name="invalid_equipment_item_title">Invalid Equipment Item</string>
+    <string name="equipment_item_exists_message">\"%s\" already exists in the database!</string>
+    <string name="equipment_item_is_empty_message">Equipment item is empty!</string>
+    <string name="no_equipment_items_checked_message">No equipment items isChecked.</string>
+    <string name="title_activity_auth_ui2">AuthUiActivity2</string>
+
+
+</resources>

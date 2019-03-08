@@ -1,0 +1,166 @@
+appMetrics
+	|-- userUid
+		|-- diveLogArraySize
+		|-- diveSiteArraySize
+		|-- peopleArraySize
+		
+appSettings
+	|-- userUid
+		|-- appSettingsUid
+		|-- areaFilter
+		|-- countryFilter
+		|-- displayName
+		|-- imperialUnits
+		|-- lastDiveLogViewedUid
+		|-- recyclerViewFirstVisiblePosition
+		|-- recyclerViewTop
+		|-- recyclerViewVisible
+		|-- sortDiveLogsDescending
+		|-- stateFilter
+		
+diveEquipment
+	|-- userUid
+		|-- diveEquipmentList
+			|-- HashMap<String, Boolean> diveEquipmentList
+		
+diveLogs
+	|-- userUid
+		|-- diveLogUid
+			|-- accumulatedBottomTimeToDate
+			|-- airTemperature
+ 			|-- airUsed 
+ 			|-- area 
+ 			|-- bottomTime 
+  			|-- country 
+  			|-- currentCondition 
+ 			|-- diveBuddyPersonUid 
+ 			|-- diveCompanyPersonUid 
+ 			|-- diveEnd 
+ 			|-- diveEntry 
+ 			|-- diveLogUid 
+ 			|-- diveMasterPersonUid 
+ 			|-- diveNotes 
+ 			|-- diveNumber 
+ 			|-- divePhotosUrl 
+ 			|-- diveRating 
+ 			|-- diveSiteTimeZoneID 
+ 			|-- diveSiteUid 
+ 			|-- diveStart 
+ 			|-- diveStyle 
+ 			|-- diveType 
+ 			|-- endingTankPressure
+ 			|-- equipmentList 
+ 			|-- marineLife 
+ 			|-- maximumDepth 
+ 			|-- nextDiveLogUid 
+ 			|-- previousDiveLogUid 
+ 			|-- seaCondition 
+ 			|-- sequencingRequired 
+ 			|-- startingTankPressure
+ 			|-- state
+ 			|-- surfaceInterval
+ 			|-- tankType
+ 			|-- tissueLoadingColor
+ 			|-- tissueLoadingValue
+ 			|-- visibility 
+ 			|-- waterTemperature 
+ 			|-- weatherCondition 
+ 			|-- weightUsed
+
+
+			
+						
+diveSites
+	|-- userUid
+		|-- diveSiteUid
+			|-- area
+			|-- country
+			|-- diveLogs
+				|-- diveLogUid: true
+ 			|-- diveSiteName
+ 			|-- diveSiteUid
+ 			|-- state
+
+initialDiveEquipment
+	|-- BCD:
+	|-- Camera:
+	|-- Dive computer:
+	|-- Dive flag and float:
+	|-- Dive knife:
+	|-- Dive light:
+	|-- Dive watch:
+	|-- Dry suit:
+	|-- Fins:
+	|-- Mask:
+	|-- Pressure gauge:
+	|-- Rebreather:
+	|-- Regulator:
+	|-- Scuba tank:
+	|-- Sidemount:
+	|-- Signaling devices:
+	|-- Snorkel:
+	|-- Weights-integrated:
+	|-- Weights-on belt:
+	|-- Wetsuit-full:
+	|-- Wetsuit-hood:
+	|-- Wetsuit-shorty:
+	
+initialSelectionValues
+	|-- areaInitialValues
+	|-- countryInitialValues
+	|-- currentConditionInitialValues
+	|-- diveEntryInitialValues
+	|-- diveStyleInitialValues
+	|-- diveTankInitialValues
+	|-- diveTypeInitialValues
+	|-- seaConditionInitialValues
+	|-- stateInitialValues
+	|-- weatherConditionInitialValues
+	
+people
+	|-- userUid
+		|-- personUid
+			|-- buddy
+			|-- company
+			|-- contactID 
+			|-- diveLogsAsBuddy
+				|-- diveLogUid: true
+			|-- diveLogsAsCompany
+				|-- diveLogUid: true
+			|-- diveLogsAsDiveMaster
+				|-- diveLogUid: true
+			|-- diveMaster
+			|-- name
+			|-- personUid
+			|-- photoUrl
+
+
+			
+			
+					
+selectionValues
+	|-- userUid
+		|-- areaValues
+			|-- key
+				|-- diveSites
+					|-- diveSiteUid:true
+ 				|-- key
+				|-- nodeName
+ 				|-- userUid
+ 				|-- value
+		|-- countryValues
+		|-- currentConditionValues
+		|-- diveEntryValues
+		|-- diveStyleValues
+		|-- diveTankValues
+		|-- diveTypeValues
+		|-- seaConditionValues
+		|-- stateValues
+		|-- weatherConditionValues
+		
+users
+	|-- userUid
+		|-- displayName
+		|-- email
+		|-- photoUrl
+		|-- userUid

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/llDiveLogRow"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:descendantFocusability="blocksDescendants"
+              android:background="@drawable/rec_background_gradient"
+              android:paddingTop="@dimen/list_view_triple_row_padding"
+              android:paddingBottom="@dimen/list_view_triple_row_padding">
+
+    <TextView
+        android:id="@+id/tvDiveNumber"
+        android:clickable="false"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="right"
+        android:paddingLeft="5dp"
+        style="@style/tvDiveLogRowLargeText"
+        android:text="99,999"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tvDiveSiteName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/tvDiveLogRowLargeText"
+            android:text="Dive Site Name"/>
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/tvDiveLogRowSmallText"
+            android:text="Tuesday, Jan 1, 2015"/>
+
+        <TextView
+            android:id="@+id/tvLocationDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/tvDiveLogRowSmallText"
+            android:text="Area, State, Country"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

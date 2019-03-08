@@ -1,0 +1,56 @@
+{
+  "FMW2b1HaFwPL7kJGWWPmZG7e9nW2" : {
+    "diveEquipmentList" : {
+      "BCD" : true,
+      "Camera" : false,
+      "Dive computer" : true,
+      "Dive flag and float" : false,
+      "Dive knife" : false,
+      "Dive light" : true,
+      "Dive watch" : false,
+      "Dry suit" : false,
+      "Fins" : false,
+      "Mask" : false,
+      "New Fins & Booties" : false,
+      "Pressure gauge" : false,
+      "Rebreather" : false,
+      "Regulator" : false,
+      "Scuba tank" : false,
+      "Sidemount" : false,
+      "Signaling devices" : false,
+      "Snorkel" : false,
+      "Weights-integrated" : false,
+      "Weights-on belt" : false,
+      "Wetsuit-full" : false,
+      "Wetsuit-hood" : false,
+      "Wetsuit-shorty" : false
+    }
+  },
+  "SGUtgr6kE4WHpkKTuHzpVVcYXuF2" : {
+    "diveEquipmentList" : {
+      "BCD" : true,
+      "Camera" : false,
+      "Dive computer" : true,
+      "Dive flag and float" : false,
+      "Dive knife" : false,
+      "Dive light" : true,
+      "Dive watch" : false,
+      "Dry suit" : false,
+      "Fins" : true,
+      "Mask" : true,
+      "Pressure gauge" : true,
+      "Rebreather" : false,
+      "Regulator" : true,
+      "Scuba tank" : true,
+      "Sidemount" : false,
+      "Signaling devices" : false,
+      "Snorkel" : false,
+      "Weights-integrated" : false,
+      "Weights-on belt" : true,
+      "Wetsuit-full 3 mm" : true,
+      "Wetsuit-full 7mm" : false,
+      "Wetsuit-hood" : false,
+      "Wetsuit-shorty" : false
+    }
+  }
+}

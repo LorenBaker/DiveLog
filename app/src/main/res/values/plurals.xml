@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="years_abbreviation">
+        <item quantity="one">%d yr</item>
+        <item quantity="other">%d yrs</item>
+    </plurals>
+
+    <plurals name="months_abbreviation">
+        <item quantity="one">%d mo</item>
+        <item quantity="other">%d mos</item>
+    </plurals>
+
+    <plurals name="days_abbreviation">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+
+    <plurals name="hours_abbreviation">
+        <item quantity="one">%d hr</item>
+        <item quantity="other">%d hrs</item>
+    </plurals>
+
+    <plurals name="minutes_abbreviation">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+
+    <plurals name="numberOfDiveLogs">
+        <item quantity="one">There is %d dive log</item>
+        <item quantity="other">There are %d dive logs</item>
+    </plurals>
+
+    <plurals name="OkToDeleteDiveSites">
+        <item quantity="one">OK To Delete %d Dive Site?</item>
+        <item quantity="other">OK To Delete %d Dive Sites?</item>
+    </plurals>
+
+    <plurals name="okToDeleteDiveBuddyPerson">
+        <item quantity="one">"Deleting affects:\nBuddy name in %d dive log;\n"</item>
+        <item quantity="other">"Deleting affects:\nBuddy name in %d dive logs;\n"</item>
+    </plurals>
+
+    <plurals name="okToDeleteDiveMasterPerson">
+        <item quantity="one">"Dive Master name in %d dive log;\n"</item>
+        <item quantity="other">"Dive Master name in %d dive logs;\n"</item>
+    </plurals>
+
+    <plurals name="okToDeleteDiveCompanyPerson">
+        <item quantity="one">"Company name in %d dive log.\nThese fields will be filled with default values."</item>
+        <item quantity="other">"Company name in %d dive logs.\nThese fields will be filled with default values.</item>
+    </plurals>
+
+    <plurals name="okToDeleteDiveSite">
+        <item quantity="one">"There is %d dive log affected. Its applicable fields will be filled with default values."</item>
+        <item quantity="other">"There are %d dive logs affected. Their applicable fields will be filled with default values."</item>
+    </plurals>
+
+    <plurals name="okToDeleteSelectionValueAffectedByDiveLogs">
+        <item quantity="one">"There is %d dive log affected. Its applicable fields will be filled with default values."</item>
+        <item quantity="other">"There are %d dive logs affected. Their applicable fields will be filled with default values."</item>
+    </plurals>
+
+    <plurals name="okToDeleteSelectionValueAffectedByDiveSites">
+        <item quantity="one">"There is %d dive site affected. Its applicable fields will be filled with default values."</item>
+        <item quantity="other">"There are %d dive sites affected. Their applicable fields will be filled with default values."</item>
+    </plurals>
+
+
+    <plurals name="affectedDiveSites">
+        <item quantity="one">"There is %d dive site "</item>
+        <item quantity="other">"There are %d dive sites "</item>
+    </plurals>
+
+    <plurals name="affectedDiveLogs">
+        <item quantity="one">"and %d dive log affected."</item>
+        <item quantity="other">"and %d dive logs affected."</item>
+    </plurals>
+
+
+    <plurals name="okToDeleteDiveLogEquipmentTitle">
+        <item quantity="one">"Permanently delete %d equipment item?"</item>
+        <item quantity="other">"Permanently delete %d equipment items?"</item>
+    </plurals>
+
+    <plurals name="marineLife">
+        <item quantity="one">"%d entry"</item>
+        <item quantity="other">"%d entries"</item>
+    </plurals>
+
+</resources>

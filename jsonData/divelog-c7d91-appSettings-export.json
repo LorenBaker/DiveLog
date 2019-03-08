@@ -1,0 +1,37 @@
+{
+  "FMW2b1HaFwPL7kJGWWPmZG7e9nW2" : {
+    "appSettingsUid" : "-KaULfrswRZUmPbxXdHU",
+    "areaFilter" : "Maui",
+    "countryFilter" : "[Any Country]",
+    "createNewDiveFromToday" : true,
+    "displayName" : "N/A",
+    "filterMethod" : 4,
+    "filterMethodDescription" : "Filter: Maui",
+    "imperialUnits" : true,
+    "lastDiveLogViewedUid" : "-KdEOBph4qPBJ0BzvcmT",
+    "recyclerViewFirstVisiblePosition" : -1,
+    "recyclerViewTop" : 0,
+    "recyclerViewVisible" : true,
+    "reefGuideId" : 1,
+    "resetViewPagerAdapterValue" : 1,
+    "sortDiveLogsDescending" : true,
+    "stateFilter" : "[Any State]"
+  },
+  "SGUtgr6kE4WHpkKTuHzpVVcYXuF2" : {
+    "appSettingsUid" : "-KSRgizmsvw1x5hpiJnP",
+    "areaFilter" : "Maui",
+    "countryFilter" : "[Any Country]",
+    "createNewDiveFromToday" : true,
+    "displayName" : "Loren Baker",
+    "filterMethod" : 2,
+    "imperialUnits" : true,
+    "lastDiveLogViewedUid" : "-L4E8xbRoG7jooa3sSo4",
+    "recyclerViewFirstVisiblePosition" : 0,
+    "recyclerViewTop" : 0,
+    "recyclerViewVisible" : false,
+    "reefGuideId" : 1,
+    "resetViewPagerAdapterValue" : 1,
+    "sortDiveLogsDescending" : false,
+    "stateFilter" : "Hawaii"
+  }
+}

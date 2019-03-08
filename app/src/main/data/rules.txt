@@ -1,0 +1,50 @@
+{
+  "rules": {
+    "initialSelectionValues": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    },
+    
+    "diveSites": {
+      "$uid":{
+				".read": "auth.uid == $uid",
+				".write": "auth.uid == $uid"
+      	}
+    },
+
+      "people": {
+      "$uid":{
+				".read": "auth.uid == $uid",
+				".write": "auth.uid == $uid"
+      	}
+    },
+
+       "appSettings": {
+      "$uid":{
+				".read": "auth.uid == $uid",
+				".write": "auth.uid == $uid"
+      	}
+    },
+
+    "users": {
+			"$uid":{
+				".read": "auth.uid == $uid",
+				".write": "auth.uid == $uid"
+			}
+    },
+
+    "diveLogs": {
+			"$uid":{
+				".read": "auth.uid == $uid",
+				".write": "auth.uid == $uid"
+        }
+    },
+
+	"selectionValues": {
+		"$uid":{
+			".read": "auth.uid == $uid",
+			".write": "auth.uid == $uid"
+			}
+	}
+}
+}

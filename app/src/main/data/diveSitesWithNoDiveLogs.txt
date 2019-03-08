@@ -1,0 +1,113 @@
+09-24 10:45:40.038 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: No Dive Site, Lighthouse Reef, Belize
+09-24 10:45:40.039 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Siae's Corner, Palau
+09-24 10:45:40.040 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Christmas Tree Corals, Kona, Hawaii, USA
+09-24 10:45:40.040 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Golden Arches, Kona, Hawaii, USA
+09-24 10:45:40.040 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: K. Critters, Kona, Hawaii, USA
+09-24 10:45:40.041 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Large Arch (North of pier), Kona, Hawaii, USA
+09-24 10:45:40.043 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Lava Dome (Red Hill area), Kona, Hawaii, USA
+09-24 10:45:40.043 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Long Lava Tube (Red Hill area), Kona, Hawaii, USA
+09-24 10:45:40.043 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Shark Rock, Kona, Hawaii, USA
+09-24 10:45:40.044 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: South of Kona by airport, Kona, Hawaii, USA
+09-24 10:45:40.045 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Spiral Lava Tubes (south of Kona), Kona, Hawaii, USA
+09-24 10:45:40.045 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Toilet Bowl (by airport), Kona, Hawaii, USA
+09-24 10:45:40.046 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Turtle Heaven (in front of S. Harbor), Kona, Hawaii, USA
+09-24 10:45:40.046 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Turtle Pinnacles, Kona, Hawaii, USA
+09-24 10:45:40.047 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Turtle Towers, Kona, Hawaii, USA
+09-24 10:45:40.048 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Cathedrals, Lanai, Hawaii, USA
+09-24 10:45:40.048 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Monolith, Lanai, Hawaii, USA
+09-24 10:45:40.049 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: 3 Anchors, Maui, Hawaii, USA
+09-24 10:45:40.049 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Molokini's crater (snorkelers area), Maui, Hawaii, USA
+09-24 10:45:40.050 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: No Dive Site, Maui, Hawaii, USA
+09-24 10:45:40.050 12778-12778/com.lbconsulting.divelogfirebase W/MainActivity:528: diveSitesWithNoDiveLogs: Unknown, Maui, Hawaii, USA
+
+
+09-24 12:57:35.312 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 6: Mile 4 Alii Rd: DiveMaster->[None]
+09-24 12:57:35.312 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:547: diveLogsWithNoDiveCompanyFound: Dive 6: Mile 4 Alii Rd: Company->[None]
+09-24 12:57:35.317 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 7: Puako Beach: DiveMaster->[None]
+09-24 12:57:35.317 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:547: diveLogsWithNoDiveCompanyFound: Dive 7: Puako Beach: Company->[None]
+09-24 12:57:35.320 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 8: Driftwood: DiveMaster->[None]
+09-24 12:57:35.328 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 9: Fantasy Reef: DiveMaster->[None]
+09-24 12:57:35.397 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 13: The Mahi Boat: DiveMaster->[None]
+09-24 12:57:35.398 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:547: diveLogsWithNoDiveCompanyFound: Dive 13: The Mahi Boat: Company->[None]
+09-24 12:57:35.401 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 14: Makaha Caverns: DiveMaster->[None]
+09-24 12:57:35.401 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:547: diveLogsWithNoDiveCompanyFound: Dive 14: Makaha Caverns: Company->[None]
+09-24 12:57:35.401 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 15: Boynton Beach: Buddy->[None]
+09-24 12:57:35.402 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 15: Boynton Beach: DiveMaster->[None]
+09-24 12:57:35.402 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:547: diveLogsWithNoDiveCompanyFound: Dive 15: Boynton Beach: Company->[None]
+09-24 12:57:35.402 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 16: Boynton Beach: Buddy->[None]
+09-24 12:57:35.402 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 16: Boynton Beach: DiveMaster->[None]
+09-24 12:57:35.403 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:547: diveLogsWithNoDiveCompanyFound: Dive 16: Boynton Beach: Company->[None]
+09-24 12:57:35.486 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 27: Sandollar Pier: DiveMaster->[None]
+09-24 12:57:35.491 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 28: Rappel: DiveMaster->[None]
+09-24 12:57:35.496 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 29: Bari Reef: DiveMaster->[None]
+09-24 12:57:35.504 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 30: Sampler: DiveMaster->[None]
+09-24 12:57:35.510 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 31: Yellow Man: DiveMaster->[None]
+09-24 12:57:35.515 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 32: Barcadera: DiveMaster->[None]
+09-24 12:57:35.522 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 33: Angel City: DiveMaster->[None]
+09-24 12:57:35.528 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 34: Bari Reef: DiveMaster->[None]
+09-24 12:57:35.533 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 35: Bari Reef: DiveMaster->[None]
+09-24 12:57:35.538 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 36: Small Wall: DiveMaster->[None]
+09-24 12:57:35.540 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 37: Captain Don's Reef: Buddy->[None]
+09-24 12:57:35.541 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 37: Captain Don's Reef: DiveMaster->[None]
+09-24 12:57:35.544 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 38: Town Pier: Buddy->[None]
+09-24 12:57:35.544 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 38: Town Pier: DiveMaster->[None]
+09-24 12:57:35.551 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 39: Bari Reef: DiveMaster->[None]
+09-24 12:57:35.561 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 40: MI Dushi: DiveMaster->[None]
+09-24 12:57:35.569 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 41: 18 Palms: DiveMaster->[None]
+09-24 12:57:35.578 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 42: Cliff: DiveMaster->[None]
+09-24 12:57:35.587 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 43: Molokini's Mid Reef: DiveMaster->[None]
+09-24 12:57:35.597 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 44: 5 Caves: DiveMaster->[None]
+09-24 12:57:35.603 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 45: Molokini's Reef End: DiveMaster->[None]
+09-24 12:57:35.609 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 46: Marty's Reef: DiveMaster->[None]
+09-24 12:57:35.617 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 47: Molokini's Reef End: DiveMaster->[None]
+09-24 12:57:35.626 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 48: Pu'u Alai: DiveMaster->[None]
+09-24 12:57:35.679 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 53: Molokini's Back Wall: DiveMaster->[None]
+09-24 12:57:35.685 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 54: North of 5 Graves: DiveMaster->[None]
+09-24 12:57:35.745 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 63: Kona Surf (Manta Ray Dive): Buddy->[None]
+09-24 12:57:35.818 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 72: Molokini's Reef End: DiveMaster->[None]
+09-24 12:57:35.829 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 74: German Channel: DiveMaster->[None]
+09-24 12:57:35.834 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 75: Ngemelis Wall: DiveMaster->[None]
+09-24 12:57:35.839 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 76: New Drop Off: DiveMaster->[None]
+09-24 12:57:35.843 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 77: Blue Corner: DiveMaster->[None]
+09-24 12:57:35.848 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 78: Blue Corner: DiveMaster->[None]
+09-24 12:57:35.852 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 79: Blue Holes - Blue Corner: DiveMaster->[None]
+09-24 12:57:35.857 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 80: Ulong Channel: DiveMaster->[None]
+09-24 12:57:35.862 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 81: Siae's Tunnel: DiveMaster->[None]
+09-24 12:57:35.866 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 82: German Channel: DiveMaster->[None]
+09-24 12:57:35.873 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 83: Big Drop-off: DiveMaster->[None]
+09-24 12:57:35.878 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 84: Chandelier Cave: DiveMaster->[None]
+09-24 12:57:35.886 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 85: Siae's Tunnel: DiveMaster->[None]
+09-24 12:57:35.891 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 86: Ulong Wall: DiveMaster->[None]
+09-24 12:57:35.897 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 87: Jellyfish Lake: DiveMaster->[None]
+09-24 12:57:35.904 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 88: Blue Corner: DiveMaster->[None]
+09-24 12:57:35.908 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 89: Blue Holes - Blue Corner: DiveMaster->[None]
+09-24 12:57:35.915 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 90: PPR Reef: DiveMaster->[None]
+09-24 12:57:35.915 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:547: diveLogsWithNoDiveCompanyFound: Dive 90: PPR Reef: Company->[None]
+09-24 12:57:35.918 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 91: Barnum Wall: DiveMaster->[None]
+09-24 12:57:35.924 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 92: New Drop Off: DiveMaster->[None]
+09-24 12:57:35.938 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 94: Siae's Cornor: DiveMaster->[None]
+09-24 12:57:35.943 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 95: Big Drop-off: DiveMaster->[None]
+09-24 12:57:35.950 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 96: Iro Maru Wreck: DiveMaster->[None]
+09-24 12:57:35.955 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 97: New Drop Off: DiveMaster->[None]
+09-24 12:57:35.962 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 98: German Channel: DiveMaster->[None]
+09-24 12:57:35.969 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 99: Blue Holes: DiveMaster->[None]
+09-24 12:57:35.973 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 100: Blue Corner: DiveMaster->[None]
+09-24 12:57:35.990 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 102: Ngemelis Wall: DiveMaster->[None]
+09-24 12:57:35.995 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 103: Blue Holes: DiveMaster->[None]
+09-24 12:57:36.001 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 104: Ulong Channel: DiveMaster->[None]
+09-24 12:57:36.008 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 105: Siae's Tunnel: DiveMaster->[None]
+09-24 12:57:36.013 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 106: Lighthouse Reef: DiveMaster->[None]
+09-24 12:57:36.019 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 107: E. Long Caye: DiveMaster->[None]
+09-24 12:57:36.047 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 111: Silver Caves: DiveMaster->[None]
+09-24 12:57:36.052 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 112: Chimney: DiveMaster->[None]
+09-24 12:57:36.056 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 113: Halfmoon Caye: DiveMaster->[None]
+09-24 12:57:36.060 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 114: Annie's Place: DiveMaster->[None]
+09-24 12:57:36.065 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 115: First Choice: DiveMaster->[None]
+09-24 12:57:36.069 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 116: Johnson's Wall: DiveMaster->[None]
+09-24 12:57:36.318 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 148: Molokini's Back Wall: Buddy->[None]
+09-24 12:57:36.324 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 149: Wailea Point: Buddy->[None]
+09-24 12:57:36.332 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 150: Molokini's Back Wall: Buddy->[None]
+09-24 12:57:36.343 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 151: 3 Achors: Buddy->[None]
+09-24 12:57:36.350 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 152: [No Dive Site]: Buddy->[None]
+09-24 12:57:36.356 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:525: diveLogsWithNoDiveBuddyFound: Dive 153: [No Dive Site]: Buddy->New Buddy 3
+09-24 12:57:36.356 17573-17573/com.lbconsulting.divelogfirebase W/MainActivity:536: diveLogsWithNoDiveMasterFound: Dive 153: [No Dive Site]: DiveMaster->New Dive Master 1

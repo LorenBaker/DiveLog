@@ -1,0 +1,127 @@
+Firebase
+LOGIN TO LEGACY CONSOLEDOCS
+Terms of Service
+Please Read This Carefully
+
+Firebase, Inc. (Company) licenses its cloud-based platform and provides related services pursuant to these terms of service ("Agreement"). This Agreement is a legal contract between you (if you use Company Software and Services in your capacity as an individual) or the legal entity you represent (e.g., your employer) (You) and Company. Read the terms of this Agreement carefully. By clicking "I agree" or using any of the Company Software, You agree to be bound by this Agreement. If You do not agree to the terms of this Agreement, do not click "I agree" or use any of the Company Software.
+
+1. DEFINITIONS
+
+Application means a software application that You develop to be used with the Company Software pursuant to this Agreement. An Application consists of a client-side portion that resides on the end user's computer or mobile device and server-side portion that will reside on Company's cloud-based servers.
+Brand Features and Marks means Your branding, trademarks and the associated logos that are used in connection with an Application.
+Company Software means the Company's cloud-based platform (including software libraries and APIs that may be integrated into an Application), known commercially as Firebase, which provides a scalable, real-time backend for collaborative applications, allowing developers to build collaborative applications without managing servers or writing server-side code.
+Content means Your content, images and information accessible on or from an Application.
+Services means the services that Company provides to its customers in connection with the Company Software, which include, without limitation, the hosting of the server-side portion of an Application on Company's cloud based servers.
+2. LICENSE
+
+Subject to Your compliance with the terms and conditions of this Agreement, Company hereby grants You, solely during the term of this Agreement, a non-exclusive, non-transferable, revocable license, without rights to sublicense, to incorporate libraries and APIs that are included in the Company Software into Your Applications, to reproduce and distribute such libraries and APIs together with Your Applications and to access, use, perform and display the Company Software via the Internet, solely for use with Your Applications.
+
+3. OWNERSHIP AND CONTENT
+
+3.1 As between the parties and except for the licenses granted by this Agreement, (a) You retain all right, title and interest, including all related intellectual property rights, in and to the Applications, the Content and the Brand Features and Marks and (b) Company retains all right, title, and interest, including all related intellectual property rights, in and to the Company Software.
+
+3.2 You hereby grant Company an irrevocable, non-exclusive, royalty-free, transferable license, with rights to sublicense, to use, reproduce, modify, display, perform and create derivative works of the Applications, the Content and the Brand Features and Marks for the sole purpose of allowing the Company to provide the Company Software and the Services to You.
+
+3.3 Company reserves the right to monitor the Content and Applications and to remove or disable Content or Applications that Company, in its sole discretion, determines to be illegal, harmful, offensive, creating liability for Company or its service providers, or otherwise in violation of this Agreement or Company operating policies.
+
+3.4 Company retains all rights not expressly granted to you under this Agreement. You do not have any implied rights.
+
+4. OTHER COVENANTS, TERMS AND RESTRICTIONS
+
+4.1 You shall retain all copyright, trademark and other intellectual property rights notices contained on or in the Company Software.
+
+4.2 You represent and warrant to Company that: (i) You are of an age of majority and have the power, authority or consent to enter into and perform this Agreement; (ii) all information provided by You to Company is truthful, accurate and complete; (iii) You are the authorized signatory of the credit or charge card provided to Company to pay the fees; (iv) you shall comply with all terms and conditions of this Agreement; (v) You have provided and will provide accurate and complete registration information, including, without limitation, your legal name, address and telephone number; and (vi) You own or otherwise control and have sufficient rights and consents to provide all Applications, Brand Features and Marks or Content for use by Company in the manner contemplated by this Agreement and none of the Applications, Brand Features and Marks or Content infringes, misappropriates or violates any rights of any third parties.
+
+4.3 You agree to comply with the Company's Acceptable Use Policy, which is incorporated herein by reference.
+
+5. PAYMENT AND TAXES
+
+5.1 Company charges a fee for use of the Company Software and the Services. You agree to pay all fees charged by Company. All fees are non-refundable and, unless otherwise stated, in US dollars. All fees and taxes and other charges will be billed to your credit card. You hereby authorize Company to charge your credit card. There will be no refunds or credits for partial months of service, upgrades, or unused months.
+
+5.2 Company reserves the right to deactivate your access to Company Software and to the Services for failure to pay applicable fees. You agree to promptly pay Company in the event of any refusal of your credit card issuer to pay any amount to Company for any reason. You agree to pay all costs of collection, including attorneys' fees and costs, on any outstanding balance. In the event you fail to pay any amount when due, Company may immediately suspend or terminate Your access to the Company Software and the Services.
+
+5.3 Your subscription will renew automatically, unless Company terminates it or you terminate your subscription pursuant to Section 7 below. You must cancel your subscription before it renews in order to avoid billing of subscription fees for the renewal term to your credit card.
+
+5.4 You are responsible for, and will indemnify and hold Company harmless from, payment of all taxes (other than taxes based on Company' net income), fees, duties, and other governmental charges, and any related penalties and interest, arising from the payment of fees to Company under this Agreement or the delivery, license or use of the Company Software or Services. You will make all payments to Company free and clear of, and without reduction for, any withholding taxes; any such taxes imposed on payments of fees to Company will be Your sole responsibility, and You agree to provide Company with official receipts issued by the appropriate taxing authority, or such other evidence as Company may reasonably request, to establish that such taxes have been paid.
+
+5.5 Any amounts not paid when due are subject to an interest charge at a rate of 1.5% per month or the maximum rate permitted by law, whichever is less.
+
+6. SERVICE RELATED TERMS
+
+Company agrees to host the server portion of Applications on its cloud service in accordance with Company's Service Level Agreement ("SLA"), which is incorporated herein by reference. Except as set forth in the SLA, Company does not warrant or guarantee that the Applications, Company Software or the Services will be always available or available at any particular time, secure or free from errors or defects.
+
+7. TERM AND TERMINATION
+
+This Agreement begins upon your registration. This Agreement will automatically terminate if you fail to comply with its term. Additionally, either party may terminate this Agreement at any time for any reason or no reason whatsoever. To terminate this Agreement, you must use the online Company Software account cancellation forms. Without limiting the foregoing, You acknowledge that Company may discontinue all or part of the Company Software or Service at any time. In the event of termination or expiration of this Agreement, all of the licenses granted to You hereunder will terminate . The definitions and rights, duties and obligations of the parties that by their nature continue and survive shall survive any termination or expiration of this Agreement.
+
+8. GOVERNMENT RESTRICTIONS
+
+You may not export or re-export any of the Company Software or Application except in compliance with the United States Export Administration Act and the related rules and regulations and similar non-U.S. government restrictions, if applicable. The foregoing and all accompanying documentation are deemed to be "commercial computer software" and "commercial computer software documentation," respectively, pursuant to DFAR Section 227.7202 and FAR Section 12.212(b), as applicable. Any use, modification, reproduction, release, performing, displaying, or disclosing of the foregoing by the U.S. government is governed solely by the terms of this Agreement.
+
+9. NO WARRANTY
+
+THE COMPANY SOFTWARE AND SERVICES ARE PROVIDED TO YOU AS IS AND WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, AND COMPANY HEREBY DISCLAIMS AND EXCLUDES, TO THE MAXIMUM EXTENT PERMITTED BY LAW, ALL WARRANTIES, WHETHER STATUTORY, EXPRESS, OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT OF THIRD PARTY RIGHTS, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY AND SATISFACTORY QUALITY Company does not warrant that any of the Company Software or Services will meet your needs or requirements or be error-free or always available or available at any particular time or that any errors or defects will be corrected. Company does not warrant or guarantee any amount of money that You will receive or earn in connection with an Application.
+
+NONE OF THE COMPANY SOFTWARE AND SERVICES IS FAULT TOLERANT. THEY ARE NOT DESIGNED, MANUFACTURED, LICENSED OR INTENDED FOR USE IN HAZARDOUS ENVIRONMENTS REQUIRING FAIL-SAFE PERFORMANCE SUCH AS IN THE OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATIONS SYSTEMS, AIR TRAFFIC CONTROL, LIFE SUPPORT MACHINES, WEAPONS SYSTEMS OR ANY OTHER APPLICATION IN WHICH ITS FAILURE COULD LEAD DIRECTLY TO DEATH, PERSONAL INJURY, OR PHYSICAL OR ENVIRONMENTAL DAMAGE.
+
+10. LIMITATION OF LIABILITY AND INDEMNITY
+
+10.1 IN NO EVENT WILL COMPANY BE LIABLE FOR ANY LOST PROFITS OR BUSINESS OPPORTUNITIES, LOSS OF USE, BUSINESS INTERRUPTION, LOSS OF DATA, OR ANY OTHER INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES UNDER ANY THEORY OF LIABILITY, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE AND PRODUCT LIABILITY), OR OTHERWISE.
+
+10.2 COMPANY'S LIABILITY UNDER THIS AGREEMENT WILL NOT, IN ANY EVENT, EXCEED THE FEES, IF ANY, PAID BY YOU TO COMPANY UNDER THIS AGREEMENT. THE FOREGOING LIMITATIONS WILL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, REGARDLESS OF WHETHER COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF WHETHER ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+
+10.3 You shall indemnify and hold harmless Company and its officers, directors, employees and agents (the "Company Indemnified Parties") from and against liabilities, costs, losses, damages, judgments, expenses (including attorneys' fees and costs of experts and costs of appeals) arising out of or in connection with any and all of the following: (a) any allegation that any of the Applications, Brand Features and Marks or Content infringe, misappropriate or violate any intellectual property right, (b) any violation of this Agreement, including, without limitation, any breach of any representations or warranties contained herein, (c) your provision or distribution of the Application or any Content, (d) your use of any of the Company Software or receipt of the Services, (e) any activity relating to your account, (f) any violation of a third party app store's contracts, policies or procedures; or (e) any failure of You to have all necessary rights and licenses.
+
+11. CONFIDENTIALITY AND FEEDBACK
+
+11.1 You agree to keep confidential and not use other than in the performance of this Agreement or disclose to a third party any information of Company that You know or reasonably should know is confidential to Company.
+
+11.2 To the extent you provide Company with any suggestions, information, ideas, or feedback concerning any of the Company Software or Services, including but not limited to, a report of any errors which you discover while using an Application or the Company Software or any related documentation ("Feedback"), such Feedback will be the property of Company. You agree to assign, and hereby assign, all right, title and interest worldwide in the Feedback, and the related intellectual property rights, to Company and agree to assist Company in perfecting and enforcing these rights.
+
+12. ASSIGNMENT
+
+You may not transfer or assign Your rights under this Agreement, in whole or in part, without the prior written consent of Company. Any attempted assignment in violation of the foregoing is void. Company may freely transfer or assign its rights under this Agreement. Subject to the foregoing, this Agreement will bind and inure to the benefit of the parties and their respective successors and permitted assigns.
+
+13. COPYRIGHT POLICY
+
+13.1 Company takes claims of copyright infringement seriously. Company will respond to notices of alleged copyright infringement that comply with applicable law. If You believe any materials accessible on or from Company Software or the Services infringe Your copyright, You may request removal of those materials (or access thereto) from Company Software and the Services by submitting written notification to our Copyright Agent (designated below). In accordance with the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512) (*"DMCA"*), the written notice (the *"DMCA Notice"*) must include substantially the following:
+
+(a) Your physical or electronic signature.
+(b) Identification of the copyrighted work You believe to have been infringed or, if the claim involves multiple works on Company Software or the Services, a representative list of such works.
+(c) Identification of the material You believe to be infringing in a sufficiently precise manner to allow Company to locate that material.
+(d) Adequate information by which Company can contact You (including Your name, postal address, telephone number and, if available, e-mail address).
+(e) A statement that You have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent or the law.
+(f) A statement that the information in the written notice is accurate.
+(g) A statement, under penalty of perjury, that You are authorized to act on behalf of the copyright owner.
+13.2 Our designated Copyright Agent to receive DMCA Notices is:
+
+Andrew Lee
+
+22 4th St. Suite 1000 (10th Floor)
+San Francisco CA, 94103
+United States
+
+(408) 400-3656
+
+firebase-support@google.com
+13.3 If You fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, Your DMCA Notice may not be effective.
+
+13.4 Please be aware that if You knowingly materially misrepresent that material or activity on Company Software or the Services is infringing Your copyright, You may be held liable for damages (including costs and attorneys' fees) under Section 512(f) of the DMCA.
+
+13.5 It is Company's policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
+
+14. GENERAL
+
+The laws of the State of California govern all matters arising out of this Agreement, without regard to conflict of law principles. The United Nations Convention for the International Sale of Goods shall not apply. The federal and state courts located in San Francisco County, California USA will have non-exclusive jurisdiction in respect of disputes arising in connection with this Agreement. This Agreement is the entire agreement between us with respect to the subject matter hereof, and supersedes the terms of any purchase orders and any other communications or advertising with respect to such subject matter. If any provision of this Agreement is held invalid, that provision will be deemed amended to achieve as nearly as possible the same economic effect as the original provision and the remainder of this Agreement will continue in full force and effect. Company has no liability for any failure of performance or equipment due to causes beyond its reasonable control, including, but not limited to, the following: acts of God, fire, flood, earthquake, tsunami, storm, or other catastrophes; any law, order, regulation, direction, action, or request of any governmental entity or agency, or any civil or military authority; national emergencies, insurrections, riots, wars or acts of terrorism; unavailability of rights-of-way or materials; or strikes, lock-outs, work stoppages, or other labor difficulties; or failure of the Internet or any telecommunications, hosting or service provider. This Agreement may be modified only by a written agreement that is signed by authorized representatives of both parties and identifies itself as an amendment to this Agreement. No term or provision hereof will be considered waived by Company, and no breach excused, unless the waiver or consent is in writing signed by Company. No consent by Company to, or waiver of, a breach, whether express or implied, will constitute a consent to, waiver of, or excuse of any other, different or subsequent breach. The section headings appearing in this Agreement are inserted only as a matter of convenience and in no way define, limit, construe or describe the scope or extent of such paragraph or in any way affect such section.
+
+15. CONTACT INFORMATION
+
+If you have any questions about this Agreement, or if you want to contact Company for any reason, please direct all correspondence to: Firebase, Inc., 22 4th St. Suite 1000 (10th Floor), San Francisco, CA 94103, United States of America or email firebase-support@google.com. Firebase is a trademark and/or registered trademark of Firebase, Inc. or its affiliates in the United States and/or various jurisdictions.
+TERMS OF SERVICE
+PRIVACY POLICY
+ACCEPTABLE USAGE
+SERVICE AGREEMENT
+OPEN SOURCE
+Firebase
+Help & Support Contact Info
+Privacy Policy Terms of Service Service Level Agreement

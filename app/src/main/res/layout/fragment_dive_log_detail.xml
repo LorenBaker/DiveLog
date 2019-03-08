@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnDiveDate"
+        style="@style/btnDiveLog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/btnDiveDate_hint"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:id="@+id/svDiveLogDetail"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/llDiveLogDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnDiveSite"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_dive_log"
+                android:layout_marginTop="@dimen/fragment_vertical_margin"
+                android:paddingBottom="@dimen/fragment_vertical_margin" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="@dimen/view_vertical_margin">
+
+                <RatingBar
+                    android:id="@+id/rbDiveRating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:theme="@style/RatingBar" />
+
+                <ImageButton
+                    android:id="@+id/btnEditDiveRating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_create_black_24dp"
+                    android:visibility="visible" />
+
+                <ImageButton
+                    android:id="@+id/btnSaveDiveRating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_done_black_24dp"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnDiveStats"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_dive_log"
+                android:paddingBottom="@dimen/fragment_vertical_margin" />
+
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="@dimen/view_vertical_margin"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/llTissueLoading"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3"
+                    android:layout_marginTop="@dimen/activity_vertical_margin"
+                    android:layout_marginRight="@dimen/fragment_horizontal_margin"
+                    android:orientation="horizontal">
+
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/btnTissueLoading"
+                    style="@style/btnDiveLog"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="@string/btnTissueLoading_hint" />
+
+
+
+            </LinearLayout>
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnDiveInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_dive_log"
+                android:layout_marginTop="@dimen/fragment_vertical_margin"
+                android:paddingBottom="@dimen/fragment_vertical_margin" />
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnMarineLife"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/fragment_vertical_margin"
+                android:background="@drawable/btn_dive_log"
+                android:paddingBottom="@dimen/fragment_vertical_margin" />
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnMarineLifeNotes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/fragment_vertical_margin"
+                android:background="@drawable/btn_dive_log"
+                android:paddingBottom="@dimen/fragment_vertical_margin" />
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnDiveNotes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_dive_log"
+                android:layout_marginTop="@dimen/fragment_vertical_margin"
+                android:paddingBottom="@dimen/fragment_vertical_margin"  />
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnBuddyMasterCompany"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/fragment_vertical_margin"
+                android:background="@drawable/btn_dive_log" />
+
+            <!--<Button-->
+                <!--android:id="@+id/btnDiveEquipment"-->
+                <!--style="@style/btnDiveLog"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="@dimen/view_vertical_margin"-->
+                <!--android:hint="@string/btnDiveEquipment_hint"-->
+                <!--android:padding="@dimen/view_vertical_margin" />-->
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnDiveEquipment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_dive_log"
+                android:layout_marginTop="@dimen/fragment_vertical_margin"
+                android:paddingBottom="@dimen/fragment_vertical_margin" />
+
+            <com.lbconsulting.divelogfirebase.customViews.DiveLogButton
+                android:id="@+id/btnDiveConditions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_dive_log"
+                android:layout_marginTop="@dimen/fragment_vertical_margin"
+                android:paddingBottom="@dimen/fragment_vertical_margin" />
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center_vertical"-->
+                <!--android:layout_marginTop="@dimen/view_vertical_margin"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<Button-->
+                    <!--android:id="@+id/btnWeatherCondition"-->
+                    <!--style="@style/btnDiveLog"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:hint="@string/btnWeatherCondition_hint" />-->
+
+                <!--<Button-->
+                    <!--android:id="@+id/btnDiveType"-->
+                    <!--style="@style/btnDiveLog"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginLeft="@dimen/view_horizontal_margin"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:hint="@string/btnDiveType" />-->
+
+
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center_vertical"-->
+                <!--android:layout_marginTop="@dimen/view_vertical_margin"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<Button-->
+                    <!--android:id="@+id/btnSeaCondition"-->
+                    <!--style="@style/btnDiveLog"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:hint="@string/btnSeaCondition_hint" />-->
+
+                <!--<Button-->
+                    <!--android:id="@+id/btnCurrentCondition"-->
+                    <!--style="@style/btnDiveLog"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginLeft="@dimen/view_horizontal_margin"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:hint="@string/btnCurrentCondition_hint" />-->
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center_vertical"-->
+                <!--android:layout_marginTop="@dimen/view_vertical_margin"-->
+                <!--android:orientation="horizontal">-->
+
+                <!--<Button-->
+                    <!--android:id="@+id/btnDiveStyle"-->
+                    <!--style="@style/btnDiveLog"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:hint="@string/btnDiveStyle_hint" />-->
+
+                <!--<Button-->
+                    <!--android:id="@+id/btnDiveEntry"-->
+                    <!--style="@style/btnDiveLog"-->
+                    <!--android:layout_width="0dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginLeft="@dimen/view_horizontal_margin"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:hint="@string/btnDiveEntry_hint" />-->
+
+            <!--</LinearLayout>-->
+
+
+            <TextView
+                android:id="@+id/tvBottomTimeSummary"
+                style="@style/btnDiveLog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:clickable="false"
+                android:padding="@dimen/view_vertical_margin" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

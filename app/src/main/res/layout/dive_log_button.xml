@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        style="@style/diveLogButtonTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvColumn1"
+            style="@style/diveLogButtonColumn1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false" />
+
+        <TextView
+            android:id="@+id/tvColumn2"
+            style="@style/diveLogButtonColumn2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvColumn3"
+        style="@style/diveLogButtonColumn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false" />
+
+</merge>

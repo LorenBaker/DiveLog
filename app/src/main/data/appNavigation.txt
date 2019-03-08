@@ -1,0 +1,35 @@
+DiveLogDetailFragment
+	|--R.id.btnAirTemperature --> dialogNumberPicker
+	|--R.id.btnAirUsed --> dialogNumberPicker
+	|--R.id.btnBottomTime --> dialogNumberPicker
+	|--R.id.btnEndingTankPressure --> dialogNumberPicker
+	|--R.id.btnMaximumDepth -->dialogNumberPicker
+	|--R.id.btnStartingTankPressure --> dialogNumberPicker
+	|--R.id.btnSurfaceInterval --> dialogNumberPicker
+	|--R.id.btnVisibility --> dialogNumberPicker
+	|--R.id.btnWaterTemperature --> dialogNumberPicker
+	|--R.id.btnWeightUsed --> dialogNumberPicker
+
+	
+	|--	R.id.btnCompany --> dialogPeoplePicker
+	|--	R.id.btnDiveBuddy --> dialogPeoplePicker
+	|--	R.id.btnDiveMaster --> dialogPeoplePicker
+	
+	|--	R.id.btnCurrentCondition --> selectionValuePickerDialog
+	|--	R.id.btnDiveEntry --> selectionValuePickerDialog
+	|--	R.id.btnDiveStyle --> selectionValuePickerDialog
+	|--	R.id.btnDiveTankType --> selectionValuePickerDialog
+	|--	R.id.btnDiveType --> selectionValuePickerDialog
+	|--	R.id.btnSeaCondition --> selectionValuePickerDialog
+	|--	R.id.btnWeatherCondition --> selectionValuePickerDialog
+	
+	|--	R.id.btnEndTime --> dialogDiveLogTimePicker
+	|--	R.id.btnStartTime --> dialogDiveLogTimePicker
+	
+	|--	R.id.btnDiveDate --> dialogDiveLogDatePicker
+	|--	R.id.btnDiveEquipment --> dialogDiveLogEquipmentPicker
+	|--	R.id.btnDiveNotes --> dialogDiveLogNotes
+	|--	R.id.btnDiveSite --> dialogDiveSitePicker
+	|--	R.id.btnMarineLife,
+	|--	R.id.btnTimeZone --> dialogSelectTimeZone
+	|--	R.id.btnTissueLoading --> dialogTissueLoading

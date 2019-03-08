@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string-array name="csv_field_names">
+        <item>diveNumber</item>
+        <item>diveStart</item>
+        <item>bottomTime</item>
+        <item>diveSite</item>
+        <item>maximumDepth</item>
+        <item>area</item>
+        <item>state</item>
+        <item>country</item>
+        <item>diveBuddy</item>
+        <item>diveMaster</item>
+        <item>diveCompany</item>
+        <item>tissueLoadingColor</item>
+        <item>tissueLoadingValue</item>
+        <item>tankType</item>
+        <item>diveRating</item>
+        <item>weightUsed</item>
+        <item>startingTankPressure</item>
+        <item>endingTankPressure</item>
+        <item>airTemperature</item>
+        <item>waterTemperature</item>
+        <item>visibility</item>
+        <item>currentCondition</item>
+        <item>diveEntry</item>
+        <item>diveStyle</item>
+        <item>diveType</item>
+        <item>seaCondition</item>
+        <item>weatherCondition</item>
+        <item>diveNotes</item>
+        <item>marineLife</item>
+        <item>equipmentList</item>
+        <item>divePhotosUrl</item>
+        <item>accumulatedBottomTimeToDate</item>
+        <item>diveEnd</item>
+        <item>surfaceInterval</item>
+        <item>airUsed</item>
+        <item>diveSiteTimeZoneID</item>
+        <item>previousDiveLogUid</item>
+        <item>diveSiteUid</item>
+        <item>nextDiveLogUid</item>
+    </string-array>
+
+
+    <string-array name="level1_classifications">
+        <item>Anemones, 1</item>
+        <item>Ascidians, 2</item>
+        <item>Bivalves, 3</item>
+        <item>Cephalopods, 4</item>
+        <item>Corals, 5</item>
+        <item>Crustaceans, 6</item>
+        <item>Eels, 7</item>
+        <item>Fish, 8</item>
+        <item>Hydrozoans, 9</item>
+        <item>Jellyfish, 10</item>
+        <item>Mammals, 11</item>
+        <item>Nudibranchs, 12</item>
+        <item>Sponges, 13</item>
+        <item>Starfish, 14</item>
+        <item>Turtles, 15</item>
+        <item>Worms, 16</item>
+    </string-array>
+
+    <string-array name="level2_groups">
+        <item>All Anemones, , 1, 101</item>
+        <item>All Sea Squirts, , 2, 201</item>
+        <item>All Bivalves, , 3, 301</item>
+        <item>All Cephalopods, , 4, 401</item>
+        <item>Corallimorphs, http://en.wikipedia.org/wiki/List_of_marine_aquarium_invertebrate_species#Corals, 5, 501</item>
+        <item>Hydrocorals, http://en.wikipedia.org/wiki/List_of_marine_aquarium_invertebrate_species#Corals, 5, 502</item>
+        <item>Large-polyp stony, http://en.wikipedia.org/wiki/List_of_marine_aquarium_invertebrate_species#Corals, 5, 503</item>
+        <item>Small-polyp stony, http://en.wikipedia.org/wiki/List_of_marine_aquarium_invertebrate_species#Corals, 5, 504</item>
+        <item>Soft corals, http://en.wikipedia.org/wiki/List_of_marine_aquarium_invertebrate_species#Corals, 5, 505</item>
+        <item>Zoanthids, http://en.wikipedia.org/wiki/List_of_marine_aquarium_invertebrate_species#Corals, 5, 506</item>
+        <item>All Crustaceans, , 6, 601</item>
+        <item>All Eels, http://www.seafocus.com/species_morays.html, 7, 701</item>
+        <item>Anemonefish, http://www.whatsthatfish.com/browse/tags/limit/Anemonefishes, 8, 801</item>
+        <item>Angelfish (dwarf), http://www.whatsthatfish.com/browse/tags/limit/Angelfishes, 8, 802</item>
+        <item>Angelfish (large), http://www.whatsthatfish.com/browse/tags/limit/Angelfishes, 8, 803</item>
+        <item>Anthias, http://www.whatsthatfish.com/browse/tags/limit/Anthias, 8, 804</item>
+        <item>Basslets, http://www.whatsthatfish.com/browse/tags/limit/Basslets, 8, 805</item>
+        <item>Batfish, http://www.whatsthatfish.com/browse/tags/limit/Batfishes, 8, 806</item>
+        <item>Blennies, http://www.whatsthatfish.com/browse/tags/limit/Blennies, 8, 807</item>
+        <item>Boxfish, http://www.whatsthatfish.com/browse/tags/limit/Boxfishes, 8, 808</item>
+        <item>Butterflyfish, http://www.whatsthatfish.com/browse/tags/limit/Butterflyfishes, 8, 809</item>
+        <item>Cardinalfish, http://www.whatsthatfish.com/browse/tags/limit/Cardinalfishes, 8, 810</item>
+        <item>Chromis, http://www.whatsthatfish.com/browse/tags/limit/Damselfishes, 8, 811</item>
+        <item>Damselfish, http://www.whatsthatfish.com/browse/tags/limit/Damselfishes, 8, 812</item>
+        <item>Dartfish, http://www.whatsthatfish.com/browse/tags/limit/Filefishes, 8, 813</item>
+        <item>Dottybacks, http://www.whatsthatfish.com/browse/tags/limit/Dottybacks, 8, 814</item>
+        <item>Dragonets, http://www.whatsthatfish.com/browse/tags/limit/Dragonets, 8, 815</item>
+        <item>Eels, http://www.whatsthatfish.com/browse/tags/limit/Eels, 8, 816</item>
+        <item>Filefish, http://www.whatsthatfish.com/browse/tags/limit/Filefishes, 8, 817</item>
+        <item>Flounders, http://www.whatsthatfish.com/browse/tags/limit/Flounders, 8, 818</item>
+        <item>Frogfish, http://www.whatsthatfish.com/browse/tags/limit/Frogfishes, 8, 819</item>
+        <item>Goatfish, http://www.whatsthatfish.com/browse/tags/limit/Goatfishes, 8, 820</item>
+        <item>Gobies, http://www.whatsthatfish.com/browse/tags/limit/Gobies, 8, 821</item>
+        <item>Groupers, http://www.whatsthatfish.com/browse/tags/limit/Groupers, 8, 822</item>
+        <item>Grunts, http://www.whatsthatfish.com/browse/tags/limit/Grunters, 8, 823</item>
+        <item>Hamlets, http://www.whatsthatfish.com/search?q=Hamlets, 8, 824</item>
+        <item>Hawkfish, http://www.whatsthatfish.com/browse/tags/limit/Hawkfishes, 8, 825</item>
+        <item>Hogfish, http://www.whatsthatfish.com/search?q=Bodianus, 8, 826</item>
+        <item>Jacks, http://www.whatsthatfish.com/browse/tags/limit/Jacks, 8, 827</item>
+        <item>Jawfish, http://www.whatsthatfish.com/browse/tags/limit/Jawfishes, 8, 828</item>
+        <item>Lionfish, http://www.whatsthatfish.com/browse/tags/limit/Lionfishes, 8, 829</item>
+        <item>Parrotfish, http://www.whatsthatfish.com/browse/tags/limit/Parrotfishes, 8, 830</item>
+        <item>Pipefish, http://www.whatsthatfish.com/browse/tags/limit/Pipefishes, 8, 831</item>
+        <item>Rabbitfish, http://www.whatsthatfish.com/browse/tags/limit/Rabbitfishes, 8, 832</item>
+        <item>Scorpionfish, http://www.whatsthatfish.com/browse/tags/limit/Scorpionfishes, 8, 833</item>
+        <item>Seahorses, http://www.whatsthatfish.com/browse/tags/limit/Seahorses, 8, 834</item>
+        <item>Sharks, http://www.whatsthatfish.com/browse/tags/limit/Sharks, 8, 835</item>
+        <item>Snappers, http://www.whatsthatfish.com/browse/tags/limit/Snappers, 8, 836</item>
+        <item>Soldierfish, http://www.whatsthatfish.com/browse/tags/limit/Squirrelfishes &amp; Soldierfishes, 8, 837</item>
+        <item>Stingrays, http://www.whatsthatfish.com/browse/tags/limit/Stingrays, 8, 838</item>
+        <item>Tangs, http://www.whatsthatfish.com/browse/tags/limit/Surgeonfishes, 8, 839</item>
+        <item>Tilefish, http://www.whatsthatfish.com/browse/tags/limit/Triggerfishes, 8, 840</item>
+        <item>Triggerfish, http://www.whatsthatfish.com/browse/tags/limit/Triggerfish, 8, 841</item>
+        <item>Wrasses, http://www.whatsthatfish.com/browse/tags/limit/Wrasses, 8, 842</item>
+        <item>All Hydrozoans, , 9, 901</item>
+        <item>All Jellyfish, , 10, 1001</item>
+        <item>All Mammals, , 11, 1101</item>
+        <item>All Nudibranchs, http://seaslugsofhawaii.com/, 12, 1201</item>
+        <item>All Sponges, , 13, 1301</item>
+        <item>All Starfish, , 14, 1401</item>
+        <item>All Turtles, , 15, 1501</item>
+        <item>All Worms, , 16, 1601</item>
+    </string-array>
+
+    <string-array name="level3_critters">
+        <item>Australian giant cuttlefish, 4, 401</item>
+        <item>Bigfin reef squid, 4, 401</item>
+        <item>Broadclub cuttlefish, 4, 401</item>
+        <item>Fijian octopus, 4, 401</item>
+        <item>Lont-armed octopus, 4, 401</item>
+        <item>Nautilus, 4, 401</item>
+        <item>Octopus (Common reef), 4, 401</item>
+        <item>Reef cuttlefish, 4, 401</item>
+        <item>Banded eel, 7, 701</item>
+        <item>Banded snake eel, 7, 701</item>
+        <item>Black edge moray eel, 7, 701</item>
+        <item>Blue ribbon eel, 7, 701</item>
+        <item>Carpet eel-blenny, 7, 701</item>
+        <item>Chainlink moray eel, 7, 701</item>
+        <item>Dragon moray eel, 7, 701</item>
+        <item>Garden eel, 7, 701</item>
+        <item>Golden dwarf eel, 7, 701</item>
+        <item>Golden moray eel, 7, 701</item>
+        <item>Green moray eel, 7, 701</item>
+        <item>Jeweled moray eel, 7, 701</item>
+        <item>Kidako moray eel, 7, 701</item>
+        <item>Peppered moray, 7, 701</item>
+        <item>Snowflake eel, 7, 701</item>
+        <item>Spotted Snake eel, 7, 701</item>
+        <item>Tessalata eel, 7, 701</item>
+        <item>Whitemouth moray eel, 7, 701</item>
+        <item>Yellow mouth moray eel, 7, 701</item>
+        <item>Yellowhead moray eel, 7, 701</item>
+        <item>Zebra moray, 7, 701</item>
+        <item>Cinnamon anemonefish, 8, 801</item>
+        <item>Clarkii anemonefish, 8, 801</item>
+        <item>Maroon clownfish, 8, 801</item>
+        <item>Ocellaris, 8, 801</item>
+        <item>Pink skunk anemonefish, 8, 801</item>
+        <item>Saddleback anemonefish, 8, 801</item>
+        <item>Sebae anemonefish, 8, 801</item>
+        <item>Tomato clownfish, 8, 801</item>
+        <item>True Percula, 8, 801</item>
+        <item>Barred angelfish, 8, 802</item>
+        <item>Bicolor angelfish, 8, 802</item>
+        <item>Brazilian flameback angelfish, 8, 802</item>
+        <item>Cherubfish or Pygmy angelfish, 8, 802</item>
+        <item>Coral beauty angelfish, 8, 802</item>
+        <item>Eibli angelfish, 8, 802</item>
+        <item>Flame angelfish, 8, 802</item>
+        <item>Half-black angelfish, 8, 802</item>
+        <item>Herald\'s angelfish, 8, 802</item>
+        <item>Keyhole angelfish, 8, 802</item>
+        <item>Lemonpeel angelfish, 8, 802</item>
+        <item>Multicolor angelfish, 8, 802</item>
+        <item>Orange-back angelfish, 8, 802</item>
+        <item>Pacific pygmy angelfish, 8, 802</item>
+        <item>Potter\'s angelfish, 8, 802</item>
+        <item>Rusty angelfish, 8, 802</item>
+        <item>Venustus angelfish, 8, 802</item>
+        <item> Queensland yellowtail angelfish, 8, 803</item>
+        <item>Arabian angelfish, 8, 803</item>
+        <item>Bellus angelfish, 8, 803</item>
+        <item>Blue angelfish, 8, 803</item>
+        <item>Blue ring angelfish, 8, 803</item>
+        <item>Blueface angelfish, 8, 803</item>
+        <item>Bluespotted angelfish, 8, 803</item>
+        <item>Cortez angelfish, 8, 803</item>
+        <item>Emperor angelfish, 8, 803</item>
+        <item>French angelfish, 8, 803</item>
+        <item>Gray angelfish, 8, 803</item>
+        <item>Griffis angelfish, 8, 803</item>
+        <item>Half-moon angelfish, 8, 803</item>
+        <item>Japanese swallow angelfish, 8, 803</item>
+        <item>King angelfish, 8, 803</item>
+        <item>Koran angelfish, 8, 803</item>
+        <item>Majestic angelfish, 8, 803</item>
+        <item>Queen angelfish, 8, 803</item>
+        <item>Rock beauty, 8, 803</item>
+        <item>Royal angelfish, 8, 803</item>
+        <item>Scribbled angelfish, 8, 803</item>
+        <item>Yellowtail angelfish, 8, 803</item>
+        <item>Bartlett\'s anthias, 8, 804</item>
+        <item>Bicolor anthias, 8, 804</item>
+        <item>Cooper\'s anthias, 8, 804</item>
+        <item>Diadem anthias, 8, 804</item>
+        <item>Lyretail anthias, 8, 804</item>
+        <item>Orangehead anthias, 8, 804</item>
+        <item>Redbar anthias, 8, 804</item>
+        <item>Squareback anthias, 8, 804</item>
+        <item>Stocky anthias, 8, 804</item>
+        <item>Threadfin anthias, 8, 804</item>
+        <item>Black cap gramma, 8, 805</item>
+        <item>Blue assesor, 8, 805</item>
+        <item>Brazilian gramma, 8, 805</item>
+        <item>Royal gramma, 8, 805</item>
+        <item>Yellow assessor, 8, 805</item>
+        <item>Dusky batfish, 8, 806</item>
+        <item>Orbiculate batfish, 8, 806</item>
+        <item>Teira batfish, 8, 806</item>
+        <item>Bicolor blenny, 8, 807</item>
+        <item>Black combtooth blenny, 8, 807</item>
+        <item>Black sailfin blenny, 8, 807</item>
+        <item>Blackline fang blenny, 8, 807</item>
+        <item>Blue  &amp;  gold blenny, 8, 807</item>
+        <item>Bundoon blenny, 8, 807</item>
+        <item>Canary fang blenny, 8, 807</item>
+        <item>Convict blenny, 8, 807</item>
+        <item>Diamond blenny, 8, 807</item>
+        <item>Ember blenny, 8, 807</item>
+        <item>Lawnmower blenny, 8, 807</item>
+        <item>Linear blenny, 8, 807</item>
+        <item>Midas blenny, 8, 807</item>
+        <item>Molly Miller blenny, 8, 807</item>
+        <item>One spot blenny, 8, 807</item>
+        <item>Red lip blenny, 8, 807</item>
+        <item>Red Sea mimic blenny, 8, 807</item>
+        <item>Sailfin blenny, 8, 807</item>
+        <item>Segmented sailfin blenny, 8, 807</item>
+        <item>Spinyhead blenny, 8, 807</item>
+        <item>Starry blenny, 8, 807</item>
+        <item>Striped blenny, 8, 807</item>
+        <item>Tail spot blenny, 8, 807</item>
+        <item>Two-spot blenny, 8, 807</item>
+        <item>Dogface pufferfish, 8, 808</item>
+        <item>Golden puffer, 8, 808</item>
+        <item>Hawaiian blue puffer, 8, 808</item>
+        <item>Hawaiian saddle puffer, 8, 808</item>
+        <item>Hawaiian spotted puffer, 8, 808</item>
+        <item>Helmet cowfish, 8, 808</item>
+        <item>Immaculate puffer, 8, 808</item>
+        <item>Longhorn cowfish, 8, 808</item>
+        <item>Map puffer, 8, 808</item>
+        <item>Porcupine pufferfish, 8, 808</item>
+        <item>Scribbled boxfish, 8, 808</item>
+        <item>Sharpnose pufferfish, 8, 808</item>
+        <item>Spotfin porcupinefish, 8, 808</item>
+        <item>Star puffer, 8, 808</item>
+        <item>Stars &amp; stripes puffer, 8, 808</item>
+        <item>Striped dogface puffer, 8, 808</item>
+        <item>Valentini pufferfish, 8, 808</item>
+        <item>Whitebelly puffer, 8, 808</item>
+        <item>Yellow boxfish, 8, 808</item>
+        <item>Banded butterflyfish, 8, 809</item>
+        <item>Copperbanded butterflyfish, 8, 809</item>
+        <item>Four-eyed butterflyfish, 8, 809</item>
+        <item>Latticed butterflyfish, 8, 809</item>
+        <item>Longnose butterflyfish, 8, 809</item>
+        <item>Masked butterflyfish, 8, 809</item>
+        <item>Merten\'s butterflyfish, 8, 809</item>
+        <item>Pacific double saddle butterflyfish, 8, 809</item>
+        <item>Pyramid butterflyfish, 8, 809</item>
+        <item>Raccoon butterflyfish, 8, 809</item>
+        <item>Redback butterflyfish, 8, 809</item>
+        <item>Reef butterflyfish, 8, 809</item>
+        <item>Saddleback butterflyfish, 8, 809</item>
+        <item>Schooling bannerfish, 8, 809</item>
+        <item>Sickle butterflyfish, 8, 809</item>
+        <item>Spot butterflyfish, 8, 809</item>
+        <item>Teardrop butterflyfish, 8, 809</item>
+        <item>Threadfin butterflyfish, 8, 809</item>
+        <item>Tinker\'s butterflyfish, 8, 809</item>
+        <item>Banggai cardinal, 8, 810</item>
+        <item>Blackstripe cardinalfish, 8, 810</item>
+        <item>Bluebarred cardinalfish, 8, 810</item>
+        <item>Bluestreak cardinalfish, 8, 810</item>
+        <item>Flamefish, 8, 810</item>
+        <item>Fragile cardinalfish, 8, 810</item>
+        <item>Frostfin cardinalfish, 8, 810</item>
+        <item>Gilbert\'s cardinalfish, 8, 810</item>
+        <item>Girdled cardinalfish, 8, 810</item>
+        <item>Ochre-striped cardinalfish, 8, 810</item>
+        <item>Orange-striped cardinalfish, 8, 810</item>
+        <item>Orbic cardinalfish, 8, 810</item>
+        <item>Pajama cardinalfish, 8, 810</item>
+        <item>Ringtailed cardinalfish, 8, 810</item>
+        <item>Ambon chromis, 8, 811</item>
+        <item>Barrier reef chromis, 8, 811</item>
+        <item>Black &amp; gold chromis, 8, 811</item>
+        <item>Black bar chromis, 8, 811</item>
+        <item>Black-axil chromis, 8, 811</item>
+        <item>Blue chromis, 8, 811</item>
+        <item>Damselfish, 8, 811</item>
+        <item>Green chromis, 8, 811</item>
+        <item>Half &amp; half chromis, 8, 811</item>
+        <item>Limbaughi chromis, 8, 811</item>
+        <item>Lined chromis, 8, 811</item>
+        <item>Paletail chromis, 8, 811</item>
+        <item>Spiny chromis, 8, 811</item>
+        <item>Sunshine chromis, 8, 811</item>
+        <item>Yellowspotted chromis, 8, 811</item>
+        <item>Ambon damsel, 8, 812</item>
+        <item>Azure damsel, 8, 812</item>
+        <item>Black &amp; gold damsel, 8, 812</item>
+        <item>Blackmargined damsel, 8, 812</item>
+        <item>Blue &amp; gold damsel, 8, 812</item>
+        <item>Blue damsel, 8, 812</item>
+        <item>Blue velvet damsel, 8, 812</item>
+        <item>Blueback damsel, 8, 812</item>
+        <item>Bluefin damsel, 8, 812</item>
+        <item>Blueline demoiselle, 8, 812</item>
+        <item>Caerulean damsel, 8, 812</item>
+        <item>Canary deep water damsel, 8, 812</item>
+        <item>Cloudy damsel, 8, 812</item>
+        <item>Cross\' damsel, 8, 812</item>
+        <item>Domino damsel, 8, 812</item>
+        <item>Fiji blue devil damsel, 8, 812</item>
+        <item>Four stripe damsel, 8, 812</item>
+        <item>Garibaldi damsel, 8, 812</item>
+        <item>Hawaiian Dascyllus, 8, 812</item>
+        <item>Honey head damsel, 8, 812</item>
+        <item>Jewel damsel, 8, 812</item>
+        <item>King demoiselle, 8, 812</item>
+        <item>Lemon damsel, 8, 812</item>
+        <item>Longfin gregory, 8, 812</item>
+        <item>Marginated damsel, 8, 812</item>
+        <item>Neon damsel, 8, 812</item>
+        <item>Ocellate damsel, 8, 812</item>
+        <item>Pavo damsel, 8, 812</item>
+        <item>Pink Smith damsel, 8, 812</item>
+        <item>Rolland\'s demoiselle, 8, 812</item>
+        <item>Sergeant major damsel, 8, 812</item>
+        <item>Speckled damsel, 8, 812</item>
+        <item>Springer\'s damsel, 8, 812</item>
+        <item>Stark\'s damsel, 8, 812</item>
+        <item>Talbots damsel, 8, 812</item>
+        <item>Three Spot damsel, 8, 812</item>
+        <item>Three stripe damsel, 8, 812</item>
+        <item>Tuxedo damsel, 8, 812</item>
+        <item>Two stripe damsel, 8, 812</item>
+        <item>Yellow damsel, 8, 812</item>
+        <item>Yellow threespot Dascyllus, 8, 812</item>
+        <item>Yellowbelly damsel, 8, 812</item>
+        <item>Yellowtail damsel, 8, 812</item>
+        <item>Yellowtail Dascyllus, 8, 812</item>
+        <item>Yellowtail demoiselle, 8, 812</item>
+        <item>Blue gudgeon dartfish, 8, 813</item>
+        <item>Fire fish, 8, 813</item>
+        <item>Purple fire fish, 8, 813</item>
+        <item>Scissortail dartfish, 8, 813</item>
+        <item>Zebra barred dartfish, 8, 813</item>
+        <item>Allen\'s dottyback, 8, 814</item>
+        <item>Australian multicolor pseudochromis, 8, 814</item>
+        <item>Bicolor pseudochromis, 8, 814</item>
+        <item>Blue flavivertex pseudochromis, 8, 814</item>
+        <item>Bluelined dottyback, 8, 814</item>
+        <item>Cherry dottyback, 8, 814</item>
+        <item>Dilectus dottyback, 8, 814</item>
+        <item>Dusky dottyback, 8, 814</item>
+        <item>Elongate dottyback, 8, 814</item>
+        <item>Firetail dottyback, 8, 814</item>
+        <item>Longfin dottyback, 8, 814</item>
+        <item>Lyretail dottyback, 8, 814</item>
+        <item>Neon dottyback, 8, 814</item>
+        <item>Oblique-lined dottyback, 8, 814</item>
+        <item>Orangetail dottyback, 8, 814</item>
+        <item>Orchid dottyback, 8, 814</item>
+        <item>Purple stripe pseudochromis, 8, 814</item>
+        <item>Red dottyback, 8, 814</item>
+        <item>Sailfin pseudochromis, 8, 814</item>
+        <item>Splendid pseudochromis, 8, 814</item>
+        <item>Springeri pseudochromis, 8, 814</item>
+        <item>Strawberry pseudochromis, 8, 814</item>
+        <item>Striped dottyback, 8, 814</item>
+        <item>Twolined dottyback, 8, 814</item>
+        <item>Yellow pseudochromis, 8, 814</item>
+        <item>Mandarinfish, 8, 815</item>
+        <item>Ocellated Dragonet, 8, 815</item>
+        <item>Spotted mandarin, 8, 815</item>
+        <item>Starry Dragonet, 8, 815</item>
+        <item>Clown filefish, 8, 817</item>
+        <item>Colored filefish, 8, 817</item>
+        <item>Fantail orange filefish, 8, 817</item>
+        <item>Horseshoe filefish, 8, 817</item>
+        <item>Japanese filefish, 8, 817</item>
+        <item>Mimic filefish, 8, 817</item>
+        <item>Orangespotted filefish, 8, 817</item>
+        <item>Tassle filefish, 8, 817</item>
+        <item>Banded sole, 8, 818</item>
+        <item>Flowery (Indo-Pacific peacock) flounder, 8, 818</item>
+        <item>Peacock flounder, 8, 818</item>
+        <item>Giant anglerfish, 8, 819</item>
+        <item>Longlure frogfish, 8, 819</item>
+        <item>Sargassum frogfish, 8, 819</item>
+        <item>Striated frogfish, 8, 819</item>
+        <item>Wartskin frogfish, 8, 819</item>
+        <item>Bandtail goatfish, 8, 820</item>
+        <item>Bicolor goatfish, 8, 820</item>
+        <item>Goldsaddle goatfish, 8, 820</item>
+        <item>Manybar goatfish, 8, 820</item>
+        <item>Manybar goatfish, 8, 820</item>
+        <item>Yellow back goatfish, 8, 820</item>
+        <item>Black barred convict goby, 8, 821</item>
+        <item>Black clown goby, 8, 821</item>
+        <item>Bluespotted watchman goby, 8, 821</item>
+        <item>Catalina goby, 8, 821</item>
+        <item>Cave transparent goby, 8, 821</item>
+        <item>Citron clown goby, 8, 821</item>
+        <item>Coral goby, 8, 821</item>
+        <item>Court jester goby, 8, 821</item>
+        <item>Diagonal bar prawn goby, 8, 821</item>
+        <item>Diamond watchman goby, 8, 821</item>
+        <item>Dracula goby, 8, 821</item>
+        <item>Engineer goby, 8, 821</item>
+        <item>Gold neon eviota goby, 8, 821</item>
+        <item>Green banded goby, 8, 821</item>
+        <item>Green clown goby, 8, 821</item>
+        <item>Hector\'s goby, 8, 821</item>
+        <item>Hi fin red banded goby, 8, 821</item>
+        <item>Neon goby, 8, 821</item>
+        <item>Orange marked goby, 8, 821</item>
+        <item>Orange spotted goby, 8, 821</item>
+        <item>Orange stripe prawn goby, 8, 821</item>
+        <item>Pinkbar goby, 8, 821</item>
+        <item>Pinkspotted shrimp goby, 8, 821</item>
+        <item>Red head goby, 8, 821</item>
+        <item>Red striped goby, 8, 821</item>
+        <item>Sleeper banded goby, 8, 821</item>
+        <item>Sleeper blue dot goby, 8, 821</item>
+        <item>Sleeper gold head goby, 8, 821</item>
+        <item>Sleeper railway glider goby, 8, 821</item>
+        <item>Sleeper striped goby, 8, 821</item>
+        <item>Steinitz goby, 8, 821</item>
+        <item>Tangaroa goby, 8, 821</item>
+        <item>Tiger watchman goby, 8, 821</item>
+        <item>Two spot goby, 8, 821</item>
+        <item>Violet goby, 8, 821</item>
+        <item>Wheeler\'s watchman goby, 8, 821</item>
+        <item>Yasha goby, 8, 821</item>
+        <item>Yellow clown goby, 8, 821</item>
+        <item>Yellow priolepis goby, 8, 821</item>
+        <item>Yellow stripe clingfish, 8, 821</item>
+        <item>Yellow watchman goby, 8, 821</item>
+        <item>African grouper, 8, 822</item>
+        <item>Blacktip grouper, 8, 822</item>
+        <item>Blue &amp; Yellow grouper, 8, 822</item>
+        <item>Blue dot grouper, 8, 822</item>
+        <item>Blue line grouper, 8, 822</item>
+        <item>Chalk bass, 8, 822</item>
+        <item>Coney grouper, 8, 822</item>
+        <item>Golden grouper, 8, 822</item>
+        <item>Golden stripe soapfish, 8, 822</item>
+        <item>Harlequin bass, 8, 822</item>
+        <item>Leaflip grouper, 8, 822</item>
+        <item>Lyretail grouper, 8, 822</item>
+        <item>Marine beta, 8, 822</item>
+        <item>Miniatus grouper or Vermillion seabass, 8, 822</item>
+        <item>Orange spot grouper, 8, 822</item>
+        <item>Painted comber, 8, 822</item>
+        <item>Panther grouper, 8, 822</item>
+        <item>Polleni grouper, 8, 822</item>
+        <item>Red flag grouper, 8, 822</item>
+        <item>Saddle grouper, 8, 822</item>
+        <item>Spotted grouper, 8, 822</item>
+        <item>Strawberry grouper, 8, 822</item>
+        <item>V tail grouper, 8, 822</item>
+        <item>Vermillion seabass, 8, 822</item>
+        <item>Crescent banded grunt, 8, 823</item>
+        <item>Dogfish prientalis, 8, 823</item>
+        <item>Oriental sweetlips, 8, 823</item>
+        <item>Painted sweetlips, 8, 823</item>
+        <item>Porkfish, 8, 823</item>
+        <item>Spotted sweetlips, 8, 823</item>
+        <item>Striped sweetlips, 8, 823</item>
+        <item>Twostriped sweetlips, 8, 823</item>
+        <item>Barred hamlet, 8, 824</item>
+        <item>Black hamlet, 8, 824</item>
+        <item>Blue hamlet, 8, 824</item>
+        <item>Butter hamlet, 8, 824</item>
+        <item>Golden hamlet, 8, 824</item>
+        <item>Indigo hamlet, 8, 824</item>
+        <item>Shy hamlet, 8, 824</item>
+        <item>Arc eye hawkfish, 8, 825</item>
+        <item>Blood red hawkfish, 8, 825</item>
+        <item>Coral hawkfish, 8, 825</item>
+        <item>Falco\'s hawkfish, 8, 825</item>
+        <item>Flame hawkfish, 8, 825</item>
+        <item>Freckled hawkfish, 8, 825</item>
+        <item>Golden hawkfish, 8, 825</item>
+        <item>Longnose hawkfish, 8, 825</item>
+        <item>Lyretail hawkfish, 8, 825</item>
+        <item>Redspotted hawkfish, 8, 825</item>
+        <item>Spotted hawkfish, 8, 825</item>
+        <item>Whitespot hawkfish, 8, 825</item>
+        <item>Yellow hawkfish, 8, 825</item>
+        <item>Coral hogfish, 8, 826</item>
+        <item>Cuban hogfish, 8, 826</item>
+        <item>Hawaiian hogfish, 8, 826</item>
+        <item>Red diana hogfish, 8, 826</item>
+        <item>Spanish hogfish, 8, 826</item>
+        <item>Twin spot hogfish, 8, 826</item>
+        <item>Golden pilotfish, 8, 827</item>
+        <item>Indian threadfin, 8, 827</item>
+        <item>Threadfin lookdown, 8, 827</item>
+        <item>Black cap jawfish, 8, 828</item>
+        <item>Blue dot jawfish, 8, 828</item>
+        <item>Dusky jawfish, 8, 828</item>
+        <item>Yellowhead jawfish, 8, 828</item>
+        <item>Antenneta lionfish, 8, 829</item>
+        <item>Blackfoot lionfish, 8, 829</item>
+        <item>Devil lionfish, 8, 829</item>
+        <item>Fu Man Chu lionfish, 8, 829</item>
+        <item>Fuzzy dwarf lionfish, 8, 829</item>
+        <item>Green lionfish, 8, 829</item>
+        <item>Radiata lionfish, 8, 829</item>
+        <item>Russell\'s lionfish, 8, 829</item>
+        <item>Volitan lionfish, 8, 829</item>
+        <item>Zebra lionfish, 8, 829</item>
+        <item>Bicolor parrotfish, 8, 830</item>
+        <item>Princess parrotfish, 8, 830</item>
+        <item>Redlip Parrotfish, 8, 830</item>
+        <item>Banded pipefish, 8, 831</item>
+        <item>Dragonface pipefish, 8, 831</item>
+        <item>Janss\' pipefish, 8, 831</item>
+        <item>Yellow multibanded pipefish, 8, 831</item>
+        <item>Bicolor Foxface, 8, 832</item>
+        <item>Blue-Lined Rabbitfish, 8, 832</item>
+        <item>Foxface, 8, 832</item>
+        <item>Magnificent foxface, 8, 832</item>
+        <item>One Spot Foxface, 8, 832</item>
+        <item>Yellow Blotch Rabbitfish, 8, 832</item>
+        <item>Ambon scorpionfish, 8, 833</item>
+        <item>Decoy scorpionfish, 8, 833</item>
+        <item>Devil scorpionfish, 8, 833</item>
+        <item>Eschmeyer\'s scorpionfish, 8, 833</item>
+        <item>Flasher scorpionfish, 8, 833</item>
+        <item>Lacey scorpionfish, 8, 833</item>
+        <item>Leaf scorpionfish, 8, 833</item>
+        <item>Mozambique scorpionfish, 8, 833</item>
+        <item>Papuan scorpionfish, 8, 833</item>
+        <item>Poss\'s scorpionfish, 8, 833</item>
+        <item>Rogue scorpion, 8, 833</item>
+        <item>Sea goblin, 8, 833</item>
+        <item>Stone fish, 8, 833</item>
+        <item>Weedy scorpionfish, 8, 833</item>
+        <item>Yellowspotted scorpionfish, 8, 833</item>
+        <item>Brazilian seahorse, 8, 834</item>
+        <item>Dwarf Seahorse, 8, 834</item>
+        <item>Great seahorse, 8, 834</item>
+        <item>Lined Seahorse, 8, 834</item>
+        <item>Pygmy seahorse, 8, 834</item>
+        <item>Short-snouted seahorse, 8, 834</item>
+        <item>Spotted seahorse, 8, 834</item>
+        <item>Thorny Seahorse, 8, 834</item>
+        <item>Tiger tail seahorse, 8, 834</item>
+        <item>White\'s Seahorse, 8, 834</item>
+        <item>Black banded cat shark, 8, 835</item>
+        <item>Blacktip reef shark, 8, 835</item>
+        <item>Coral cat shark, 8, 835</item>
+        <item>Epaulette shark, 8, 835</item>
+        <item>Great white shark, 8, 835</item>
+        <item>Hammerhead shark, 8, 835</item>
+        <item>Northern wobbegong shark, 8, 835</item>
+        <item>Nurse shark, 8, 835</item>
+        <item>Ornate wobbegong shark, 8, 835</item>
+        <item>Port Jackson shark, 8, 835</item>
+        <item>Spotted wobbegong shark, 8, 835</item>
+        <item>Whitespotted bamboo shark, 8, 835</item>
+        <item>Whitetip reef shark, 8, 835</item>
+        <item>Black &amp; white snapper, 8, 836</item>
+        <item>Emperor snapper, 8, 836</item>
+        <item>Threadfin snapper, 8, 836</item>
+        <item>Yellow-Banded Snapper, 8, 836</item>
+        <item>Yellowback fusilier, 8, 836</item>
+        <item>Big eye soldierfish, 8, 837</item>
+        <item>Blackbar soldierfish, 8, 837</item>
+        <item>Epaulette soldierfish, 8, 837</item>
+        <item>Glass eye squirrelfish, 8, 837</item>
+        <item>Popeye catalufa soldierfish, 8, 837</item>
+        <item>Scarlet squirrelfish, 8, 837</item>
+        <item>Squirrel fish, 8, 837</item>
+        <item>Striped squirrelfish, 8, 837</item>
+        <item>Fiddler stingray, 8, 838</item>
+        <item>Round stingray, 8, 838</item>
+        <item>Spotted caribbean stingray, 8, 838</item>
+        <item>Spotted eagle ray, 8, 838</item>
+        <item>Thornback stingray, 8, 838</item>
+        <item>Achilles tang, 8, 839</item>
+        <item>Atlantic blue tang, 8, 839</item>
+        <item>Blonde naso tang, 8, 839</item>
+        <item>Blue eyed tang, 8, 839</item>
+        <item>Bristletooth tang, 8, 839</item>
+        <item>Chevron tang, 8, 839</item>
+        <item>Clown tang, 8, 839</item>
+        <item>Convict tang, 8, 839</item>
+        <item>Desjardini tang, 8, 839</item>
+        <item>Doctorfish, 8, 839</item>
+        <item>Dussumieri tang, 8, 839</item>
+        <item>Eibli mimic tang, 8, 839</item>
+        <item>Gold rim tang, 8, 839</item>
+        <item>Kole tang, 8, 839</item>
+        <item>Lavender tang, 8, 839</item>
+        <item>Lopezi tang, 8, 839</item>
+        <item>Mimic tang, 8, 839</item>
+        <item>Orange shoulder tang, 8, 839</item>
+        <item>Orangespine surgeonfish, 8, 839</item>
+        <item>Powder blue tang, 8, 839</item>
+        <item>Powder brown tang, 8, 839</item>
+        <item>Purple tang, 8, 839</item>
+        <item>Regal / Hippo tang, 8, 839</item>
+        <item>Sailfin tang, 8, 839</item>
+        <item>Scopas tang, 8, 839</item>
+        <item>Sohal tang, 8, 839</item>
+        <item>Tennent tang, 8, 839</item>
+        <item>Thompson\'s surgeonfish, 8, 839</item>
+        <item>Tomini tang, 8, 839</item>
+        <item>Unicorn surgeonfish, 8, 839</item>
+        <item>Unicorn tang, 8, 839</item>
+        <item>Vlamingi tang, 8, 839</item>
+        <item>Yellow tang, 8, 839</item>
+        <item>Yellowfin surgeon, 8, 839</item>
+        <item>Blue-headed tilefish, 8, 840</item>
+        <item>Purple tilefish, 8, 840</item>
+        <item>Redlined tilefish, 8, 840</item>
+        <item>Yellow tilefish, 8, 840</item>
+        <item>Assasi trigger, 8, 841</item>
+        <item>Blue jaw trigger, 8, 841</item>
+        <item>Blue line trigger, 8, 841</item>
+        <item>Bursa trigger, 8, 841</item>
+        <item>Clown trigger, 8, 841</item>
+        <item>Crosshatch trigger, 8, 841</item>
+        <item>Golden heart trigger, 8, 841</item>
+        <item>Goldenback trigger, 8, 841</item>
+        <item>Guilded triggerfish, 8, 841</item>
+        <item>Halfmoon trigger, 8, 841</item>
+        <item>Hawaiian black trigger, 8, 841</item>
+        <item>Huma Huma (Reef triggerfish), 8, 841</item>
+        <item>Indian black trigger, 8, 841</item>
+        <item>Lei trigger, 8, 841</item>
+        <item>Lie triggerfish, 8, 841</item>
+        <item>Niger trigger, 8, 841</item>
+        <item>Picasso trigger, 8, 841</item>
+        <item>Pinktail trigger, 8, 841</item>
+        <item>Queen trigger, 8, 841</item>
+        <item>Rectangular trigger, 8, 841</item>
+        <item>Sargassum trigger, 8, 841</item>
+        <item>Starry trigger, 8, 841</item>
+        <item>Titan trigger, 8, 841</item>
+        <item>Undulated trigger, 8, 841</item>
+        <item>Whitetail trigger, 8, 841</item>
+        <item>Banana wrasse, 8, 842</item>
+        <item>Bird wrasse, 8, 842</item>
+        <item>Bluehead fairy wrasse, 8, 842</item>
+        <item>Bluehead wrasse, 8, 842</item>
+        <item>Carpenter\'s flasher wrasse, 8, 842</item>
+        <item>Cheeklined maori wrasse, 8, 842</item>
+        <item>Christmas wrasse, 8, 842</item>
+        <item>Cortez Rainbow wrasse, 8, 842</item>
+        <item>Disappearing wrasse, 8, 842</item>
+        <item>Dragon wrasse, 8, 842</item>
+        <item>Eight line wrasse, 8, 842</item>
+        <item>Exquisite fairy wrasse, 8, 842</item>
+        <item>Fine-spotted fairy wrasse, 8, 842</item>
+        <item>Flame wrasse, 8, 842</item>
+        <item>Formosa wrasse, 8, 842</item>
+        <item>Four line wrasse, 8, 842</item>
+        <item>Goldbar wrasse, 8, 842</item>
+        <item>Greenback fairy wrasse, 8, 842</item>
+        <item>Hawaiian cleaner wrasse, 8, 842</item>
+        <item>Hoeven\'s wrasse, 8, 842</item>
+        <item>Jansen saddle wrasse, 8, 842</item>
+        <item>Labout\'s fairy wrasse, 8, 842</item>
+        <item>Leopard wrasse, 8, 842</item>
+        <item>Lineatus fairy wrasse, 8, 842</item>
+        <item>Longfin fairy wrasse, 8, 842</item>
+        <item>Lyretail wrasse/Moon wrasse, 8, 842</item>
+        <item>Marble wrasse, 8, 842</item>
+        <item>McCosker\'s flasher wrasse, 8, 842</item>
+        <item>Multicolor lubbock\'s wrasse, 8, 842</item>
+        <item>Multicolor velvet wrasse, 8, 842</item>
+        <item>Mystery wrasse, 8, 842</item>
+        <item>Napolean Wrasse, 8, 842</item>
+        <item>Orange-back fairy wrasse, 8, 842</item>
+        <item>Ornate wrasse, 8, 842</item>
+        <item>Pastel-green wrasse, 8, 842</item>
+        <item>Pinkface wrasse, 8, 842</item>
+        <item>Potter\'s wrasse, 8, 842</item>
+        <item>Radiant wrasse, 8, 842</item>
+        <item>Red coris wrasse, 8, 842</item>
+        <item>Red velvet wrasse, 8, 842</item>
+        <item>Red-head fairy wrasse, 8, 842</item>
+        <item>Rhomboid fairy wrasse, 8, 842</item>
+        <item>Saddle wrasse, 8, 842</item>
+        <item>Scarlet pin stripe wrasse, 8, 842</item>
+        <item>Six line wrasse, 8, 842</item>
+        <item>Smalltail wrasse, 8, 842</item>
+        <item>Whip fin fairy wrasse, 8, 842</item>
+        <item>Yellow  &amp;  purple wrasse, 8, 842</item>
+        <item>Yellow fin fairy wrasse, 8, 842</item>
+        <item>Yellow wrasse, 8, 842</item>
+        <item>Yellow-flanked fairy wrasse, 8, 842</item>
+        <item>Yellowband wrasse, 8, 842</item>
+        <item>Aplysia argus - intertidal, 12, 1201</item>
+        <item>Ardeadoris aff. averni, 12, 1201</item>
+        <item>Chromodoris elisabethina, 12, 1201</item>
+        <item>Chromodoris kuiteri, 12, 1201</item>
+        <item>Chromodoris splendida, 12, 1201</item>
+        <item>Doriprismatica atromarginata, 12, 1201</item>
+        <item>Glossodoris vespa, 12, 1201</item>
+        <item>Hypselodoris jacksoni, 12, 1201</item>
+        <item>Hypselodoris obscura, 12, 1201</item>
+        <item>Phyllidia ocellata, 12, 1201</item>
+        <item>Phyllidiella lizae, 12, 1201</item>
+        <item>Phyllidiella pustulosa, 12, 1201</item>
+        <item>Pteraeolidia ianthina, 12, 1201</item>
+        <item>Sagaminopteron ornatum, 12, 1201</item>
+        <item>Spanish dancer, 12, 1201</item>
+        <item>Thuridilla splendens, 12, 1201</item>
+        <item>Jewel anemone, 5, 501</item>
+        <item>Knobbly mushroom coral, 5, 501</item>
+        <item>Mushroom coral, 5, 501</item>
+        <item>Strawberry anemone, 5, 501</item>
+        <item>Fire coral, 5, 502</item>
+        <item>Lace coral, 5, 502</item>
+        <item>Black sun coral, 5, 503</item>
+        <item>Bubble coral, 5, 503</item>
+        <item>Candy cane coral, 5, 503</item>
+        <item>Elegance coral, 5, 503</item>
+        <item>Flowerpot coral, 5, 503</item>
+        <item>Frogspawn coral, 5, 503</item>
+        <item>Hammer coral, 5, 503</item>
+        <item>Lobed brain coral, 5, 503</item>
+        <item>Open brain coral, 5, 503</item>
+        <item>Pineapple brain coral, 5, 503</item>
+        <item>Sun coral, 5, 503</item>
+        <item>Torch coral, 5, 503</item>
+        <item>Tubastrea aurea, 5, 503</item>
+        <item>Whisker coral, 5, 503</item>
+        <item>Cauliflower coral, 5, 504</item>
+        <item>Dimpled encrusting Montipora, 5, 504</item>
+        <item>Finger coral, 5, 504</item>
+        <item>Millepora coral, 5, 504</item>
+        <item>Pink bird\'s nest coral, 5, 504</item>
+        <item>Plating montipora, 5, 504</item>
+        <item>Staghorn coral, 5, 504</item>
+        <item>Cabbage leather coral, 5, 505</item>
+        <item>Clove polyps, 5, 505</item>
+        <item>Finger leather coral, 5, 505</item>
+        <item>Jasmine polyps, 5, 505</item>
+        <item>Pulse coral, 5, 505</item>
+        <item>Red chili coral, 5, 505</item>
+        <item>Spaghetti leather coral, 5, 505</item>
+        <item>Star polyps, 5, 505</item>
+        <item>Button polyps, 5, 506</item>
+        <item>Palythoa, 5, 506</item>
+        <item>Protopalythoa, 5, 506</item>
+        <item>Stick polyps, 5, 506</item>
+    </string-array>
+
+    <string-array name="dive_log_initial_values_nodes">
+        <item>areaInitialValues</item>
+        <item>countryInitialValues</item>
+        <item>currentConditionInitialValues</item>
+        <item>diveEntryInitialValues</item>
+        <item>diveStyleInitialValues</item>
+        <item>diveTankInitialValues</item>
+        <item>diveTypeInitialValues</item>
+        <item>seaConditionInitialValues</item>
+        <item>stateInitialValues</item>
+        <item>weatherConditionInitialValues</item>
+    </string-array>
+
+    <string name="dive_site_areas_default">[Any Area]</string>
+    <string-array name="dive_site_areas">
+        <item>[Any Area]</item>
+        <item>Aitutaki</item>
+        <item>Bay Islands</item>
+        <item>Big Island</item>
+        <item>Caicos</item>
+        <item>Cayman Brac</item>
+        <item>Channel Islands</item>
+        <item>Cozumel</item>
+        <item>Grand Cayman</item>
+        <item>Kauai</item>
+        <item>Key Largo</item>
+        <item>Key West</item>
+        <item>Klein Bonaire</item>
+        <item>Kona</item>
+        <item>Lanai</item>
+        <item>Lighthouse Reef</item>
+        <item>Little Cayman</item>
+        <item>Maui</item>
+        <item>Molokini</item>
+        <item>Monterey</item>
+        <item>Oahu</item>
+        <item>Puget Sound</item>
+        <item>Rarotonga</item>
+        <item>Turks</item>
+    </string-array>
+
+
+    <string name="dive_site_states_default">[Any State]</string>
+    <string-array name="dive_site_states">
+        <item>[Any State]</item>
+        <item>British Columbia</item>
+        <item>California</item>
+        <item>Florida</item>
+        <item>Hawaii</item>
+        <item>North Carolina</item>
+        <item>Oregon</item>
+        <item>Washington</item>
+    </string-array>
+
+    <string name="dive_site_countries_default">[Any Country]</string>
+<string-array name="dive_site_countries">
+            <item>[Any Country]</item>
+            <item>Australia</item>
+            <item>Belize</item>
+            <item>Bonaire</item>
+            <item>Canada</item>
+            <item>Cayman Islands</item>
+            <item>Cook Islands</item>
+            <item>Costa Rica</item>
+            <item>Mexico</item>
+            <item>New Zealand</item>
+            <item>Palau</item>
+            <item>USA</item>
+        </string-array>
+
+    <string name="dive_type_default">[None]</string>
+    <string-array name="dive_types">
+        <item>[None]</item>
+        <item>Open Water</item>
+        <item>Drift</item>
+        <item>Night</item>
+        <item>Wreck</item>
+        <item>Cave</item>
+        <item>Lake</item>
+    </string-array>
+
+    <string name="dive_styles_default">[None]</string>
+    <string-array name="dive_styles">
+        <item>[None]</item>
+        <item>Boat Dive</item>
+        <item>Shore Dive</item>
+        <item>Pool Dive</item>
+    </string-array>
+
+    <string name="dive_entries_default">[None]</string>
+    <string-array name="dive_entries">
+        <item>[None]</item>
+        <item>Giant Stride</item>
+        <item>Back-Roll</item>
+        <item>Shore</item>
+        <item>Stairs</item>
+    </string-array>
+
+
+    <string name="weather_conditions_default">[None]</string>
+    <string-array name="weather_conditions">
+        <item>[None]</item>
+        <item>Sunny</item>
+        <item>Partly Cloudy</item>
+        <item>Overcast</item>
+        <item>Showers</item>
+        <item>Light Rain</item>
+        <item>Heavy Rain</item>
+        <item>Snow</item>
+        <item>Fog</item>
+        <item>Night</item>
+    </string-array>
+
+    <string name="sea_conditions_default">[None]</string>
+    <string-array name="sea_conditions">
+        <item>[None]</item>
+        <item>No waves</item>
+        <item>Small waves</item>
+        <item>Large waves</item>
+    </string-array>
+
+    <string name="current_conditions_default">[None]</string>
+    <string-array name="current_conditions">
+        <item>[None]</item>
+        <item>Nil</item>
+        <item>Mild</item>
+        <item>Medium</item>
+        <item>Strong</item>
+    </string-array>
+
+    <string name="tanks_default">[None]</string>
+    <string-array name="tanks">
+        <item>[None]</item>
+        <item>AL72</item>
+        <item>AL80</item>
+        <item>AL100</item>
+        <item>HP80</item>
+        <item>HP100</item>
+        <item>HP120</item>
+    </string-array>
+
+
+    <string name="dive_sites_default">[No Dive Site]</string>
+    <!--    <string-array name="dive_sites">
+            <item>5 Caves,Maui,Hawaii,USA</item>
+            <item>18 Palms,[Any Area],[Any State],Bonaire</item>
+            <item>Aitutake,[Any Area],[Any State],Cook Islands</item>
+            <item>Alki (snorkel),Puget Sound,Washington,USA</item>
+            <item>Andy\'s Wall,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Angle City,[Any Area],[Any State],Bonaire</item>
+            <item>Annie\'s Place,Lighthouse Reef,[Any State],Belize</item>
+            <item>Aquarium,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Barcadera,[Any Area],[Any State],Bonaire</item>
+            <item>Bari Reef,[Any Area],[Any State],Bonaire</item>
+            <item>Barnum Wall,[Any Area],[Any State],Palau</item>
+            <item>Big Drop-off,[Any Area],[Any State],Palau</item>
+            <item>Black Forest,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Blue Corner,[Any Area],[Any State],Palau</item>
+            <item>Blue Holes - Blue Corner,[Any Area],[Any State],Palau</item>
+            <item>Boyton Beach,[Any Area],Florida,USA</item>
+            <item>Captain Don\'s Reef,Klein Bonaire,[Any State],Bonaire</item>
+            <item>Carib. Sand Chute,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Chandelier Cave,[Any Area],[Any State],Palau</item>
+            <item>Cheeseburger Alley,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Chimney,Lighthouse Reef,[Any State],Belize</item>
+            <item>Christmas Corals,Big Island,Hawaii,USA</item>
+            <item>Cliff,[Any Area],[Any State],Bonaire</item>
+            <item>Dear Valley,Maui,Hawaii,USA</item>
+            <item>Dos Cocos,Lighthouse Reef,[Any State],Belize</item>
+            <item>Driftwood,Big Island,Hawaii,USA</item>
+            <item>E. Long Caye,Lighthouse Reef,[Any State],Belize</item>
+            <item>Eagle Ray Pass,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Fantasy Reef,Big Island,Hawaii,USA</item>
+            <item>First Choice,Lighthouse Reef,[Any State],Belize</item>
+            <item>German Channel,[Any Area],[Any State],Palau</item>
+            <item>Golden Arches,Big Island,Hawaii,USA</item>
+            <item>Halfmoon Caye,Lighthouse Reef,[Any State],Belize</item>
+            <item>Hoodsport (Certification Dive),Puget Sound,Washington,USA</item>
+            <item>Iro Maru Wreck,[Any Area],[Any State],Palau</item>
+            <item>Jellyfish Lake,[Any Area],[Any State],Palau</item>
+            <item>Johnson\'s Wall,Lighthouse Reef,[Any State],Belize</item>
+            <item>K. Critters,Big Island,Hawaii,USA</item>
+            <item>Kona Surf (Manta Ray Dive),Big Island,Hawaii,USA</item>
+            <item>Large Arch (North of pier),Big Island,Hawaii,USA</item>
+            <item>Lava Dome (Red Hill area),Big Island,Hawaii,USA</item>
+            <item>Lighthouse Reef,Lighthouse Reef,[Any State],Belize</item>
+            <item>Long Lava Tube (Red Hill area),Big Island,Hawaii,USA</item>
+            <item>Makaha Caverns,Oahu,Hawaii,USA</item>
+            <item>Marty\'s Reef,Maui,Hawaii,USA</item>
+            <item>MI Dushi,[Any Area],[Any State],Bonaire</item>
+            <item>Mid Reef,Molokini,Hawaii,USA</item>
+            <item>Mile 4 Alii Rd,Big Island,Hawaii,USA</item>
+            <item>Molikini,Molokini,Hawaii,USA</item>
+            <item>Molikini\'s Back Wall,Molokini,Hawaii,USA</item>
+            <item>New Drop Off,[Any Area],[Any State],Palau</item>
+            <item>Ngemelis Wall,[Any Area],[Any State],Palau</item>
+            <item>North of 5 Caves,Maui,Hawaii,USA</item>
+            <item>OroVerde Reef,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Outer Ulong Channel,[Any Area],[Any State],Palau</item>
+            <item>Outhouse,Big Island,Hawaii,USA</item>
+            <item>PPR Reef,[Any Area],[Any State],Palau</item>
+            <item>Puako Beach,Big Island,Hawaii,USA</item>
+            <item>Pu\'u Alai (S. of Little Beach),Maui,Hawaii,USA</item>
+            <item>Rappel,[Any Area],[Any State],Bonaire</item>
+            <item>Reef\'s End,Molokini,Hawaii,USA</item>
+            <item>Royal Palms Ledges,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Sampler,[Any Area],[Any State],Bonaire</item>
+            <item>Shark Rock,Big Island,Hawaii,USA</item>
+            <item>Siae\'s Cornor,[Any Area],[Any State],Palau</item>
+            <item>Siae\'s Tunnel,[Any Area],[Any State],Palau</item>
+            <item>Silver Caves,Lighthouse Reef,[Any State],Belize</item>
+            <item>Small Wall,[Any Area],[Any State],Bonaire</item>
+            <item>South of Kona by airport,Big Island,Hawaii,USA</item>
+            <item>Spiral Lava Tubes (south of Kona),Big Island,Hawaii,USA</item>
+            <item>St. Anthony,Maui,Hawaii,USA</item>
+            <item>Stingray City II,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>The Mahi Boat,Oahu,Hawaii,USA</item>
+            <item>Toilet Bowl (by airport),Big Island,Hawaii,USA</item>
+            <item>Town Pier,[Any Area],[Any State],Bonaire</item>
+            <item>Trinity Caves &amp; Round Rock Cavern,Grand Cayman,[Any State],Cayman Islands</item>
+            <item>Turtle Cove,[Any Area],[Any State],Palau</item>
+            <item>Turtle Heaven (in front of S. Harbor),Big Island,Hawaii,USA</item>
+            <item>Turtle Pinnacles,Big Island,Hawaii,USA</item>
+            <item>Turtle Towers,Big Island,Hawaii,USA</item>
+            <item>Ulong Channel,[Any Area],[Any State],Palau</item>
+            <item>Ulong Wall,[Any Area],[Any State],Palau</item>
+            <item>White River,Oahu,[Any State],Cook Islands</item>
+            <item>Yellow Man,[Any Area],[Any State],Bonaire</item>
+        </string-array>-->
+
+
+</resources>

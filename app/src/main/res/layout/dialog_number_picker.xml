@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="@dimen/activity_vertical_margin">
+
+    <!--android:scaleX="1.25"-->
+    <!--android:scaleY="1.25"-->
+
+    <com.lbconsulting.divelogfirebase.customViews.MyNumberPicker
+        android:id="@+id/np1000s"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:width="@dimen/numberPickerWidth"
+        android:orientation="vertical"         />
+
+    <com.lbconsulting.divelogfirebase.customViews.MyNumberPicker
+        android:id="@+id/np100s"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:width="@dimen/numberPickerWidth"
+        android:orientation="vertical"/>
+
+    <com.lbconsulting.divelogfirebase.customViews.MyNumberPicker
+        android:id="@+id/np10s"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:width="@dimen/numberPickerWidth"
+        android:orientation="vertical"/>
+
+    <com.lbconsulting.divelogfirebase.customViews.MyNumberPicker
+        android:id="@+id/np1s"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:width="@dimen/numberPickerWidth"
+        android:orientation="vertical"/>
+
+    <TextView
+        android:id="@+id/decimalPoint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="."
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <com.lbconsulting.divelogfirebase.customViews.MyNumberPicker
+        android:id="@+id/npTenths"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:width="@dimen/numberPickerWidth"
+        android:orientation="vertical"/>
+
+</LinearLayout>

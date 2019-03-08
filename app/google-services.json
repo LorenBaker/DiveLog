@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "101896160551",
+    "firebase_url": "https://divelog-c7d91.firebaseio.com",
+    "project_id": "divelog-c7d91",
+    "storage_bucket": "divelog-c7d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101896160551:android:2025e1779a707cf0",
+        "android_client_info": {
+          "package_name": "com.lbconsulting.divelogfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101896160551-a1kngj27pi75aljjdprc5k3803cgbmhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHgCd8v3VO9O919zjfsmBxSRzOkAGqno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
